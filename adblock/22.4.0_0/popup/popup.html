@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="popup.css" />
+    <title>uBlock</title>
+  </head>
+  <body id="content">
+    <header>
+      <img src="ublock-logo.svg" alt="uBlock Logo" aria-hidden="true" />
+    </header>
+  </body>
+  <template id="running">
+    <section>
+      <div class="action">
+        <a href="#" id="pause">
+          <img
+            class="too-high"
+            src="pause.svg"
+            alt="pause"
+            height="15"
+            width="12"
+            aria-hidden="true"
+          />
+          <span class="pause-text"></span>
+        </a>
+      </div>
+      <hr />
+      <div class="site">
+        <a href="#" id="allow" class="allow-text"></a>
+      </div>
+    </section>
+  </template>
+  <template id="allowed">
+    <section>
+      <div class="action">
+        <span class="smokey"
+          ><img
+            src="pause.svg"
+            class="too-high"
+            alt="pause"
+            aria-hidden="true"
+          /><span class="pause-text"></span>
+        </span>
+      </div>
+      <hr />
+      <div class="site">
+        <p class="info">
+          <img src="check.svg" alt="checkmark" aria-hidden="true" />
+          <span id="allowing"></span>
+        </p>
+        <a href="#" id="clear"></a>
+      </div>
+    </section>
+  </template>
+  <template id="paused">
+    <section>
+      <div class="action">
+        <a href="#" id="resume" class="hidden">
+          <img
+            src="play-arrow.svg"
+            class="too-high"
+            alt="resume"
+            aria-hidden="true"
+          />
+          <span class="resume-text"></span>
+        </a>
+      </div>
+      <hr />
+      <div class="site">
+        <span class="smokey allow-text"></span>
+      </div>
+    </section>
+  </template>
+  <template id="offline">
+    <section>
+      <div class="simple">
+        <img src="check_circle_outline.svg" alt="nothing" aria-hidden="true" />
+        <p id="nothing"></p>
+      </div>
+    </section>
+  </template>
+  <script src="../i18next.js"></script>
+  <script src="../i18nextHttpBackend.js"></script>
+  <script src="../i18nextBrowserLanguageDetector.js"></script>
+  <script src="../browser-polyfill.js"></script>
+  <script type="module" src="popup.js"></script>
+</html>

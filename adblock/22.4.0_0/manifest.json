@@ -1,0 +1,39 @@
+{
+   "applications": {
+      "gecko": {
+         "strict_min_version": "63.0"
+      }
+   },
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "icons/icon-128.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "uBlock"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "ewe-content.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWgq3x7re2nbbV3QT7QSeSHy2Ngq5GLq1NoaGAqH/MUmKEL8qfTs07cFgae6e7SFlD2N/dTbBTE921Ra0k7w9JmjTEoUSwM6ZAYtCP7FELiwcVXNqTMJ7fGo9V/JDF2xJyyc1pntemFDyEoUsW/ugp1o1kJoF4MkNRnGCK0RLeWs2D2tovtK524hspFjxIr/VkB4ive5GVmU1r2rRpG/gsCKenQh/5ThF3Ag91NZEuUk4h2cW13Ao63kDcH2Skwk9HdVNXwZJg1oytexqddxBiEmuH2ODPK1lH+hTBaG79Afc7HHEbcP8rMlVP1hMcQ1fskK4QMnoZHY3xXsiy89RwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "103.0",
+   "name": "__MSG_name__",
+   "options_ui": {
+      "page": "options/options.html"
+   },
+   "permissions": [ "tabs", "\u003Call_urls>", "webRequest", "webRequestBlocking", "webNavigation", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "22.4.0"
+}
