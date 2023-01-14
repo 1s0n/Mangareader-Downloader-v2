@@ -1,8 +1,0 @@
-{
-  "allow": "允许在此网站上显示广告",
-  "allowing": "您将允许在此网站上显示广告",
-  "pause": "暂停 uBlock",
-  "clear": "不再允许显示广告",
-  "resume": "取消暂停 uBlock",
-  "nothing": "此处无需拦截任何内容"
-}

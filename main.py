@@ -12,10 +12,7 @@ from time import sleep
 import fitz
 import os
 
-adblockpath = os.getcwd() + "/adblock/22.4.0_0"
-
 chrome_options = Options()
-chrome_options.add_argument("load-extension={adblockp}".format(adblockp=adblockpath))
 chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(options=chrome_options)
 
