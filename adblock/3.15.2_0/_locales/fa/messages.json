@@ -1,0 +1,499 @@
+{
+   "add": {
+      "message": "اضافه کردن"
+   },
+   "block_element": {
+      "message": "مسدود کردن این عنصر"
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "common_copyright": {
+      "message": "$year$ تمامی حقوق محقوظ است. Adblock Plus® یک علامت تجاری ثبت شده برای \u003Ca0>eyeo GmbH\u003C/a0> است.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "مخفی کردن پیام‌های هشدار Adblock"
+   },
+   "common_feature_circumvention_title": {
+      "message": "لیست فیلتر ضد دورگرد ABP"
+   },
+   "common_feature_malware_title": {
+      "message": "مسدود کردن بدافزار"
+   },
+   "common_feature_privacy_title": {
+      "message": "ردیابی اضافی را مسدود کنید"
+   },
+   "common_feature_social_title": {
+      "message": "مسدود کردن ردیابی آیکون‌های رسانه‌های اجتماعی"
+   },
+   "common_notification_hide": {
+      "message": "بستن اعلان"
+   },
+   "continue": {
+      "message": "ادامه"
+   },
+   "copy_selected": {
+      "message": "کپی کردن"
+   },
+   "day1_blockelement_description": {
+      "message": "مسدود کردن آنها با ویژگی عنصر نود Adblock Plus."
+   },
+   "day1_blockelement_more": {
+      "message": "یاد بگیرید"
+   },
+   "day1_blockelement_title": {
+      "message": "خسته شدن از بخش نظرات شما را ناراحت کرده؟"
+   },
+   "day1_community_contact": {
+      "message": "با ما تماس بگیرید!"
+   },
+   "day1_community_contact_subject": {
+      "message": "به دنبال پشتیبانی!"
+   },
+   "day1_community_description_1": {
+      "message": "به عنوان یک پروژه متن باز, ما به کاربران مانند شما وابسته ایم تا کمک کنید تجربه مسدود کردن تبلیغات را بهبود ببخشیم."
+   },
+   "day1_community_description_2": {
+      "message": "دوست دارید چه ویژگی هایی ببینید؟چه کار بهتری میتوانیم انجام دهیم؟آیا Adblock Plus باعث اشتباه بعضی سایت ها شده؟"
+   },
+   "day1_community_title": {
+      "message": "به جامعه Adblock Plus بپیوندید"
+   },
+   "day1_header_more": {
+      "message": "درباره تبلیغات مخرب اطلاعات بیشتری کسب کنید"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "description": {
+      "message": "با بیش‌ از ۵۰۰ میلیون دانلود، اد بلاک پلاس یکی از محبوب‌ترین مسدود کننده‌ های تبلیغات در جهان است."
+   },
+   "devtools_action_block": {
+      "message": "مسدود کردن مورد"
+   },
+   "devtools_action_remove": {
+      "message": "حذف کردن قاعده"
+   },
+   "devtools_action_unblock": {
+      "message": "افزودن استثنا"
+   },
+   "devtools_filter_subtitle": {
+      "message": "اصل"
+   },
+   "devtools_filter_title": {
+      "message": "فیلتر"
+   },
+   "devtools_header_state_all": {
+      "message": "همه"
+   },
+   "devtools_header_state_blocked": {
+      "message": "مسدودشده"
+   },
+   "devtools_header_type_any": {
+      "message": "هر موردی"
+   },
+   "devtools_request_title": {
+      "message": "درخواست"
+   },
+   "devtools_type_title": {
+      "message": "نوع"
+   },
+   "easy_create_filter": {
+      "message": "مسدود کردن این عنصر"
+   },
+   "filter_action_failed": {
+      "message": "با عرض پوزش، اشتباهی رخ داده. لطفا بعدا دوباره امتحان کنید."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "ناموفق، فرآیند دریافت شکست خورد"
+   },
+   "firstRun_control_title": {
+      "message": "فرمان دست شماست"
+   },
+   "firstRun_title": {
+      "message": "نصب موفقیت‌آمیز بود!"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "ارسال ناشناس"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "ما قادر نخواهیم بود که دوباره بیاییم و احتمالاً این گزارش را در اولویت های پایین تر قرار می دهیم."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "بستن"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "وارد کردن نظر"
+   },
+   "issueReporter_comment_description": {
+      "message": "جعبه متن زیر به شما اجازه می دهد که نظر خود را برای کمک به درک ما در مورد مشکل وارد کنید. این مورد اختیاری می باشد ولی در صورتی که مشکل آشکار نیست توصیه می شود. شما همچنین می توانید قبل از ارسال گزارش داده ها را بررسی کنید."
+   },
+   "issueReporter_comment_label": {
+      "message": "نظر (اختیاری):"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "گزارش شما ذخیره شد. شما می توانید در نشانی زیر به آن دسترسی پیدا کنید:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>توجه:\u003C/strong> یک برگه اضافی به طور موقت باز می شود، بنابراین صفحه ای که شما در آن قرار دارد، توسط گزارشگر موضوع تحت تاثیر قرار نخواهد گرفت."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "جزئیات"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "انجام شد"
+   },
+   "issueReporter_email_description": {
+      "message": "ما شما را تشویق می کنیم که یک آدرس ایمیل معتبر از خود وارد کنید تا اگر سوالی بود ما بتوانیم در آینده با شما ارتباط برقرار کنیم در مورد گزارش شما. این به ما اجازه می دهد که میزان همکاری شما را بسنجیم و اولویت کار شما به مراحل بالاتر برسد."
+   },
+   "issueReporter_email_label": {
+      "message": "پست الکترونیکی:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "تلاش برای ارسال گزارش شکست خورد، شماره خطا \"?1?\". لطفا مطمئن شوید که به اینترنت متصل هستید و مجددا سعی کنید. اگر مشکل همچنان ادامه دارد می توانید در [link]تالار گفتمان فوق تبلیغ شکن[/link] در خواست کمک کنید."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "اگر تبلیغات همچنان مشاهده می شوند با وجود این که فوق تبلیغ شکن فعال است این گزینه را انتخاب کنید"
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "فوق تبلیغ شکن هیچ تبلیغی را مسدود نمی کند."
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "اگر صفحه خالی از محتوای مهم می شود یا نادرست نمایش داده می شود یا موفق به عملکرد درست نیست این گزینه را انتخاب کنید."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "فوق تبلیغ شکن بیش از حد موارد را مسدود می کند."
+   },
+   "issueReporter_highlighter_description": {
+      "message": "از ابزارها برای برجسته کردن هر تبلیغ یا مخفی کردن اطلاعات حساس در تصویر استفاده کنید. تبلیغات برجسته به ما کمک می کند که مسئله را سریع تر حل کنیم."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "موضوع برجسته"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "گزارشی که شما ارسال کردید هم اکنون شناخته شده است. اطلاعات بیشتر:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "علامتگذاری موضوع"
+   },
+   "issueReporter_page_title": {
+      "message": "گزارش گر اشکالات"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "سیاست حفظ اسرار"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "در حال پردازش"
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "مخفی"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "برجسته"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "انتخاب موضوع"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "ارسال گزارش"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "ارسال گزارش"
+   },
+   "issueReporter_sending": {
+      "message": "لطفا صبر کنید تا فوق تبلیغ شکن گزارش شما را ارسال کند."
+   },
+   "issueReporter_showData_label": {
+      "message": "نمایش داده های گزارش"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "این پنجره شما را برای ارائه یک گزارش خطا فوق تبلیغ شکن راهنمایی می کند. ابتدا نوع مشکلی را که در این صفحه با آن روبرو هستید را انتخاب کنید:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "چه نوع مشکلی دارید؟"
+   },
+   "line": {
+      "message": "خط $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "توسعه ساخت Adblock Plus"
+   },
+   "name_releasebuild": {
+      "description": "Extension name to be shown for release builds. Note: this cannot be longer than 45 characters.",
+      "message": "Adblock Plus - free ad blocker"
+   },
+   "notification_configure": {
+      "message": "پیکربندی تنظیمات اعلان"
+   },
+   "notification_day1_message": {
+      "message": "تبلیغات آزار دهنده زیادی وجود دارد.\u003Ca>دریابید که Adblock Plus چه چیزدیگری را میتوند مسدود کند.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "شما در حال حاضر تبلیغات $ads$ را مسدود کرده اید!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "باز کردن همه لینک های این هشدار"
+   },
+   "notification_without_buttons": {
+      "message": "برای باز شدن همه لینک های داخلش ، روی هشدار کلیک کنید."
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "نه، ممنون"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "برو به نظرسنجی"
+   },
+   "options_acceptableAds_header": {
+      "message": "تبلیغات قابل‌قبول"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "فقط به تبلیغات بدون ردیابی شخص ثالث اجازه بده"
+   },
+   "options_close": {
+      "message": "بستن"
+   },
+   "options_control_remove_title": {
+      "message": "حذف"
+   },
+   "options_customFilter_cancel": {
+      "message": "لغو"
+   },
+   "options_customFilters_title": {
+      "message": "فیلترهای سفارشی شما"
+   },
+   "options_customFilters_widget_title": {
+      "message": "فهرست فیلترهای من"
+   },
+   "options_customize_header": {
+      "message": "شخصی‌سازی"
+   },
+   "options_customize_iconStats": {
+      "message": "نمایش تعداد تبلیغات مسدودشده در آیکون"
+   },
+   "options_customize_showNotifications": {
+      "message": "نمایش اعلان های مفید"
+   },
+   "options_dialog_about_title": {
+      "message": "درباره Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "کلیه حقوق محفوظ است. Adblock Plus® یک علامت تجاری ثبت شده eyeo GmbH است."
+   },
+   "options_dialog_about_version": {
+      "message": "شماره نسخه $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "لیست فیلتر URL"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "یک URL معتبر وارد کنید"
+   },
+   "options_dialog_import_title": {
+      "message": "یک لیست فیلتر اضافه کنید"
+   },
+   "options_dialog_invalid_title": {
+      "message": "خطایی رخ داد"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "زبان‌های در دسترس وجود ندارد."
+   },
+   "options_dialog_language_title": {
+      "message": "انتخاب زبان"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "بله، از این لیست فیلتر استفاده کنید"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "عنوان"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "نشانی اینترنتی"
+   },
+   "options_dialog_predefined_title": {
+      "message": "آیا مطمئنید که می‌خواهید این لیست فیلتر را اضافه کنید؟"
+   },
+   "options_email": {
+      "message": "ایمیل:"
+   },
+   "options_english": {
+      "message": "فارسی __ ترجمه شده: توسط میثم مقدم نیا"
+   },
+   "options_filterList_add": {
+      "message": "یک لیست فیلتر جدید اضافه کنید"
+   },
+   "options_filterList_column_name": {
+      "message": "لیست فیلتر"
+   },
+   "options_filterList_column_status": {
+      "message": "وضعیت"
+   },
+   "options_filterList_column_update": {
+      "message": "آخرین به روز رسانی"
+   },
+   "options_filterList_empty": {
+      "message": "شما هیچ لیست فیلتر را برای Adblock Plus اضافه نکرد‌ه‌اید. فیلترهای لیستی که اضافه می‌کنید در اینجا نشان داده می‌شوند."
+   },
+   "options_filterList_hours": {
+      "message": "ساعت پیش"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "ناموفق, عدم تطابق کنترلی"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "در حال به‌روزرسانی"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "ناموفق، نشانی معتبر نیست"
+   },
+   "options_filterList_minutes": {
+      "message": "دقیقه پیش"
+   },
+   "options_filterList_now": {
+      "message": "همین حالا"
+   },
+   "options_filterList_source": {
+      "message": "منبع"
+   },
+   "options_filterList_title": {
+      "message": "لیست فیلتر"
+   },
+   "options_filterList_updateNow": {
+      "message": "آپدیت کن"
+   },
+   "options_filterList_website": {
+      "message": "وب‌سایت"
+   },
+   "options_filter_list_rule": {
+      "message": "قواعد پالایش"
+   },
+   "options_footer_about": {
+      "message": "درباره Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "مشارکت"
+   },
+   "options_language_change": {
+      "message": "تغییر دادن"
+   },
+   "options_language_empty": {
+      "message": "شما هیچ فیلتر خاصی برای زبان ندارید."
+   },
+   "options_language_filter_list": {
+      "message": "فهرست فیلترهای زبان"
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>نکته:\u003C/strong> فقط زبان‌هایی را که لازم دارید انتخاب کنید. انتخاب بیشتر باعث کاهش سرعت مسدود کننده تبلیغات و مرورگر شما می‌شود."
+   },
+   "options_learn_more": {
+      "message": "بیشتر بدانید"
+   },
+   "options_new_label": {
+      "message": "جدید"
+   },
+   "options_page_document_title": {
+      "message": "تنظیمات"
+   },
+   "options_page_title": {
+      "message": "تنظیمات"
+   },
+   "options_privacy_header": {
+      "message": "حریم خصوصی و امنیت"
+   },
+   "options_short": {
+      "message": "تنظیمات"
+   },
+   "options_social_title": {
+      "message": "در تماس باشید"
+   },
+   "options_support_title": {
+      "message": "پشتیبانی"
+   },
+   "options_tab_advanced": {
+      "message": "پیشرفته"
+   },
+   "options_tab_general": {
+      "message": "صفحه اصلی"
+   },
+   "options_tab_help": {
+      "message": "راهنما"
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "باشه فهمیدم"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "بستن"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "عدم نمایش اعلان ها"
+   },
+   "problem_os_mac": {
+      "message": "مک"
+   },
+   "problem_os_windows": {
+      "message": "ویندوز"
+   },
+   "problem_social_email": {
+      "message": "ایمیل"
+   },
+   "problem_social_facebook": {
+      "message": "فیس‌بوک"
+   },
+   "problem_social_title": {
+      "message": "هنوز به راهنمایی نیاز دارید؟"
+   },
+   "problem_social_twitter": {
+      "message": "توییتر"
+   },
+   "problem_solution_title": {
+      "message": "راه‌حل:"
+   },
+   "sendReport": {
+      "message": "گزارش مشکل"
+   },
+   "stats_label_page": {
+      "message": "در این صفحه"
+   },
+   "stats_label_total": {
+      "message": "در کل"
+   },
+   "status_domain": {
+      "message": "این وب‌سایت:"
+   },
+   "status_header": {
+      "message": "مسدود کردن تبلیغات در"
+   },
+   "status_page": {
+      "message": "این صفحه:"
+   }
+}

@@ -1,0 +1,1185 @@
+{
+   "add": {
+      "message": "Toevoegen"
+   },
+   "block_element": {
+      "message": "Element blokkeren"
+   },
+   "block_element_description": {
+      "message": "Specifieke elementen op deze website blokkeren"
+   },
+   "browser_store_android": {
+      "message": "Android-app op Google Play"
+   },
+   "browser_store_ios": {
+      "message": "Beschikbaar op de iTunes App Store"
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "click_element_to_block_it": {
+      "message": "Klik op een element op de pagina om het te blokkeren."
+   },
+   "common_copyright": {
+      "message": "Copyright © $year$ Alle rechten voorbehouden. Adblock Plus® is een geregistreerd handelsmerk van \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Adblock-waarschuwingsberichten verbergen"
+   },
+   "common_feature_circumvention_title": {
+      "message": "ABP-filterlijst voor anti-omzeiling"
+   },
+   "common_feature_distractions_title": {
+      "message": "Blokkeer meer afleidingen"
+   },
+   "common_feature_malware_title": {
+      "message": "Malware blokkeren"
+   },
+   "common_feature_notifications_title": {
+      "message": "Blokkeer pushmeldingen"
+   },
+   "common_feature_privacy_title": {
+      "message": "Aanvullende tracking blokkeren"
+   },
+   "common_feature_social_title": {
+      "message": "Tracking via sociale-mediapictogrammen blokkeren"
+   },
+   "common_notification_hide": {
+      "message": "Melding sluiten"
+   },
+   "composer_block": {
+      "message": "Blokkeer"
+   },
+   "composer_block_reload": {
+      "message": "Blokkeer en herlaad pagina"
+   },
+   "composer_cancel": {
+      "message": "Annuleer"
+   },
+   "composer_elements": {
+      "message": "geselecteerde element(en)"
+   },
+   "composer_loading": {
+      "message": "Aan het laden..."
+   },
+   "composer_preview": {
+      "message": "Voorbeeld"
+   },
+   "composer_undo_preview": {
+      "message": "Voorbeeld sluiten"
+   },
+   "composer_unselect": {
+      "message": "Deselecteer"
+   },
+   "connect_on_facebook": {
+      "message": "Bezoek ons op Facebook"
+   },
+   "connect_on_twitter": {
+      "message": "Bezoek ons op Twitter"
+   },
+   "continue": {
+      "message": "Doorgaan"
+   },
+   "copy_selected": {
+      "message": "Geselecteerde kopiëren"
+   },
+   "day1_blockelement_description": {
+      "message": "Blokkeer ze met de handige functie ‘Element blokkeren’ van Adblock Plus."
+   },
+   "day1_blockelement_more": {
+      "message": "Ontdek hoe"
+   },
+   "day1_blockelement_screenshot": {
+      "message": "Voorbeeld van pictogrampop-up met gemarkeerde knop ‘Element blokkeren’."
+   },
+   "day1_blockelement_title": {
+      "message": "Genoeg van negatieve reacties?"
+   },
+   "day1_community_contact": {
+      "message": "Neem contact met ons op!"
+   },
+   "day1_community_contact_subject": {
+      "message": "Hulp gezocht!"
+   },
+   "day1_community_description_1": {
+      "message": "Als opensourceproject zijn we afhankelijk van gebruikers zoals u om ons te helpen uw ervaring met advertentieblokkering te verbeteren."
+   },
+   "day1_community_description_2": {
+      "message": "Welke functies wilt u graag zien? Wat kunnen we beter doen? Laat Adblock Plus sommige websites zich niet goed gedragen?"
+   },
+   "day1_community_title": {
+      "message": "Neem deel aan de Adblock Plus-community"
+   },
+   "day1_header_more": {
+      "message": "Meer info over kwaadwillende advertenties"
+   },
+   "day1_header_title": {
+      "message": "Adblock Plus heeft \u003Cstrong>\u003Cem1>het afgelopen half uur\u003C/em1> \u003Cem0>$ads$ advertenties\u003C/em0> geblokkeerd\u003C/strong>, waarvan sommige mogelijk kwaadwillende inhoud bevatten",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "delete": {
+      "message": "Verwijderen"
+   },
+   "description": {
+      "message": "Blokkeer YouTube™-advertenties, pop-ups en bestrijd malware!"
+   },
+   "devtools_action_block": {
+      "message": "Item blokkeren"
+   },
+   "devtools_action_remove": {
+      "message": "Regel verwijderen"
+   },
+   "devtools_action_unblock": {
+      "message": "Uitzondering toevoegen"
+   },
+   "devtools_filter_origin_custom": {
+      "message": "door gebruiker gedefinieerd"
+   },
+   "devtools_filter_origin_none": {
+      "message": "naamloos abonnement"
+   },
+   "devtools_filter_subtitle": {
+      "message": "Oorsprong"
+   },
+   "devtools_filter_title": {
+      "message": "Filter"
+   },
+   "devtools_footer": {
+      "message": "\u003Ca0>Vernieuw\u003C/a0> de pagina om het effect van filterwijzigingen te zien"
+   },
+   "devtools_header": {
+      "message": "Tonen: \u003Cslot0>\u003C/slot0> items van het type \u003Cslot1>\u003C/slot1>"
+   },
+   "devtools_header_state_all": {
+      "message": "alle"
+   },
+   "devtools_header_state_allowlisted": {
+      "message": "die op de toelatingslijst staan"
+   },
+   "devtools_header_state_blocked": {
+      "message": "geblokkeerde"
+   },
+   "devtools_header_type_any": {
+      "message": "alle"
+   },
+   "devtools_request_subtitle": {
+      "message": "Domein van document"
+   },
+   "devtools_request_title": {
+      "message": "Aanvraag"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> herschreven naar \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "devtools_type_title": {
+      "message": "Type"
+   },
+   "easy_create_filter": {
+      "message": "Element blokkeren"
+   },
+   "filter_action_failed": {
+      "message": "Er is iets fout gegaan. Probeer het opnieuw."
+   },
+   "filter_elemhide_not_specific_enough": {
+      "message": "De CSS-kiezer is te kort. Gebruik een langere kiezer of specificeer minstens één domein voor deze element verbergende filter."
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "Geen actief domein aangegeven. Geef ten minste één domein op voor dit toegevoegde element om filters te verbergen."
+   },
+   "filter_invalid_csp": {
+      "message": "Ongeldige inhoud veiligheidsbeleid (syntaxis voldoet niet aan de norm)."
+   },
+   "filter_invalid_domain": {
+      "message": "Ongeldig of leeg domein. De domeinlijst moet één of meer domeinen bevatten, gescheiden door een komma (,), bijv. abc.com,def.com,ghi.com."
+   },
+   "filter_invalid_option": {
+      "message": "Ongeldige filteroptie"
+   },
+   "filter_invalid_regexp": {
+      "message": "Ongeldige reguliere expressie (de syntaxis voldoet niet aan de norm)."
+   },
+   "filter_slow": {
+      "message": "Trage filter. Controleer de lengte van het patroon en zorg ervoor dat het geen reguliere expressie bevat."
+   },
+   "filter_snippet_nodomain": {
+      "message": "Geen actief domein aangegeven. Geef ten minste één domein op voor dit toegevoegde element om filters te verbergen."
+   },
+   "filter_unknown_option": {
+      "message": "$option$ is geen geldige filteroptie.",
+      "placeholders": {
+         "option": {
+            "content": "$1",
+            "example": "foo"
+         }
+      }
+   },
+   "filter_url_not_specific_enough": {
+      "message": "Het URL-patroon is te kort. Gebruik een langer patroon of specificeer minstens één domein voor deze filter."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Mislukt, fout bij downloaden"
+   },
+   "firstRun_browser_description": {
+      "message": "Adblock Browser, van het team achter Adblock Plus, de meest populaire adblocker voor desktopbrowsers, is nu beschikbaar voor uw Android- en iOS-apparaten."
+   },
+   "firstRun_browser_store_android": {
+      "message": "Android-app op Google Play"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "Beschikbaar in de iTunes App Store"
+   },
+   "firstRun_browser_title": {
+      "message": "Adblock Browser-app"
+   },
+   "firstRun_control_description": {
+      "message": "Standaard kunt u enkele niet-opdringerige advertenties zien die aan \u003Ca0>strenge criteria\u003C/a0> voldoen. Deze advertenties herkennen we als Acceptabele advertenties. Liever alle advertenties blokkeren? \u003Ca1>Zet Acceptabele advertenties uit\u003C/a1> in uw \u003Ca2>Instellingen\u003C/a2>."
+   },
+   "firstRun_control_title": {
+      "message": "U bent de baas"
+   },
+   "firstRun_donate": {
+      "message": "Doneren"
+   },
+   "firstRun_fair_description": {
+      "message": "We moedigen u aan een eerlijk gebruik te maken van Adblock Plus en de optie voor het toevoegen van websites aan uw toelatingslijst. Afhankelijk van de filters die u gebruikt, begrijpt en accepteert u dat er zich onopzettelijke resultaten kunnen voordoen (bijv. geblokkeerde inhoud op een website). Zie de \u003Ca0>Gebruiksvoorwaarden\u003C/a0> voor meer informatie over eerlijk gebruik van Adblock Plus."
+   },
+   "firstRun_fair_title": {
+      "message": "Eerlijk gebruik"
+   },
+   "firstRun_subtitle": {
+      "message": "U hebt zojuist de controle over uw browser overgenomen."
+   },
+   "firstRun_title": {
+      "message": "Installatie geslaagd!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "Sommige gebruikers ondervinden een probleem waarbij deze pagina telkens wordt geopend wanneer de browser wordt gestart. Dit probleem kan worden opgelost door Adblock Plus te verwijderen en opnieuw te installeren:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "Als u nog steeds hulp nodig hebt, neem dan contact met ons op via \u003Ca0>support@adblockplus.org\u003C/a0> of bezoek ons \u003Ca1>Helpcentrum\u003C/a1>."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "Open het tabblad Extensies van uw browser."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "Zoek naar Adblock Plus en verwijder het."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "Installeer Adblock Plus opnieuw vanaf \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "firstRun_warning_reinitialized": {
+      "message": "Het lijkt erop dat door een probleem alle filters zijn verwijderd, en we konden geen back-up terugzetten. Hierdoor hebben we al uw filters en instellingen voor Acceptabele advertenties moeten herinitialiseren. Controleer uw filterlijsten en instellingen voor Acceptabele advertenties in de \u003Ca>Adblock Plus-opties\u003C/a>."
+   },
+   "footer_donate_button": {
+      "message": "Doneer"
+   },
+   "footer_donate_description": {
+      "message": "Wilt u ABP ondersteunen?"
+   },
+   "footer_get_help_button": {
+      "message": "Krijg hulp"
+   },
+   "footer_get_help_description": {
+      "message": "Problemen bij gebruik van ABP?"
+   },
+   "footer_mobile_description": {
+      "message": "Interesse in mobiele ABP?"
+   },
+   "footer_rate_button": {
+      "message": "Rate ABP"
+   },
+   "footer_rate_description": {
+      "message": "Bevalt de extensie u?"
+   },
+   "footer_social_description": {
+      "message": "Blijf verbonden met ons!"
+   },
+   "idle_header": {
+      "message": "Er is niets te blokkeren op deze pagina!"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonieme bijdrage"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "We zullen geen contact met u kunnen opnemen en het rapport waarschijnlijk een lagere prioriteit geven."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Sluiten"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Opmerking toevoegen"
+   },
+   "issueReporter_comment_description": {
+      "message": "Help ons het probleem beter te begrijpen door hieronder een opmerking toe te voegen."
+   },
+   "issueReporter_comment_label": {
+      "message": "Opmerking (optioneel):"
+   },
+   "issueReporter_config_label": {
+      "message": "Informatie over mijn browserconfiguratie toevoegen, evenals een lijst van actieve extensies die ik gebruik"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Uw rapport is opgeslagen. U kunt het vinden op het volgende adres:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>Opmerking:\u003C/strong> er wordt tijdelijk een extra tabblad geopend, zodat de pagina waarop u zich bevindt niet door de probleemrapportage wordt beïnvloed."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Details"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Gereed"
+   },
+   "issueReporter_email_description": {
+      "message": "Het is handig om een geldig e-mailadres in te voeren. Hierdoor kunnen we contact met u opnemen om moeilijke problemen zoals malware op te lossen. Houd in gedachten dat het niet verplicht is om een e-mailadres in te voeren, en dat uw adres nooit zal worden gedeeld."
+   },
+   "issueReporter_email_label": {
+      "message": "E-mail:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Een poging om het rapport te verzenden is mislukt met foutcode ‘?1?’. Controleer uw internetverbinding en probeer het opnieuw. Als het probleem aanhoudt, vraag dan om hulp in het [link]Adblock Plus-forum[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Adblock Plus is ingeschakeld, maar ik zie nog steeds een of meer advertenties."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Ik zie nog steeds advertenties"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "De pagina wordt niet goed weergegeven, functioneert niet of lijkt belangrijke inhoud te missen."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "De pagina die ik probeer te bekijken werkt niet"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "Gebruik de hulpmiddelen om elke advertentie te markeren of gevoelige info op de schermafbeelding te verbergen. Door het markeren van advertenties kunnen we het probleem sneller oplossen."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "Probleem markeren"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Het door u gemelde probleem is waarschijnlijk al bekend. Meer informatie:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "Probleem markeren"
+   },
+   "issueReporter_other_issues": {
+      "message": "Neem voor alle andere problemen contact met ons op via \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "Probleemrapportage"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Privacybeleid"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "verwerken"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "Om ons te helpen het probleem beter te begrijpen, is een schermafbeelding nodig bij het indienen van een probleemrapport. Afhankelijk van de website waarop u zich bevindt, kan de schermafbeelding persoonlijke informatie bevatten. Als u liever geen schermafbeelding indient, e-mail dan uw probleem naar \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Verbergen"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "Markeren"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "Probleem selecteren"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Rapport verzenden"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Rapport verzenden"
+   },
+   "issueReporter_sending": {
+      "message": "Wacht even terwijl Adblock Plus uw rapport indient."
+   },
+   "issueReporter_showData_label": {
+      "message": "Klik op deze koppeling om de rapportgegevens te bekijken voordat ze worden verzonden"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Selecteer een probleem:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Welk type probleem ondervindt u?"
+   },
+   "line": {
+      "message": "Regel $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus-ontwikkelversie"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - gratis adblocker"
+   },
+   "notification_configure": {
+      "message": "Meldingsinstellingen configureren"
+   },
+   "notification_day1_message": {
+      "message": "Dat zijn veel vervelende advertenties. \u003Ca>Ontdek wat Adblock Plus nog meer kan blokkeren.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "U hebt al $ads$ advertenties geblokkeerd!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "Alle koppelingen van deze melding openen"
+   },
+   "notification_problem_message": {
+      "message": "Door een probleem zijn uw ABP-instellingen teruggezet naar de standaardwaarden. \u003Ca>Het probleem oplossen en meer info\u003C/a>"
+   },
+   "notification_recommendLanguage_message": {
+      "message": "Het lijk erop dat u en website bezocht hebt in: $language$. Wilt u advertenties blokkeren op alle websites in deze taal? \u003Ca>Ja\u003C/a>",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "čeština"
+         }
+      }
+   },
+   "notification_updates_message": {
+      "message": "Er is geen actie vereist — browse verder zonder vervelende advertenties! \u003Ca>Bekijk wat er is veranderd\u003C/a>"
+   },
+   "notification_updates_title": {
+      "message": "Adblock Plus is up-to-date"
+   },
+   "notification_without_buttons": {
+      "message": "Klik op de melding om alle koppelingen erin te openen."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "Zou u, om ons te helpen Adblock Plus te verbeteren, willen vertellen waarom u Acceptabele advertenties hebt uitgeschakeld?"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "Nee, bedankt"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "Naar de enquête"
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "Acceptabele advertenties hebben geen invloed op de inhoud die u bekijkt. \u003Ca>Meer te weten komen\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "Acceptabele advertenties tonen"
+   },
+   "options_acceptableAds_description": {
+      "message": "Acceptabele advertenties zijn niet-storende advertenties die voldoen aan een strenge advertentiestandaard. Ze helpen inkomsten te genereren voor contentschrijvers en hebben geen invloed op de inhoud die u bekijkt."
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Opmerking:\u003C/strong> u hebt \u003Cstrong>Do Not Track (DNT)\u003C/strong> uitgeschakeld in uw browserinstellingen. Schakel \u003Cstrong>DNT\u003C/strong> in in uw browservoorkeuren om deze functie goed te laten werken. \u003Ca>Lees hoe u DNT kunt inschakelen\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Acceptabele advertenties"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Alleen advertenties zonder tracking door derden toestaan"
+   },
+   "options_advanced_description": {
+      "message": "Adblock Plus aanpassen, filterlijsten toevoegen of verwijderen, uw eigen filterlijsten maken en beheren"
+   },
+   "options_allowlist_add": {
+      "message": "Voeg een website toe"
+   },
+   "options_allowlist_description": {
+      "message": "U heeft de functie voor het blokkeren van advertenties op deze websites uitgeschakeld en zult daarom advertenties zien op deze pagina's."
+   },
+   "options_allowlist_empty_1": {
+      "message": "U hebt geen websites op uw toelatingslijst."
+   },
+   "options_allowlist_empty_2": {
+      "message": "Websites die u vertrouwt en waarop u advertenties wilt toestaan worden hier vertoond."
+   },
+   "options_allowlist_notification": {
+      "message": "De website is toegevoegd aan de toelatingslijst."
+   },
+   "options_allowlist_placeholder_example": {
+      "message": "bijv. $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "www.example.com"
+         }
+      }
+   },
+   "options_beta_label": {
+      "message": "Beta"
+   },
+   "options_builtin_filterList_add": {
+      "message": "Ingebouwde filterlijsten toevoegen"
+   },
+   "options_close": {
+      "message": "sluiten"
+   },
+   "options_control_remove_title": {
+      "message": "verwijderen"
+   },
+   "options_customFilter_cancel": {
+      "message": "Annuleren"
+   },
+   "options_customFilters_description": {
+      "message": "Maak en onderhoud uw eigen filters om verder te bepalen welke inhoud Adblock Plus toestaat of blokkeert. \u003Ca0>Info over het schrijven van filters (alleen in het Engels)\u003C/a0>"
+   },
+   "options_customFilters_title": {
+      "message": "Uw aangepaste filters"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Mijn filterlijst"
+   },
+   "options_customize_blockElement": {
+      "message": "Menu-item ‘Element blokkeren’ in contextmenu tonen"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Storende items op een webpagina, zoals afbeeldingen of bewegende diavoorstellingen, tijdelijk blokkeren"
+   },
+   "options_customize_elemhideDebug": {
+      "message": "Schakel de modus in voor het debuggen van element verbergende filters"
+   },
+   "options_customize_elemhideDebug_tooltip": {
+      "message": "Markeer elementen op een pagina die worden beïnvloed door element verbergende filters."
+   },
+   "options_customize_header": {
+      "message": "Aanpassingen"
+   },
+   "options_customize_iconStats": {
+      "message": "Aantal geblokkeerde advertenties in pictogram tonen"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Paneel ‘Adblock Plus’ in ontwikkelaarshulpmiddelen tonen"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "Bekijk geblokkeerde en op de lijst toegestane items via het Developer Tools-paneel van uw browser."
+   },
+   "options_customize_showNotifications": {
+      "message": "Nuttige meldingen tonen"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Meldingen van Adblock Plus toestaan (meldingen gerelateerd aan kritieke prestatieproblemen worden altijd getoond)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Copyright © $currentYear$ \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "Over Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Alle rechten voorbehouden. Adblock Plus® is een geregistreerd handelsmerk van eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Versienummer $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "URL van filterlijst"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Voer een geldige URL in"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "URL moet beginnen met $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "Filterlijst toevoegen"
+   },
+   "options_dialog_invalid_message": {
+      "message": "Om veiligheidsredenen kunnen alleen \u003Cstrong>HTTPS\u003C/strong>-filterlijsten en \u003Cstrong>data\u003C/strong>-URL’s worden toegevoegd."
+   },
+   "options_dialog_invalid_title": {
+      "message": "Fout opgetreden"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Er zijn geen beschikbare talen."
+   },
+   "options_dialog_language_title": {
+      "message": "Een taal selecteren"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Ja, deze filterlijst toevoegen"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "Titel"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "URL"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Weet u zeker dat u deze filterlijst wilt toevoegen?"
+   },
+   "options_donate_button": {
+      "message": "Doneren"
+   },
+   "options_email": {
+      "message": "E-mail:"
+   },
+   "options_english": {
+      "message": "Engels"
+   },
+   "options_filterList_add": {
+      "message": "Filterlijst toevoegen via URL"
+   },
+   "options_filterList_column_name": {
+      "message": "Filterlijsten"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_column_update": {
+      "message": "Laatst bijgewerkt"
+   },
+   "options_filterList_description": {
+      "message": "Elke Adblock Plus-instelling functioneert vanwege een filterlijst. Hieronder staan de filterlijsten die met al uw Adblock Plus-instellingen overeenkomen. U kunt ook extra filters toevoegen die door onze vertrouwde gemeenschap worden gemaakt en onderhouden."
+   },
+   "options_filterList_empty": {
+      "message": "U hebt geen filterlijsten aan Adblock Plus toegevoegd. Filterlijsten die u toevoegt worden hier getoond."
+   },
+   "options_filterList_enableFilters": {
+      "message": "Activeer ze"
+   },
+   "options_filterList_errorPopup_title": {
+      "message": "Er zijn één of meerdere problemen met deze filterlijst:"
+   },
+   "options_filterList_filtersDisabled": {
+      "message": "Sommige filters in deze filterlijst zijn gedeactiveerd."
+   },
+   "options_filterList_hours": {
+      "message": "uren geleden"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Mislukt, ongeldige controlesom"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Het downloaden van de filterlijst is mislukt."
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Bijwerken"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Geen geldige filterlijst"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Geen geldig adres. Controleer de URL."
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "Download mislukt. URL moet beginnen met $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "minuten geleden"
+   },
+   "options_filterList_now": {
+      "message": "Zojuist"
+   },
+   "options_filterList_source": {
+      "message": "Bron"
+   },
+   "options_filterList_title": {
+      "message": "Filterlijsten"
+   },
+   "options_filterList_update": {
+      "message": "alle filterlijsten bijwerken"
+   },
+   "options_filterList_updateNow": {
+      "message": "Nu bijwerken"
+   },
+   "options_filterList_website": {
+      "message": "Website"
+   },
+   "options_filter_list_rule": {
+      "message": "Filterregel"
+   },
+   "options_filters_search_or_add": {
+      "message": "Filter(s) zoeken of toevoegen (bv. $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "Over Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Bijdragen"
+   },
+   "options_free_filters_header": {
+      "message": "Gratis functies"
+   },
+   "options_general_description": {
+      "message": "Bepalen wat Adblock Plus op websites toont en verbergt"
+   },
+   "options_generic_error": {
+      "message": "O jee! Er is iets fout gegaan. Probeer het opnieuw."
+   },
+   "options_help_center": {
+      "message": "Zoekt u antwoorden op uw vragen? \u003Ca0>Bezoek ons Helpcentrum (alleen in het Engels)\u003C/a0>"
+   },
+   "options_help_description": {
+      "message": "Hulp zoeken of contact met ons opnemen"
+   },
+   "options_language_add": {
+      "message": "Toevoegen van taalfilterlijst"
+   },
+   "options_language_change": {
+      "message": "wijzigen"
+   },
+   "options_language_description": {
+      "message": "Toevoegen of verwijderen van talen waarin u Adblock Plus-advertenties wilt laten blokkeren. \u003Ca0>Meer informatie\u003C/a0>"
+   },
+   "options_language_empty": {
+      "message": "U hebt geen taalspecifieke filters."
+   },
+   "options_language_filter_list": {
+      "message": "Taalfilterlijsten"
+   },
+   "options_language_header": {
+      "message": "Taalfilterlijsten"
+   },
+   "options_language_join": {
+      "message": "$lang1$, $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_recommend": {
+      "message": "Informeer mij over beschikbare taalfilterlijsten"
+   },
+   "options_language_recommend_tooltip": {
+      "message": "Adblock Plus is afhankelijk van filterlijsten om advertenties in verschillende talen te blokkeren."
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>TIP:\u003C/strong> selecteer alleen de talen die u nodig hebt. Het selecteren van meer talen vertraagt de adblocker en daarmee uw surfsnelheid."
+   },
+   "options_learn_more": {
+      "message": "Meer info"
+   },
+   "options_more_filters_description": {
+      "message": "Dit zijn extra filters die u eerder aan Adblock Plus hebt toegevoegd."
+   },
+   "options_more_filters_header": {
+      "message": "Meer filterlijsten"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Opmerking:\u003C/strong> u dient alleen filterlijsten van derden te gebruiken van auteurs die u vertrouwt."
+   },
+   "options_new_label": {
+      "message": "Nieuw"
+   },
+   "options_page_document_title": {
+      "message": "Adblock Plus-opties"
+   },
+   "options_page_title": {
+      "message": "Instellingen"
+   },
+   "options_premium_manage": {
+      "message": "Beheer mijn abonnement"
+   },
+   "options_premium_upgrade_description": {
+      "message": "Stel uw Adblock-ervaring af en verbeter deze! \u003Ca0>Kom meer te weten\u003C/a0>"
+   },
+   "options_privacy_header": {
+      "message": "Privacy en beveiliging"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Bescherm uw privacy tegen bekende entiteiten die uw online-activiteit op websites die u bezoekt kunnen volgen."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Via de sociale-mediapictogrammen op de websites die u bezoekt, kunnen sociale-medianetwerken een profiel van u opbouwen op basis van uw surfgedrag - zelfs wanneer u hier niet op klikt. Het verbergen van deze knoppen kan uw profiel beschermen."
+   },
+   "options_rating_button": {
+      "message": "Beoordeel ons"
+   },
+   "options_recommended_distractions_description": {
+      "message": "Blokkeer zwevende videovensters, nieuwsbriefpop-ups, enquêteverzoeken en websitemeldingen"
+   },
+   "options_recommended_notifications_description": {
+      "message": "Voorkom dat websites u vragen om pushmeldingen toe te staan die uw online activiteit kunnen tracken."
+   },
+   "options_recommended_privacy_description": {
+      "message": "Bescherm uw privacy tegen bekende entiteiten die uw online activiteit mogelijk kunnen tracken wanneer u websites bezoekt."
+   },
+   "options_recommended_social_description": {
+      "message": "Voorkom dat sociale medianetwerken een profiel van u opbouwen op basis van uw surfgewoonten."
+   },
+   "options_refresh": {
+      "message": "Vernieuwen"
+   },
+   "options_report_bug": {
+      "message": "Een bug gevonden? \u003Ca>Stuur ons een bugrapport\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Ondersteuning van onze gemeenschap nodig? \u003Ca>Ga naar het forum\u003C/a>"
+   },
+   "options_short": {
+      "message": "Opties"
+   },
+   "options_social_description": {
+      "message": "Hebt u een vraag of een nieuw idee? We zijn er om te helpen."
+   },
+   "options_social_title": {
+      "message": "Contact opnemen"
+   },
+   "options_supportUs_description": {
+      "message": "Neem even de tijd om ABP te beoordelen of aan het project te doneren. Bedankt voor uw steun!"
+   },
+   "options_supportUs_title": {
+      "message": "Bevalt Adblock Plus?"
+   },
+   "options_support_title": {
+      "message": "Ondersteuning"
+   },
+   "options_tab_advanced": {
+      "message": "Geavanceerd"
+   },
+   "options_tab_allowlist": {
+      "message": "Op de lijst toegestane websites"
+   },
+   "options_tab_general": {
+      "message": "Algemeen"
+   },
+   "options_tab_help": {
+      "message": "Help"
+   },
+   "options_tracking_warning_1": {
+      "message": "We hebben gemerkt dat u zowel \u003Cstrong>$tracking$\u003C/strong> als \u003Cstrong>$acceptableAds$\u003C/strong> hebt ingeschakeld.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_2": {
+      "message": "Om adverteerders relevantere reclame aan u te laten zien, willen we dat u weet dat er enig volgen met acceptabele reclame \u003Cstrong>kan\u003C/strong> plaatsvinden."
+   },
+   "options_tracking_warning_3": {
+      "message": "Als u de voorkeur geeft aan extra privacy, selecteer dan het onderstaande vakje \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong>.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "OK, begrepen"
+   },
+   "options_upgrade_button": {
+      "message": "Upgraden"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Sluiten"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Tonen van meldingen stoppen"
+   },
+   "premium_upgrade": {
+      "message": "Upgraden"
+   },
+   "problem_note": {
+      "message": "Let op dat, afhankelijk van hoe u ABP gebruikt, het misschien nodig is na het herinstalleren van Adblock Plus uw instellingen opnieuw te configureren, alsmede de filters en op de lijst toegestane websites aan te passen."
+   },
+   "problem_os_mac": {
+      "message": "Mac"
+   },
+   "problem_os_windows": {
+      "message": "Windows"
+   },
+   "problem_social_description": {
+      "message": "Ondervindt u een probleem? Neem contact op met ons ondersteuningsteam"
+   },
+   "problem_social_email": {
+      "message": "E-mailadres"
+   },
+   "problem_social_facebook": {
+      "message": "Facebook"
+   },
+   "problem_social_title": {
+      "message": "Nog steeds op zoek naar hulp?"
+   },
+   "problem_social_twitter": {
+      "message": "Twitter"
+   },
+   "problem_solution_action": {
+      "message": "Klik hier om Adblock Plus te verwijderen en opnieuw te installeren"
+   },
+   "problem_solution_opera_step_1": {
+      "message": "Deze koppeling naar Opera Addons openen (wordt in een nieuw tabblad geopend)"
+   },
+   "problem_solution_opera_step_2": {
+      "message": "\u003Cem0>Klik met de rechtermuisknop\u003C/em0> / \u003Cem1>Houd control ingedrukt en klik\u003C/em1> vanuit de Opera-werkbalk op het \u003Cstrong>Adblock Plus\u003C/strong>-pictogram en selecteer \u003Cstrong>Extensie beheren\u003C/strong>."
+   },
+   "problem_solution_opera_step_3": {
+      "message": "Klik op de \u003Cstrong>pijl\u003C/strong> naast het Adblock Plus-pictogram."
+   },
+   "problem_solution_opera_step_4": {
+      "message": "Zoek naar Adblock Plus en klik in de rechterbovenhoek op de \u003Cstrong>X\u003C/strong>."
+   },
+   "problem_solution_opera_step_5": {
+      "message": "Klik op \u003Cstrong>Verwijderen\u003C/strong>."
+   },
+   "problem_solution_opera_step_6": {
+      "message": "Vernieuw de Opera Addons-pagina."
+   },
+   "problem_solution_opera_step_7": {
+      "message": "Klik op \u003Cstrong>Toevoegen aan Opera\u003C/strong>."
+   },
+   "problem_solution_title": {
+      "message": "De oplossing:"
+   },
+   "problem_subtitle": {
+      "message": "Hierdoor zijn uw ABP-instellingen teruggezet naar de standaardwaarden. Om het probleem verhelpen, dient u Adblock Plus te verwijderen en opnieuw te installeren. Klik op de onderstaande koppeling om dit te doen."
+   },
+   "problem_subtitle_opera": {
+      "message": "Hierdoor zijn uw ABP-instellingen teruggezet naar de standaardwaarden. Om het probleem verhelpen, dient u Adblock Plus te verwijderen en opnieuw te installeren. Volg de onderstaande stappen om dit te doen."
+   },
+   "problem_title": {
+      "message": "Door een browserprobleem zijn uw ABP-instellingen teruggezet."
+   },
+   "refresh_this_page": {
+      "message": "Deze pagina vernieuwen"
+   },
+   "refresh_to_take_effect": {
+      "message": "Klik op de knop hieronder om wijzigingen door te voeren."
+   },
+   "sendReport": {
+      "message": "Een probleem op deze pagina melden"
+   },
+   "share_on_facebook": {
+      "message": "Delen op Facebook"
+   },
+   "share_on_twitter": {
+      "message": "Delen op Twitter"
+   },
+   "share_on_twitter_message": {
+      "message": "Ik heb reclame geblokkeerd $number$ met Adblock Plus. Probeer het eens - het is GRATIS!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "share_on_weibo": {
+      "message": "Delen op Weibo"
+   },
+   "share_on_weibo_message": {
+      "message": "Ik heb reclame geblokkeerd $number$ met Adblock Plus. Probeer het eens - het is GRATIS!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "social_media_share": {
+      "message": "Aantallen delen met vrienden"
+   },
+   "stats_header": {
+      "message": "Aantal geblokkeerde items"
+   },
+   "stats_label_page": {
+      "message": "op deze pagina"
+   },
+   "stats_label_total": {
+      "message": "in totaal"
+   },
+   "status_domain": {
+      "message": "Deze website:"
+   },
+   "status_header": {
+      "message": "Advertenties blokkeren op"
+   },
+   "status_page": {
+      "message": "Deze pagina:"
+   },
+   "too_many_filters": {
+      "message": "Maximum aantal filters bereikt. Verwijder andere filters van hetzelfde type voordat u nieuwe toevoegt."
+   },
+   "unexpected_filter_list_header": {
+      "message": "De headers voor filterlijsten worden alleen ondersteund in downloadbare filterlijsten."
+   },
+   "updates_adblockBrowser": {
+      "message": "Als u de controle hebt op uw desktop, kunt u ook advertenties blokkeren en uw privacy en beveiliging verbeteren op uw mobiele apparaat. Download de \u003Ca>Adblock Browser-app hieronder\u003C/a>."
+   },
+   "updates_blockAds": {
+      "message": "De Open Source Rebel Alliance heeft nieuwe blokkeringsfilters gemaakt waarmee u verborgen advertenties op websites zoals Facebook kunt laten verdwijnen, zelfs als het imperium terugslaat."
+   },
+   "updates_contribute_donate_action": {
+      "message": "Bijdragen"
+   },
+   "updates_contribute_donate_subtitle": {
+      "message": "Uw steun helpt ons om Adblock Plus te verbeteren."
+   },
+   "updates_contribute_donate_title": {
+      "message": "Draag bij aan het ABP-project"
+   },
+   "updates_contribute_rate_action": {
+      "message": "Beoordeel het"
+   },
+   "updates_contribute_rate_subtitle": {
+      "message": "Neem een moment de tijd en vertel anderen over Adblock Plus door het te beoordelen. Dit is zo gedaan en gratis!"
+   },
+   "updates_contribute_rate_title": {
+      "message": "Beoordeel het!"
+   },
+   "updates_contribute_subtitle": {
+      "message": "U kunt ABP op twee manieren steunen:"
+   },
+   "updates_contribute_subtitle_generic": {
+      "message": "Overweeg ondersteuning aan ABP:"
+   },
+   "updates_contribute_title": {
+      "message": "Bent u tevreden over het gebruik van Adblock Plus?"
+   },
+   "updates_fixes_title": {
+      "message": "Oplossingen"
+   },
+   "updates_heading": {
+      "message": "Adblock Plus is bijgewerkt!"
+   },
+   "updates_improvements_title": {
+      "message": "Verbeteringen"
+   },
+   "updates_link": {
+      "message": "Lees meer"
+   },
+   "updates_optionsPageNews": {
+      "message": "Gloednieuwe pagina voor Instellingen - vernieuwd en gerestyled met meer opties voor privacy en beveiliging - zodat het makkelijker is om \u003Ca>Adblock Plus naar wens aan te passen\u003C/a>."
+   },
+   "updates_phone": {
+      "message": "Maar wacht! Hoe zit het met uw telefoon?"
+   },
+   "updates_social_description": {
+      "message": "Deel wat u van de laatste update van ABP vindt."
+   },
+   "updates_social_email": {
+      "message": "E-mail"
+   },
+   "updates_social_facebook": {
+      "message": "Facebook"
+   },
+   "updates_social_title": {
+      "message": "We horen graag van u!"
+   },
+   "updates_social_twitter": {
+      "message": "Twitter"
+   },
+   "updates_status": {
+      "message": "Update voltooid"
+   },
+   "updates_subheading": {
+      "message": "Wat is er nieuw?"
+   },
+   "updates_subtitle": {
+      "message": "We denken dat u de laatste updates zult kunnen waarderen."
+   },
+   "updates_title": {
+      "message": "Adblock Plus is up-to-date!"
+   },
+   "updates_update_f1_description": {
+      "message": "We hebben onze formulering bijgewerkt om de\u003Cstrong>toelatingslijst\u003C/strong> in de toekomst te gebruiken."
+   },
+   "updates_update_f1_title": {
+      "message": "Onze formulering is bijgewerkt"
+   },
+   "updates_update_f2_description": {
+      "message": "U zult nu op de hoogte worden gebracht wanneer sommige filters in de downloadbare filterlijst uitgeschakeld zijn, zodat u die weer naar wens kunt inschakelen."
+   },
+   "updates_update_f2_title": {
+      "message": "Voeg optie toe voor het opnieuw inschakelen van filters in downloadbare filterlijsten"
+   },
+   "updates_update_f3_description": {
+      "message": "We hebben de link achter de knop 'Beoordeel' bijgewerkt in Microsoft Edge, zodat die naar de juiste add-on winkel verwijst."
+   },
+   "updates_update_f3_title": {
+      "message": "De verkeerde link achter de knop 'Beoordeel' gerepareerd"
+   },
+   "updates_update_i2_description": {
+      "message": "U kunt nu websites in andere talen bezoeken en nog steeds de advertenties laten blokkeren. Wanneer u een website in een bepaalde taal bezoekt, kunt u zelf kiezen of u advertenties op alle websites in die taal wilt blokkeren. U kunt deze optie in- of uitschakelen in de \u003Cstrong>Instellingen > Algemeen > Taalfilterlijsten\u003C/strong>. Voor onze gebruikers van Chrome, Firefox en Microsoft Edge is deze optie al beschikbaar en Opera zal binnenkort ook die mogelijkheid bieden."
+   },
+   "updates_update_i2_image": {
+      "message": "'Houd me op de hoogte van beschikbare taalfilters' is geaccentueerd in de sectie 'Taal' van de opties-pagina."
+   },
+   "updates_update_i2_title": {
+      "message": "Melding optie voor beschikbare taalfilters toegevoegd"
+   },
+   "updates_update_i3_description": {
+      "message": "Als u het Adblock Plus menu opent via uw pictogram op de werkbalk, ziet u een nieuw ontworpen voettekst. Van hieruit heeft u makkelijk toegang tot interessante links om meer uit uw product te halen. Vraag hulp aan het Help Center of neem contact op met ons op social media en enzovoorts!"
+   },
+   "updates_update_i3_title": {
+      "message": "Toegevoegd zijn links voor snelle toegang tot de voettekst in het menu"
+   },
+   "updates_update_i4_description": {
+      "message": "Als u vaak aangepaste filters toevoegt aan ABP, dan ziet u nu de foutmeldingen veel duidelijker mocht er zich een probleem voordoen. We hopen dat dit helpt!"
+   },
+   "updates_update_i4_title": {
+      "message": "Berichten bijgewerkte filtervalidatie"
+   }
+}

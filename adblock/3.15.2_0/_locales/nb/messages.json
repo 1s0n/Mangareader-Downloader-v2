@@ -1,0 +1,714 @@
+{
+   "add": {
+      "message": "Legg til"
+   },
+   "block_element": {
+      "message": "Blokkér element"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "click_element_to_block_it": {
+      "message": "Klikk på et element på siden for å blokkere det."
+   },
+   "common_copyright": {
+      "message": "Opphavsrett © $year$ Alle rettigheter forbeholdt. Adblock Plus® er et registrert varemerke fra \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Skjul Adblock Advarsler"
+   },
+   "common_feature_circumvention_title": {
+      "message": "ABP filterliste for Antiomgåelse"
+   },
+   "common_feature_malware_title": {
+      "message": "Blokkér Malware"
+   },
+   "common_feature_privacy_title": {
+      "message": "Blokkér ytterligere sporing"
+   },
+   "common_feature_social_title": {
+      "message": "Blokkér sporing via sosiale medier-ikoner"
+   },
+   "common_notification_hide": {
+      "message": "Lukk påminnelse"
+   },
+   "continue": {
+      "message": "Fortsett"
+   },
+   "copy_selected": {
+      "message": "Kopier valgte objekter"
+   },
+   "day1_blockelement_description": {
+      "message": "Blokkér dem med Adblock Plus' fiffige funsjon for å blokkere elementer."
+   },
+   "day1_blockelement_more": {
+      "message": "Lær hvordan her"
+   },
+   "day1_blockelement_screenshot": {
+      "message": "Eksempel på en ikon-pop-up, der \"Blokkér element\"-knappen er uthevet."
+   },
+   "day1_blockelement_title": {
+      "message": "Er du lei av deprimerende kommentarfelt?"
+   },
+   "day1_community_contact": {
+      "message": "Kontakt oss!"
+   },
+   "day1_community_contact_subject": {
+      "message": "Leter etter hjelp!"
+   },
+   "day1_community_description_1": {
+      "message": "Som et prosjekt med åpen kildekode er vi avhengige av brukere som deg for å hjelpe oss med å forbedre annonseblokkeringsopplevelsen."
+   },
+   "day1_community_description_2": {
+      "message": "Hvilke funksjoner ønsker du å se? Hva kan vi gjøre bedre? Forårsaker Adblock Plus problemer på enkelte nettsteder?"
+   },
+   "day1_community_title": {
+      "message": "Bli med i Adblock Plus-samfunnet"
+   },
+   "day1_header_more": {
+      "message": "Lær mer om skadelig annonsering"
+   },
+   "day1_header_title": {
+      "message": "Adblock Plus \u003Cstrong>blokkerte \u003Cem0>$ads$ annonser\u003C/em0> den \u003Cem1>siste halvtimen\u003C/em1>,\u003C/strong> der noen av dem kan ha hatt skadelig innhold",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "delete": {
+      "message": "Slett"
+   },
+   "description": {
+      "message": "Med mer enn 500 millioner nedlastinger, er Adblock Plus blant de mest populære reklamefjernerene i verden."
+   },
+   "devtools_action_block": {
+      "message": "Blokkér element"
+   },
+   "devtools_action_remove": {
+      "message": "Fjern regel"
+   },
+   "devtools_action_unblock": {
+      "message": "Legg til unntak"
+   },
+   "devtools_filter_origin_custom": {
+      "message": "brukerdefinert"
+   },
+   "devtools_filter_origin_none": {
+      "message": "abonnement uten navn"
+   },
+   "devtools_filter_subtitle": {
+      "message": "Opprinnelse"
+   },
+   "devtools_filter_title": {
+      "message": "Filter"
+   },
+   "devtools_footer": {
+      "message": "\u003Ca0>Last inn\u003C/a0> siden på nytt for å se effekten av endringene av filteret"
+   },
+   "devtools_header": {
+      "message": "Vis \u003Cslot0>\u003C/slot0> elementer av type \u003Cslot1>\u003C/slot1>"
+   },
+   "devtools_header_state_all": {
+      "message": "alle"
+   },
+   "devtools_header_state_blocked": {
+      "message": "blokkerte"
+   },
+   "devtools_header_type_any": {
+      "message": "enhver"
+   },
+   "devtools_request_subtitle": {
+      "message": "Dokumentdomene"
+   },
+   "devtools_request_title": {
+      "message": "Forespør"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> skrevet om til \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "devtools_type_title": {
+      "message": "Type"
+   },
+   "easy_create_filter": {
+      "message": "Blokkér element"
+   },
+   "filter_action_failed": {
+      "message": "Noe gikk dessverre galt. Prøv igjen."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Feilet, nedlastingsfeil"
+   },
+   "firstRun_browser_description": {
+      "message": "Fra teamet bak Adblock Plus, den mest populære annonseblokkereren for nettlesere på datamaskinen. Adblock Browser er nå tilgjengelig for dine Android- og iOS-enheter."
+   },
+   "firstRun_browser_store_android": {
+      "message": "Android-app fra Google Play"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "Tilgjengelig i iTunes App Store"
+   },
+   "firstRun_browser_title": {
+      "message": "Adblock Browser-app"
+   },
+   "firstRun_control_description": {
+      "message": "Som standard kan du bli vist noen ikkepåtrengende annonser som oppfyller \u003Ca0>strenge kriterier\u003C/a0>. Vi klassifiserer de annonsene som Akseptable annonser. Foretrekker du å blokkere alle annonser? \u003Ca1>Skru av Akseptable annonser\u003C/a1> i \u003Ca2>innstillingene\u003C/a2> dine."
+   },
+   "firstRun_control_title": {
+      "message": "Du har kontrollen"
+   },
+   "firstRun_fair_title": {
+      "message": "Rimelig bruk"
+   },
+   "firstRun_subtitle": {
+      "message": "Du tok nettopp kontroll over nettleseren din."
+   },
+   "firstRun_title": {
+      "message": "Vellykket installasjon!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "Noen brukere opplever et problem med at denne siden åpnes hver gang de åpner nettleseren. Det problemet kan fikses ved å avinstallere Adblock Plus og installere det på nytt:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "Dersom du fortsatt trenger hjelp, kan du kontakte oss på \u003Ca0>support@adblockplus.org\u003C/a0>, eller besøke \u003Ca1>Hjelpesenteret vårt\u003C/a1>."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "Åpne nettleserens Utvidelser-fane."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "Lokaliser Adblock Plus og fjern den."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "Installer Adblock Plus på nytt fra \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "firstRun_warning_reinitialized": {
+      "message": "Det kan se ut som at en feil i systemet gjorde at alle filtrene ble fjernet, og vi klarte ikke å gjenopprette sikkerhetskopien. Vi måtte derfor tilbakestille alle filtrene og innstillingene for Akseptable annonser. Vennligst sjekk filterlistene og innstillingene for Akseptable annonser i \u003Ca>Alternativer for Adblock Plus\u003C/a>."
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonym innsending"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Vi vil ikke kunne svare deg, og det vil sannsynligvis gjøre at rapporten får lavere prioritet."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Lukk"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Skriv inn kommentar"
+   },
+   "issueReporter_comment_description": {
+      "message": "I tekstfeltet nedenfor kan du skrive en kommentar som kan hjelpe oss til å forstå problemet. Dette er valgfritt, men anbefalt hvis problemet ikke åpenbart. Du kan også se på rapportdataene før de sendes."
+   },
+   "issueReporter_comment_label": {
+      "message": "Kommentar (valgfritt):"
+   },
+   "issueReporter_config_label": {
+      "message": "Inkluder informasjon om nettleserinnstillingene mine, i tillegg til en liste over alle utvidelsene jeg bruker."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Rapporten er lagret. Du kan få tilgang til den på følgende internettadresse:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>Merk:\u003C/strong> En ny fane vil bli åpnet midlertidig, slik at siden du er på ikke blir påvirket av Problemrapportereren."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Detaljer"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Ferdig"
+   },
+   "issueReporter_email_description": {
+      "message": "Vi oppfordrer deg til å oppgi en gyldig e-postadresse, slik at vi kan kontakte deg hvis vi har spørsmål angående denne rapporten. Det vil også gjøre at vi kan gjenkjenne dine bidrag, og prioritere dem høyere."
+   },
+   "issueReporter_email_label": {
+      "message": "E-post:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Et forsøk på å sende inn rapporten feilet, med feilkoden \"?1?\". Vennligst kontrollér at du har internettilgang, og prøv på nytt. Hvis problemet vedvarer kan du be om hjelp i [link]Adblock Plus forum[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Adblock Plus er aktivert, men jeg ser fremdeles én eller flere annonser."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Jeg ser fremdeles annonser"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Velg dette alternativet hvis siden mangler viktig innhold, vises feil eller ikke fungerer sånn det skal. Du kan finne ut om Adblock Plus er roten til problemet ved å deaktivere Adblock Plus midlertidig."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Siden jeg prøver å besøke vises ikke riktig"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "Bruk disse verktøyene for å markere hver annonse eller skjule sensitiv informasjon i skjermbildet. Markering av annonsene vil hjelpe oss med å rette problemet raskere."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "Marker problem"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Problemet du rapporterte inn er allerede kjent for oss. Mer informasjon:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "Marker problem"
+   },
+   "issueReporter_other_issues": {
+      "message": "Hvis du opplever andre problemer, kan du kontakte oss via \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "Problemrapporterer"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Personvernspolicy"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "behandler"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "For å hjelpe oss å fortså problemet, trenger vi et skjermbilde når du sender inn feilrapporten. Hvis du er på en nettside der du har lagt inn personlig informasjon, kan det hende at vi ser den personlige informasjonen på skjermbildet. Hvis du ikke er komfortabel med å sende inn et skjermbilde, kan du sende en beskrivelse av problemet til \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Skjul"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "Marker"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "Velg problem"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Send rapport"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Send rapport"
+   },
+   "issueReporter_sending": {
+      "message": "Vennligst vent mens Adblock Plus sender inn rapporten din."
+   },
+   "issueReporter_showData_label": {
+      "message": "Klikk her for å se gjennom rapportdataene før innsending"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Vennligst velg et problem:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Hvilken type problem opplever du?"
+   },
+   "line": {
+      "message": "Linje $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus utviklerutgave"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - gratis reklamefjerner"
+   },
+   "notification_configure": {
+      "message": "Tilpass varslingsinnstillinger"
+   },
+   "notification_day1_message": {
+      "message": "Det der er mange irriterende annonser. \u003Ca>Lær om flere ting Adblock Plus kan blokkere.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "Du har allerede blokkert $ads$ annonser!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "Åpne alle koblinger fra denne meldingen"
+   },
+   "notification_without_buttons": {
+      "message": "Trykk på varselet for å åpne alle koblingene."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "Kan du fortelle oss hvorfor du har skrudd av Akseptable annonser, slik at vi kan forbedre tjenesten?"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "Nei takk"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "Gå til spørreundersøkelsen"
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Viktig:\u003C/strong> Du har deaktivert \u003Cstrong>Do Not Track (DNT)\u003C/strong> i innstillingene til nettleseren din. Du må aktivere \u003Cstrong>DNT\u003C/strong> i nettleserinnstillingene dine for at denne funksjonen skal fungere. \u003Ca>Finn ut hvordan du aktiverer DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Akseptable annonser"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Tillat kun annonser uten tredjepartssporing"
+   },
+   "options_advanced_description": {
+      "message": "Tilpass Adblock Plus, legg til eller fjern filterlister, lag og vedlikehold dine egne filterlister"
+   },
+   "options_builtin_filterList_add": {
+      "message": "Legg til innebygde filterlister"
+   },
+   "options_close": {
+      "message": "lukk"
+   },
+   "options_control_remove_title": {
+      "message": "fjern"
+   },
+   "options_customFilter_cancel": {
+      "message": "Avbryt"
+   },
+   "options_customFilters_description": {
+      "message": "Lag dine egne tilpassede filtre for å kontrollere hvilket innhold Adblock Plus tillater eller blokkerer. \u003Ca0>Lær hvordan du lager filtre\u003C/a0>"
+   },
+   "options_customFilters_title": {
+      "message": "Dine tilpassede filtre"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Min filterliste"
+   },
+   "options_customize_blockElement": {
+      "message": "Vis høyreklikkmenyvalget \"Blokkér element\""
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Blokkér irriterende elementer på en nettside midlertidig, f.eks. bilder eller animasjoner."
+   },
+   "options_customize_header": {
+      "message": "Tilpasninger"
+   },
+   "options_customize_iconStats": {
+      "message": "Vis antall blokkerte annonser i ikonet"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Vis \"Adblock Plus\"-panelet i utviklerverktøyene"
+   },
+   "options_customize_showNotifications": {
+      "message": "Vis nyttige varsler"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Tillat notifikasjoner fra Adblock Plus (notifikasjoner om kritiske ytelsesproblemer vil alltid vises uansett)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Opphavsrett © $currentYear$ eyeo GmbH.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "Om Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Alle rettigheter forbehold. Adblock Plus® er et registrert varemerke fra eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Versjonsnummer $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "Filterliste-URL"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Angi en gyldig URL"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "URL-en må starte med $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "Legg til en filterliste"
+   },
+   "options_dialog_invalid_message": {
+      "message": "Av sikkerhetshensyn kan kun HTTPS-filterlister legges til."
+   },
+   "options_dialog_invalid_title": {
+      "message": "En feil har oppstått"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Det er ingen tilgjengelige språk."
+   },
+   "options_dialog_language_title": {
+      "message": "Velg et språk"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Ja, bruk denne filterlisten"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Er du sikker på at du vil legge til denne filterlisten?"
+   },
+   "options_email": {
+      "message": "E-post:"
+   },
+   "options_english": {
+      "message": "Engelsk"
+   },
+   "options_filterList_add": {
+      "message": "Legg til en ny filterliste"
+   },
+   "options_filterList_column_name": {
+      "message": "Filterlister"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_column_update": {
+      "message": "Sist oppdatert"
+   },
+   "options_filterList_description": {
+      "message": "Hver enkelt Adblock Plus-innstilling fungerer på grunn av en filterliste. Under vises filterlistene som er knyttet til alle Adblock Plus-innstillingene dine. Du kan legge til ytterligere filterlister, som er laget og vedlikeholdes av det pålitelige nettsamfunnet vårt."
+   },
+   "options_filterList_empty": {
+      "message": "Du har ikke lagt filterlister til Adblock Plus ennå. Filterlister som du legger til vil vises her."
+   },
+   "options_filterList_hours": {
+      "message": "timer siden"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Feilet, kontrollsummen stemmer ikke"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Oppdaterer"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Feilet, ikke en gyldig filterliste"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Feilet, ikke en gyldig adresse"
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "Nedlastingen mislyktes. URL-en må starte med $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "minutter siden"
+   },
+   "options_filterList_now": {
+      "message": "Akkurat nå"
+   },
+   "options_filterList_source": {
+      "message": "kilde"
+   },
+   "options_filterList_title": {
+      "message": "Filterlister"
+   },
+   "options_filterList_update": {
+      "message": "oppdater alle filterlister"
+   },
+   "options_filterList_updateNow": {
+      "message": "oppdater nå"
+   },
+   "options_filterList_website": {
+      "message": "nettside"
+   },
+   "options_filter_list_rule": {
+      "message": "Filterregel"
+   },
+   "options_filters_search_or_add": {
+      "message": "Søk / Legg til filter (f.eks. $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "Om Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Bidra"
+   },
+   "options_general_description": {
+      "message": "Avgjør hva Adblock Plus viser og skjuler på nettsteder"
+   },
+   "options_generic_error": {
+      "message": "Oisann! Noe gikk dessverre galt. Prøv igjen."
+   },
+   "options_help_center": {
+      "message": "Leter du etter svar på spørsmålene dine? \u003Ca0>Besøk hjelpesenteret vårt (kun engelskspråklig)\u003C/a0>"
+   },
+   "options_help_description": {
+      "message": "Finn hjelp eller kontakt oss"
+   },
+   "options_language_change": {
+      "message": "endre"
+   },
+   "options_language_empty": {
+      "message": "Du har ingen språkspesifikke filtre."
+   },
+   "options_language_filter_list": {
+      "message": "Språkspesfikke filterlister"
+   },
+   "options_language_join": {
+      "message": "$lang1$, $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>TIPS:\u003C/strong> Velg kun de språkene du trenger. Jo flere språk du velger, jo tregere er annonseblokkeringen, og dermed også den generelle netthastigheten din."
+   },
+   "options_learn_more": {
+      "message": "Få mer informasjon"
+   },
+   "options_more_filters_description": {
+      "message": "Dette er ytterligere filtre som du har lagt til Adblock Plus tidligere."
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>OBS:\u003C/strong> Du bør kun bruke tredjepartsfilterlister fra leverandører som du stoler på."
+   },
+   "options_new_label": {
+      "message": "Ny"
+   },
+   "options_page_document_title": {
+      "message": "Innstillinger"
+   },
+   "options_page_title": {
+      "message": "Innstillinger"
+   },
+   "options_privacy_header": {
+      "message": "Personvern & sikkerhet"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Beskytt privatlivet ditt fra kjente parter som kan spore nettaktivteten din på tvers av nettsidene du besøker."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Sosiale medier-ikonene på nettstedene du besøker tillater at sosiale nettverk kan bygge en profil av deg basert på netthistorikken din - til og med om du ikke klikker på dem. Ved å skjule disse ikonene kan du beskytte privatlivet ditt."
+   },
+   "options_refresh": {
+      "message": "Oppdater"
+   },
+   "options_report_bug": {
+      "message": "Funnet en feil? \u003Ca>Send oss en feilrapport\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Ønsker du støtte fra vårt fellesskap? \u003Ca>Besøk forumet\u003C/a>"
+   },
+   "options_short": {
+      "message": "Alternativer"
+   },
+   "options_social_description": {
+      "message": "Har du et spørsmål eller en ny idé? Vi er her for å hjelpe."
+   },
+   "options_social_title": {
+      "message": "Ta kontakt"
+   },
+   "options_support_title": {
+      "message": "Støtte"
+   },
+   "options_tab_advanced": {
+      "message": "Avansert"
+   },
+   "options_tab_general": {
+      "message": "Generelt"
+   },
+   "options_tab_help": {
+      "message": "Hjelp"
+   },
+   "options_tracking_warning_1": {
+      "message": "Vi registrerer at du har aktivert både \u003Cstrong>$tracking$\u003C/strong> og \u003Cstrong>$acceptableAds$\u003C/strong>.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_3": {
+      "message": "Hvis du foretrekker ekstra beskyttelse av privatliivet, kan du aktivere \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong>-sjekkboksen under.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "Ok, skjønner"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Lukk"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Ikke vis flere varsler"
+   },
+   "refresh_this_page": {
+      "message": "Last inn denne siden på nytt"
+   },
+   "refresh_to_take_effect": {
+      "message": "Klikk \u003Cstrong>Oppdater\u003C/strong> for se effekten av endringene."
+   },
+   "sendReport": {
+      "message": "Varsle om problem"
+   },
+   "stats_header": {
+      "message": "Antall blokkerte elementer"
+   },
+   "stats_label_page": {
+      "message": "på denne siden"
+   },
+   "stats_label_total": {
+      "message": "totalt"
+   },
+   "status_domain": {
+      "message": "Dette nettstedet:"
+   },
+   "status_header": {
+      "message": "Blokkér annonser på:"
+   },
+   "status_page": {
+      "message": "Denne siden:"
+   }
+}

@@ -1,0 +1,112 @@
+{
+   "add": {
+      "message": "Voeg by"
+   },
+   "cancel": {
+      "message": "Kanselleer"
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Adblock waarskuwing boodskappe versteek"
+   },
+   "common_feature_malware_title": {
+      "message": "Blok wanware"
+   },
+   "common_feature_privacy_title": {
+      "message": "Blok bykomende dop"
+   },
+   "common_feature_social_title": {
+      "message": "Blok sosiale media ikone dop"
+   },
+   "continue": {
+      "message": "Gaan voort"
+   },
+   "description": {
+      "description": "https://gitlab.com/eyeo/adblockplus/webstores/blob/d7acfa77af92c53bce1aa5e243bd81768e004e01/spec/chrome-web-store/listing-en_US.md#summary, Note: this cannot be longer than 132 characters",
+      "message": "Block YouTube™ ads, pop-ups & fight malware!"
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Misluk, aflaai nie voltooi"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonieme voorlegging"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Ons sal nie in staat wees om jou kom terug en sal waarskynlik die verslag laer prioritiseer."
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Tik kommentaar"
+   },
+   "issueReporter_comment_description": {
+      "message": "Die teksveld hieronder kan jy tik 'n boodskap om te help ons verstaan die probleem. Hierdie stap is opsioneel maar aanbeveel as die probleem is nie voor die hand liggend. Jy kan ook die verslag data hersien voordat dit gestuur word nie."
+   },
+   "issueReporter_comment_label": {
+      "message": "Kommentaar (opsioneel):"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Jou verslag is gestoor. Jy kan toegang tot dit by die volgende adres:"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Gedoen"
+   },
+   "issueReporter_email_description": {
+      "message": "Ons moedig jou aan om 'n geldige e-posadres intik sodat ons u kan kontak indien daar is vrae oor jou verslag. Dit sal ook ons toelaat om te herken jou bydraes en te prioritiseer hulle hoër."
+   },
+   "issueReporter_email_label": {
+      "message": "E-pos:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "'N poging om die verslag stuur, het misluk met fout kode \"?1?\". Maak asseblief seker jy is gekoppel aan die Internet en probeer weer. As die probleem voortduur versoek asseblief hulp in die [link] Adblock Plus forum [/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Kies hierdie opsie as 'n advertensie vertoon ten spyte van Adblock Plus geaktiveer."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus 'n advertensie blokkeer nie"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Kies hierdie opsie as die bladsy ontbreek belangrike inhoud, wys verkeerd of versuim om behoorlik te funksioneer. Jy kan bepaal of Adblock Plus die oorsaak van die probleem deur dit tydelik versper."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus te veel blokkeer"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Die probleem wat jy gerapporteer is waarskynlik reeds bekend. Meer inligting:"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Privaatheid beleid"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Stuur verslag"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Stuur verslag"
+   },
+   "issueReporter_sending": {
+      "message": "Wag asseblief terwyl Adblock Plus is jou verslag dien."
+   },
+   "issueReporter_showData_label": {
+      "message": "Wys rapporteer data"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Hierdie venster sal jou deur die stappe wat nodig vir die indiening van 'n Adblock Plus kwessie verslag lei. Eerstens, kies asseblief die tipe uitgawe wat jy ervaar op hierdie bladsy:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Kies uitgawe tipe"
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_releasebuild": {
+      "description": "Extension name to be shown for release builds. Note: this cannot be longer than 45 characters.",
+      "message": "Adblock Plus - free ad blocker"
+   },
+   "options_customFilter_cancel": {
+      "message": "Kanselleer"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Misluk, nie 'n geldige adres"
+   },
+   "options_short": {
+      "message": "Opsies"
+   }
+}

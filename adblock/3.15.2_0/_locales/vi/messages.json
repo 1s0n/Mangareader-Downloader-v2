@@ -1,0 +1,714 @@
+{
+   "add": {
+      "message": "Thêm"
+   },
+   "block_element": {
+      "message": "Chặn phần tử"
+   },
+   "cancel": {
+      "message": "Hủy bỏ"
+   },
+   "click_element_to_block_it": {
+      "message": "Nhấp vào một phần tử trên trang để chặn nó."
+   },
+   "common_copyright": {
+      "message": "Copyright © $year$ Bảo lưu mọi quyền. Adblock Plus® là thương hiệu đã đăng ký của \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Ẩn thông báo cảnh báo chặn quảng cáo"
+   },
+   "common_feature_circumvention_title": {
+      "message": "ABP Anti-Circumvention Filter List"
+   },
+   "common_feature_malware_title": {
+      "message": "Chặn phần mềm độc hại"
+   },
+   "common_feature_privacy_title": {
+      "message": "Chặn theo dõi bổ sung"
+   },
+   "common_feature_social_title": {
+      "message": "Chặn các biểu tượng theo dõi mạng xã hội"
+   },
+   "common_notification_hide": {
+      "message": "Đóng thông báo"
+   },
+   "continue": {
+      "message": "Tiếp tục"
+   },
+   "copy_selected": {
+      "message": "Sao chép đã chọn"
+   },
+   "day1_blockelement_description": {
+      "message": "Chặn chúng với tính năng chặn phần tử tiện lợi Adblock Plus."
+   },
+   "day1_blockelement_more": {
+      "message": "Học cách làm"
+   },
+   "day1_blockelement_screenshot": {
+      "message": "Ví dụ về biểu tượng bật lên với nút \"Chặn phần tử\" được tô sáng."
+   },
+   "day1_blockelement_title": {
+      "message": "Mệt mỏi của các phần bình luận đưa bạn xuống?"
+   },
+   "day1_community_contact": {
+      "message": "Hãy liên hệ với chúng tôi!"
+   },
+   "day1_community_contact_subject": {
+      "message": "Tìm kiếm sự hỗ trợ!"
+   },
+   "day1_community_description_1": {
+      "message": "Là một dự án nguồn mở, chúng tôi phụ thuộc vào những người dùng như bạn để giúp chúng tôi cải thiện trải nghiệm chặn quảng cáo của bạn."
+   },
+   "day1_community_description_2": {
+      "message": "Những tính năng bạn muốn xem? Chúng ta có thể làm gì tốt hơn? Là Adblock Plus làm cho một số trang web hoạt động sai?"
+   },
+   "day1_community_title": {
+      "message": "Tham gia cộng đồng Adblock Plus"
+   },
+   "day1_header_more": {
+      "message": "Tìm hiểu thêm về quảng cáo độc hại"
+   },
+   "day1_header_title": {
+      "message": "Adblock Plus \u003Cstrong>đã chặn \u003Cem0>$ads$ qc\u003C/em0> trong \u003Cem1>nửa giờ qua\u003C/em1>,\u003C/strong>một số trong đó có thể chứa nội dung độc hại",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "delete": {
+      "message": "Xoá"
+   },
+   "description": {
+      "message": "Hãy tải về Adblock Plus, một trong những trình chặn quảng cáo phổ biến nhất thế giới."
+   },
+   "devtools_action_block": {
+      "message": "Mục chặn"
+   },
+   "devtools_action_remove": {
+      "message": "Loại bỏ quy tắc"
+   },
+   "devtools_action_unblock": {
+      "message": "Thêm ngoại lệ"
+   },
+   "devtools_filter_origin_custom": {
+      "message": "người dùng đã xác định"
+   },
+   "devtools_filter_origin_none": {
+      "message": "đăng ký không tên"
+   },
+   "devtools_filter_subtitle": {
+      "message": "Gốc"
+   },
+   "devtools_filter_title": {
+      "message": "Bộ lọc"
+   },
+   "devtools_footer": {
+      "message": "\u003Ca0>Tải lại\u003C/a0> trang để xem những thay đổi của bộ lọc"
+   },
+   "devtools_header": {
+      "message": "Hiện \u003Cslot0>\u003C/slot0> mục của \u003Cslot1>\u003C/slot1> kiểu"
+   },
+   "devtools_header_state_all": {
+      "message": "tất cả"
+   },
+   "devtools_header_state_blocked": {
+      "message": "đã chặn"
+   },
+   "devtools_header_type_any": {
+      "message": "bất kì"
+   },
+   "devtools_request_subtitle": {
+      "message": "Miền tài liệu"
+   },
+   "devtools_request_title": {
+      "message": "Yêu cầu"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> viết lại thành \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "devtools_type_title": {
+      "message": "Kiểu"
+   },
+   "easy_create_filter": {
+      "message": "Chặn phần tử"
+   },
+   "filter_action_failed": {
+      "message": "Đã xảy ra lỗi. Vui lòng thử lại."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Tải xuống thất bại"
+   },
+   "firstRun_browser_description": {
+      "message": "Từ nhóm đứng sau Adblock Plus, trình chặn quảng cáo phổ biến nhất cho trình duyệt máy tính để bàn, Adblock Browser hiện có sẵn cho các thiết bị Android và iOS của bạn."
+   },
+   "firstRun_browser_store_android": {
+      "message": "Ứng dụng Android trên Google Play"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "Có sẵn trên Kho ứng dụng iTunes"
+   },
+   "firstRun_browser_title": {
+      "message": "Ứng dụng Adblock Browser"
+   },
+   "firstRun_control_description": {
+      "message": "Theo mặc định, bạn có thể thấy một số quảng cáo không xâm phạm tuân thủ \u003Ca0>tiêu chí nghiêm ngặt\u003C/a0>. Chúng tôi xác định những quảng cáo này là Quảng cáo được chấp nhận. Thích chặn tất cả quảng cáo? \u003Ca1>Tắt quảng cáo được chấp nhận\u003C/a1> trong \u003Ca2>Cài đặt\u003C/a2> của bạn."
+   },
+   "firstRun_control_title": {
+      "message": "Bạn đang kiếm soát"
+   },
+   "firstRun_fair_title": {
+      "message": "Sử dụng hợp lý"
+   },
+   "firstRun_subtitle": {
+      "message": "Bạn chỉ cần điều khiển trình duyệt của bạn."
+   },
+   "firstRun_title": {
+      "message": "Cài đặt thành công!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "Một số người dùng gặp sự cố khi trang này mở ra mỗi khi trình duyệt của họ khởi chạy. Có thể giải quyết vấn đề này bằng cách gỡ cài đặt và cài đặt lại Adblock Plus:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "Nếu bạn vẫn cần trợ giúp, hãy liên hệ với chúng tôi tại \u003Ca0>support@adblockplus.org\u003C/a0> hoặc truy cập \u003Ca1>Trung tâm trợ giúp\u003C/a1> của chúng tôi."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "Mở thẻ Mở rộng trình duyệt của bạn."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "Xác định vị trí Adblock Plus và xóa nó."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "Gỡ cài đặt Adblock Plus khỏi \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "firstRun_warning_reinitialized": {
+      "message": "Có vẻ như là một vấn đề gây ra tất cả các bộ lọc phải được loại bỏ và chúng tôi không thể khôi phục lại một bản sao lưu. Vì vậy chúng tôi đã phải thiết lập lại các bộ lọc của bạn và thiết lập danh mục chấp nhận được. Hãy kiểm tra danh sách bộ lọc của bạn và các thiết lập danh mục được chấp nhận trong các \u003Ca>tùy chọn Adblock Plus\u003C/a>."
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Gửi thông tin ẩn danh"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Chúng tôi không thể trở lại với bạn và sẽ hạ mức ưu tiên của báo cáo của bạn."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Đóng"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Điền bình luận"
+   },
+   "issueReporter_comment_description": {
+      "message": "Trường văn bản bên dưới cho phép bạn điền bình luận để giúp chúng tôi hiểu vấn đề. Bước này chỉ là phụ nhưng được khuyến khích nếu vấn đề không rõ ràng. Bạn cũng có thể xem lại dữ liệu báo cáo trước khi gửi."
+   },
+   "issueReporter_comment_label": {
+      "message": "Bình luận (phụ):"
+   },
+   "issueReporter_config_label": {
+      "message": "Bao gồm thông tin về cấu hình trình duyệt của tôi, cũng như danh sách các tiện ích mở rộng đang hoạt động tôi đang sử dụng."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Báo cáo của bạn đã được lưu. Bạn có thể truy cập nó tại địa chỉ sau:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>Lưu ý:\u003C/strong> Một thẻ bổ sung sẽ tạm thời mở ra để trang bạn đang truy cập sẽ không bị ảnh hưởng bởi Trình báo cáo sự cố."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Chi tiết"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Xong"
+   },
+   "issueReporter_email_description": {
+      "message": "Chúng tôi khuyến khích bạn nhập địa chỉ email hợp lệ để chúng tôi tiện liên lạc nếu chúng tôi cần gì từ thông báo của bạn. Đồng thời, nó cũng giúp chúng tôi có thể ghi nhận công lao đóng góp của bạn ."
+   },
+   "issueReporter_email_label": {
+      "message": "Email:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Một nỗ lực gửi báo cáo bị thất bại với mã lỗi \"?1?\". Vui lòng chắc chắn rằng bạn đã được kết nối Internet rồi thử lại. Nếu vấn đề vẫn còn, vui lòng yêu cầu trợ giúp trên [link]diễn đàn Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Chọn tùy chọn này nếu một quảng cáo vẫn hiển thị cho dù Adblock Plus đang được bật."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Tôi vẫn thấy quảng cáo"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Chọn tùy chọn này nếu trang thiếu nội dung quan trọng, hiển thị không chính xác hoặc không vận hành đúng. Bạn có thể xác định xem Adblock Plus có phải là nguyên nhân không bằng cách tạm thời vô hiệu hóa nó."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus chặn quá nhiều"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "Sử dụng các công cụ để làm nổi bật từng quảng cáo hoặc ẩn thông tin nhạy cảm trên ảnh chụp màn hình. Quảng cáo nổi bật sẽ giúp chúng tôi khắc phục vấn đề nhanh hơn."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "Tô đậm vấn đề"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Vấn đề mà bạn báo cáo có thể đã được biết. Thông tin thêm:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "Đánh dấu vấn đề"
+   },
+   "issueReporter_other_issues": {
+      "message": "Đối với tất cả các vấn đề khác, xin vui lòng liên hệ với chúng tôi qua \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "Trình báo cáo lỗi"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Chính sách riêng tư"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "đang xử lý"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "Để giúp chúng tôi hiểu rõ hơn về vấn đề này, cần có ảnh chụp màn hình khi gửi báo cáo sự cố. Tùy thuộc vào trang web bạn hiện đang truy cập, ảnh chụp màn hình có thể chứa thông tin cá nhân. Nếu bạn không thoải mái khi gửi ảnh chụp màn hình, vui lòng gửi email vấn đề của bạn tới \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Ẩn"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "Tô đậm"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "Chọn vấn đề"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Gửi báo cáo"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Gửi báo cáo"
+   },
+   "issueReporter_sending": {
+      "message": "Vui lòng đợi trong khi Adblock Plus đang gửi lên báo cáo của bạn."
+   },
+   "issueReporter_showData_label": {
+      "message": "Hiện dữ liệu báo cáo"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Vui lòng chọn vấn đề bạn đang gặp phải:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Chọn kiểu vấn đề"
+   },
+   "line": {
+      "message": "Dòng $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus bản phát triển"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - trình chặn quảng cáo miễn phí"
+   },
+   "notification_configure": {
+      "message": "Thiết lập thông báo"
+   },
+   "notification_day1_message": {
+      "message": "Đó là rất nhiều quảng cáo gây phiền nhiễu. \u003Ca>Tìm hiểu những gì khác Adblock Plus có thể chặn.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "Bạn đã chặn $ads$ quảng cáo!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "Mở tất cả liên kết trong thông báo này"
+   },
+   "notification_without_buttons": {
+      "message": "Nhấn vào thông báo để mở tất cả liên kết trong nó."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "Để giúp chúng tôi cải thiện Adblock Plus, hãy chia sẻ lý do tại sao bạn đã tắt Quảng cáo chấp nhận được?"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "Không, cảm ơn"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "Đến khảo sát"
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Ghi chú:\u003C/strong> Bạn có \u003Cstrong>Không theo dõi (DNT)\u003C/strong> bị vô hiệu trong cài đặt trình duyệt của bạn. Để tính năng này hoạt động đúng, hãy bật \u003Cstrong>DNT\u003C/strong> trong tùy chọn trình duyệt của bạn. \u003Ca>Tìm hiểu cách kích hoạt DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Quảng cáo chấp nhận được"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Chỉ cho phép quảng cáo mà không có bên theo dõi thứ ba"
+   },
+   "options_advanced_description": {
+      "message": "Tùy chỉnh Adblock Plus, thêm hoặc xóa danh sách lọc, tạo và duy trì các danh sách lọc của riêng bạn"
+   },
+   "options_builtin_filterList_add": {
+      "message": "Thêm danh sách bộ lọc tích hợp"
+   },
+   "options_close": {
+      "message": "đóng"
+   },
+   "options_control_remove_title": {
+      "message": "loại bỏ"
+   },
+   "options_customFilter_cancel": {
+      "message": "Hủy bỏ"
+   },
+   "options_customFilters_description": {
+      "message": "Điền các bộ lọc tùy chỉnh của riêng bạn để hạn chế thêm nội dung nào Adblock Plus cho phép hoặc chặn."
+   },
+   "options_customFilters_title": {
+      "message": "Bộ lọc tùy chỉnh của bạn"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Danh sách bộ lọc của tôi"
+   },
+   "options_customize_blockElement": {
+      "message": "Hiển thị mục trình đơn bên chuột phải ‘Chặn phần tử’"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Tạm thời chặn những thành phần gây khó chịu trên một trang web, ví dụ các hình ảnh hay hoạt hình."
+   },
+   "options_customize_header": {
+      "message": "Tùy biến"
+   },
+   "options_customize_iconStats": {
+      "message": "Hiển thị số lượng quảng cáo bị chặn trong biểu tượng"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Hiển thị bảng điều khiển ‘Adblock Plus’ trong các công cụ của nhà phát triển"
+   },
+   "options_customize_showNotifications": {
+      "message": "Hiện thông báo hữu ích"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Cho phép thông báo từ Adblock Plus (thông báo liên quan đến các vấn đề hiệu suất quan trọng sẽ luôn được hiển thị)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Bản quyền © $currentYear$ \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "Giới thiệu về Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Bảo lưu mọi quyền. Adblock Plus® là thương hiệu đã đăng ký của eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Số phiên bản $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "URL danh sách bộ lọc"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Nhập một URL hợp lệ"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "URL phải bắt đầu bằng $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "Thêm một danh sách bộ lọc"
+   },
+   "options_dialog_invalid_message": {
+      "message": "Vì lý do bảo mật, chỉ có thể thêm danh sách bộ lọc HTTPS."
+   },
+   "options_dialog_invalid_title": {
+      "message": "Đã xảy ra lỗi"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Hiện không có ngôn ngữ có sẵn."
+   },
+   "options_dialog_language_title": {
+      "message": "Chọn một ngôn ngữ"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Có, sử dụng danh sách lọc này"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Bạn có muốn thêm danh sách lọc này không?"
+   },
+   "options_email": {
+      "message": "Email:"
+   },
+   "options_english": {
+      "message": "Tiếng Anh"
+   },
+   "options_filterList_add": {
+      "message": "Thêm danh sách bộ lọc qua URL"
+   },
+   "options_filterList_column_name": {
+      "message": "Danh sách bộ lọc"
+   },
+   "options_filterList_column_status": {
+      "message": "Trạng thái"
+   },
+   "options_filterList_column_update": {
+      "message": "Cập nhật gần nhất"
+   },
+   "options_filterList_description": {
+      "message": "Từng thiết đặt Adblock Plus hoạt động theo một danh sách lọc. Dưới đây là những danh sách lọc tương ứng với tất cả các thiết lập Adblock Plus của bạn. Bạn cũng có thể thêm các bộ lọc bổ sung được tạo và duy trì bởi cộng đồng uy tín của chúng tôi."
+   },
+   "options_filterList_empty": {
+      "message": "Bạn đã không thêm bất kỳ danh sách lọc nào cho Adblock Plus. Các danh sách lọc bạn thêm sẽ được hiển thị ở đây."
+   },
+   "options_filterList_hours": {
+      "message": "giờ trước"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Thất bại, mã kiểm tra không phù hợp"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Đang cập nhật"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Thất bại, đây không phải là danh sách bộ lọc hợp lệ"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Thất bại, không phải là địa chỉ hợp lệ"
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "Tải về thất bại. URL phải bắt đầu bằng $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "phút trước"
+   },
+   "options_filterList_now": {
+      "message": "Mới đây"
+   },
+   "options_filterList_source": {
+      "message": "nguồn"
+   },
+   "options_filterList_title": {
+      "message": "Danh sách bộ lọc"
+   },
+   "options_filterList_update": {
+      "message": "cập nhật tất cả danh sách bộ lọc"
+   },
+   "options_filterList_updateNow": {
+      "message": "cập nhật ngay"
+   },
+   "options_filterList_website": {
+      "message": "trang web"
+   },
+   "options_filter_list_rule": {
+      "message": "Quy tắc lọc"
+   },
+   "options_filters_search_or_add": {
+      "message": "Tìm kiếm hoặc thêm bộ lọc (ví dụ: $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "Giới thiệu về Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Đóng góp"
+   },
+   "options_general_description": {
+      "message": "Quyết định xem Adblock Plus hiển thị và ẩn những gì trên trang web"
+   },
+   "options_generic_error": {
+      "message": "Uh oh! Đã xảy ra lỗi. Vui lòng thử lại."
+   },
+   "options_help_center": {
+      "message": "Tìm kiếm câu trả lời cho câu hỏi của bạn? \u003Ca0>Ghé thăm Trung tâm trợ giúp của chúng tôi (chỉ bằng tiếng Anh)\u003C/a0>"
+   },
+   "options_help_description": {
+      "message": "Tìm kiếm trợ giúp hoặc liên hệ với chúng tôi"
+   },
+   "options_language_change": {
+      "message": "thay đổi"
+   },
+   "options_language_empty": {
+      "message": "Bạn không có bất kỳ bộ lọc ngôn ngữ cụ thể nào."
+   },
+   "options_language_filter_list": {
+      "message": "Danh sách bộ lọc ngôn ngữ"
+   },
+   "options_language_join": {
+      "message": "$lang1$, $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>MẸO:\u003C/strong> Chỉ chọn những ngôn ngữ bạn cần. Việc chọn thêm sẽ làm chậm bộ chặn quảng cáo và do đó ảnh hưởng đến tốc độ duyệt web của bạn."
+   },
+   "options_learn_more": {
+      "message": "Tìm hiểu thêm"
+   },
+   "options_more_filters_description": {
+      "message": "Đây là những bộ lọc bổ sung mà bạn vừa thêm vào Adblock Plus."
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Chú ý:\u003C/strong> Bạn chỉ nên sử dụng danh sách lọc của bên thứ ba từ các tác giả mà bạn tin tưởng."
+   },
+   "options_new_label": {
+      "message": "Mới"
+   },
+   "options_page_document_title": {
+      "message": "Tuỳ chỉnh Adblock Plus"
+   },
+   "options_page_title": {
+      "message": "Cài đặt"
+   },
+   "options_privacy_header": {
+      "message": "Riêng tư & bảo mật"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Bảo vệ quyền riêng tư của bạn khỏi các thực thể đã biết mà có thể theo dõi hoạt động trực tuyến của bạn trên các trang web bạn truy cập."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Các biểu tượng mạng xã hội trên các trang web mà bạn ghé thăm cho phép các mạng xã hội tạo ra hồ sơ về bạn dựa trên những thói quen duyệt web của bạn - ngay cả khi bạn không bấm vào chúng. Ẩn những biểu tượng này đi có thể bảo vệ hồ sơ của bạn."
+   },
+   "options_refresh": {
+      "message": "Làm mới"
+   },
+   "options_report_bug": {
+      "message": "Tìm thấy lỗi? \u003Ca>Gửi cho chúng tôi báo cáo lỗi\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Muốn có hỗ trợ từ cộng đồng của chúng tôi? \u003Ca>Đi tới Diễn đàn\u003C/a>"
+   },
+   "options_short": {
+      "message": "Tùy chỉnh"
+   },
+   "options_social_description": {
+      "message": "Có thắc mắc hay ý tưởng mới? Chúng tôi luôn có mặt để hỗ trợ."
+   },
+   "options_social_title": {
+      "message": "Liên hệ"
+   },
+   "options_support_title": {
+      "message": "Hỗ trợ"
+   },
+   "options_tab_advanced": {
+      "message": "Nâng cao"
+   },
+   "options_tab_general": {
+      "message": "Chung"
+   },
+   "options_tab_help": {
+      "message": "Trợ giúp"
+   },
+   "options_tracking_warning_1": {
+      "message": "Chúng tôi nhận thấy bạn có cả \u003Cstrong>$tracking$\u003C/strong> và \u003Cstrong>$acceptableAds$\u003C/strong> được bật.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_3": {
+      "message": "Nếu bạn thích sự riêng tư hơn, hãy chọn ô \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong> bên dưới.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "Ok, đã hiểu"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Đóng"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Dừng hiện thông báo"
+   },
+   "refresh_this_page": {
+      "message": "Làm mới trang này"
+   },
+   "refresh_to_take_effect": {
+      "message": "Nhấn vào \u003Cstrong>Làm mới\u003C/strong> để thay đổi có hiệu lực."
+   },
+   "sendReport": {
+      "message": "Báo cáo vấn đề"
+   },
+   "stats_header": {
+      "message": "Số lượng mục bị chặn"
+   },
+   "stats_label_page": {
+      "message": "trên trang này"
+   },
+   "stats_label_total": {
+      "message": "trên tổng số"
+   },
+   "status_domain": {
+      "message": "Trang web này:"
+   },
+   "status_header": {
+      "message": "Chặn quảng cáo trên:"
+   },
+   "status_page": {
+      "message": "Trang này:"
+   }
+}

@@ -1,0 +1,847 @@
+{
+   "add": {
+      "message": "Adaugă"
+   },
+   "block_element": {
+      "message": "Blochează elementul"
+   },
+   "block_element_description": {
+      "message": "Blochează un element specific pe acest site"
+   },
+   "cancel": {
+      "message": "Anulează"
+   },
+   "click_element_to_block_it": {
+      "message": "Clichează pe un element din pagină pentru a-l bloca."
+   },
+   "common_copyright": {
+      "message": "Copyright © $year$ Toate drepturile rezervate. Adblock Plus® este o marcă înregistrată a \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Ascunde Mesajele de Avertizare Adblock"
+   },
+   "common_feature_circumvention_title": {
+      "message": "Listă de Filtre ABP Anti-Eludare"
+   },
+   "common_feature_malware_title": {
+      "message": "Blochează Malware"
+   },
+   "common_feature_privacy_title": {
+      "message": "Blochează urmărire suplimentară"
+   },
+   "common_feature_social_title": {
+      "message": "Blochează urmărirea de iconuri social media"
+   },
+   "common_notification_hide": {
+      "message": "Închide această notificare"
+   },
+   "composer_block": {
+      "message": "Blochează"
+   },
+   "composer_cancel": {
+      "message": "Anulare"
+   },
+   "composer_elements": {
+      "message": "element(e) selectate"
+   },
+   "composer_loading": {
+      "message": "Se încarcă..."
+   },
+   "composer_preview": {
+      "message": "Vizualizare"
+   },
+   "composer_undo_preview": {
+      "message": "Ieșire vizualizare"
+   },
+   "composer_unselect": {
+      "message": "Deselectează"
+   },
+   "continue": {
+      "message": "Continuă"
+   },
+   "copy_selected": {
+      "message": "Copiază selecția"
+   },
+   "day1_blockelement_description": {
+      "message": "Blochează-le cu eleganta funcție de blocare de elemente a Adblock Plus."
+   },
+   "day1_blockelement_more": {
+      "message": "Află cum"
+   },
+   "day1_blockelement_screenshot": {
+      "message": "Exemplu de icon pop-up cu butonul \"Blochează elementul\" evidențiat."
+   },
+   "day1_blockelement_title": {
+      "message": "Ești obosit de secțiunile de comentarii deprimante?"
+   },
+   "day1_community_contact": {
+      "message": "Contactează-ne!"
+   },
+   "day1_community_contact_subject": {
+      "message": "Ai nevoie de asistență?"
+   },
+   "day1_community_description_1": {
+      "message": "Ca un proiect open source, depindem de ajutor de la utilizatori ca tine ca să le ameliorăm experiența blocării de reclame."
+   },
+   "day1_community_description_2": {
+      "message": "Ce caracteristici dorești să vezi? Ce putem îmbunătăți? Adblock Plus împiedică funcționarea anumitor situri?"
+   },
+   "day1_community_title": {
+      "message": "Alătură-te comunității Adblock Plus"
+   },
+   "day1_header_more": {
+      "message": "Află mai multe despre publicitatea malițioasă"
+   },
+   "day1_header_title": {
+      "message": "Adblock Plus \u003Cstrong>a blocat \u003Cem0>$ads$ (de) reclame\u003C/em0> în \u003Cem1>ultima jumătate de oră\u003C/em1>,\u003C/strong> din care unele ar fi putut include conținut malițios.",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "delete": {
+      "message": "Șterge"
+   },
+   "description": {
+      "message": "Blochează reclame pe YouTube™, pop-up-uri și luptă cu malware-le!"
+   },
+   "devtools_action_block": {
+      "message": "Blochează element"
+   },
+   "devtools_action_remove": {
+      "message": "Elimină regula"
+   },
+   "devtools_action_unblock": {
+      "message": "Adăugare excepție"
+   },
+   "devtools_filter_origin_custom": {
+      "message": "definit de utilizator"
+   },
+   "devtools_filter_origin_none": {
+      "message": "abonament anonim"
+   },
+   "devtools_filter_subtitle": {
+      "message": "Origine"
+   },
+   "devtools_filter_title": {
+      "message": "Filtru"
+   },
+   "devtools_footer": {
+      "message": "\u003Ca0>Reîncarcă\u003C/a0> pagina pentru a vedea efectul filtrului modificat"
+   },
+   "devtools_header": {
+      "message": "Afișare \u003Cslot0>\u003C/slot0> elemente de tipul \u003Cslot1>\u003C/slot1>"
+   },
+   "devtools_header_state_all": {
+      "message": "toate"
+   },
+   "devtools_header_state_blocked": {
+      "message": "blocat"
+   },
+   "devtools_header_type_any": {
+      "message": "orice"
+   },
+   "devtools_request_subtitle": {
+      "message": "Domeniu de document"
+   },
+   "devtools_request_title": {
+      "message": "Cerere"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> rescrise la \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "devtools_type_title": {
+      "message": "Tip"
+   },
+   "easy_create_filter": {
+      "message": "Blochează elementul"
+   },
+   "filter_action_failed": {
+      "message": "Ceva n-a mers bine! Te rugăm să încerci din nou."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Eroare, descărcare nereușită"
+   },
+   "firstRun_browser_description": {
+      "message": "De la echipa din spatele Adblock Plus, cel mai popular ad blocker pentru browsere desktop, Adblock Browser este acum disponibil pentru dispozitivele Android și iOS."
+   },
+   "firstRun_browser_store_android": {
+      "message": "Aplicația Android pe Google Play"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "Disponibil pe iTunes App Store"
+   },
+   "firstRun_browser_title": {
+      "message": "Aplicația Adblock Browser"
+   },
+   "firstRun_control_description": {
+      "message": "În mod implicit, poți vedea unele reclame non-intruzive care aderă la \u003Ca0>criterii stricte\u003C/a0>. Vom identifica aceste reclame ca Reclame Acceptabile. Preferi să blochezi toate reclamele? \u003Ca1>Oprește Reclamele Acceptabile\u003C/a1> în \u003Ca2>Setările\u003C/a2> tale."
+   },
+   "firstRun_control_title": {
+      "message": "Ai pe deplin controlul"
+   },
+   "firstRun_donate": {
+      "message": "Donează"
+   },
+   "firstRun_fair_title": {
+      "message": "Utilizare leală"
+   },
+   "firstRun_subtitle": {
+      "message": "Tocmai ai preluat controlul browserului tău."
+   },
+   "firstRun_title": {
+      "message": "Instalare reușită!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "Unii utilizatori se confruntă cu problema deschiderii acestei pagini de fiecare dată când browserul este deschis. Această problemă poate fi rezolvată prin dezinstalarea și reinstalarea Adblock Plus:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "Dacă mai ai nevoie de ajutor, contactează-ne la \u003Ca0>support@adblockplus.org\u003C/a0> sau vizitează-ne \u003Ca1>Centrul de Ajutor\u003C/a1>."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "Deschide fila Extensii a browser-ului."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "Localizează și dezinstalează Adblock Plus."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "Reinstalează Adblock Plus de pe site-ul \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "firstRun_warning_reinitialized": {
+      "message": "Se pare că o problemă a făcut ca toate filtrele să fie eliminate și a fost imposibil să le recuperăm. De aceea, am resetat filtrele și setările de Reclame Acceptabile. Te rugăm să verifici listele de filtre și setările de Reclame Acceptabile în \u003Ca>opțiunile Adblock Plus\u003C/a>."
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Prezentare anonimă"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Nu vom putea să te contactăm așa că vom acorda probabil prioritate raportului mai mic."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Închide"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Lasă un comentariu"
+   },
+   "issueReporter_comment_description": {
+      "message": "Poți introduce aici o descriere detaliată care ne poate ajuta să înțelegem mai bine problema (opțional, însă recomandat)."
+   },
+   "issueReporter_comment_label": {
+      "message": "Comentariu (opțional):"
+   },
+   "issueReporter_config_label": {
+      "message": "Include informații despre configurația browser-ului meu, precum și o listă de extensii active pe care le folosesc."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Raportarea a fost salvată și poate fi accesată la adresa următoare:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>Notã:\u003C/strong> Un tab va fi temporar deschis astfel încât pagina pe care sunteţi nu va fi afectatã de Issue Reporter."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Detalii"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Efectuat"
+   },
+   "issueReporter_email_description": {
+      "message": "Este util să introduci o adresă de e-mail validă. Ea ne permite să te contactăm pentru a regla probleme dificile ca malware. Reține că adresa de e-mail nu este obligatorie, iar adresa ta nu va fi niciodată distribuită."
+   },
+   "issueReporter_email_label": {
+      "message": "E-mail:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Eroare la trimitere, cod \"?1?\". Verifică dacă ești conectat la internet. Dacă problema persistă, cere ajutor în [link]forumul Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Alege această opțiune în caz că o reclamă este afișată în ciuda faptului că Adblock Plus este activ."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Încă văd reclame neblocate"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Pagina se afișează incorect, nu funcționează sau pare să lipsească un conținut important."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus blochează prea mult"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "Folosind unelte, evidențiază pub sau ascunde date sensibile de pe captura de ecran. Marcând reclamele ne ajuți să rezolvăm problema mai rapid."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "Evidențiază problema"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Problema pe care o ai este probabil cunoscută. Mai multe informații:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "Indică problema"
+   },
+   "issueReporter_other_issues": {
+      "message": "Pentru orice alte probleme, te rugăm să ne contactezi la \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "Raportor de probleme"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Politica Intimității"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "procesare"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "Pentru a înțelege mai bine problema, o captură de ecran este necesar când trimiți un raport de problemă. În funcție de site-ul pe care te afli, captura de ecran ar putea conține informații personale. Daca nu dorești să trimiți o captură de ecran, te rugăm să trimiți detalii la \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Ascunde"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "Evidențiază"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "Alege problema"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Trimite raport"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Trimite raport"
+   },
+   "issueReporter_sending": {
+      "message": "Așteptată până când Adblock Plus îți trimite raportul."
+   },
+   "issueReporter_showData_label": {
+      "message": "Clicați acest link ca să vizualizați raportul înaintea trimiterii"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Selectați o problemă:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Cu ce tip de problemă ai de-a face?"
+   },
+   "line": {
+      "message": "Linie $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Versiune de test Adblock Plus"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - ad blocker gratuit"
+   },
+   "notification_configure": {
+      "message": "Configurează setările de notificare"
+   },
+   "notification_day1_message": {
+      "message": "Sunt multe reclame enervante. \u003Ca>Află ce altceva poate bloca Adblock Plus.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "Ai blocat deja $ads$ (de) reclame!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "Deschide toate linkurile din această notificare"
+   },
+   "notification_problem_message": {
+      "message": "O problemă a cauzat resetarea setărilor ABP la valorile implicite. \u003Ca>Repară problema și află mai multe\u003C/a>"
+   },
+   "notification_without_buttons": {
+      "message": "Clichează notificarea pentru a deschide toate linkurile incluse în ea."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "Vrei să ne ajuți să ameliorăm Adblock Plus partajând motivul blocării Reclamelor Acceptabile?"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "Nu, mulțumesc"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "Mergi la sondaj"
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Notă:\u003C/strong> \u003Cstrong>Nu mă urmări (DNT)\u003C/strong> este dezactivată în setările browser-ului. Pentru ca această setare să poată lucra în mod corespunzător, activează te rog \u003Cstrong>DNT\u003C/strong> în preferințele browser-ului. \u003Ca>Află cum se activează DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Reclame acceptabile"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Permite doar reclame fara tracking"
+   },
+   "options_advanced_description": {
+      "message": "Personalizează Adblock Plus, adaugă sau elimină liste de filtre, crează şi întreţine propriile liste de filtre"
+   },
+   "options_builtin_filterList_add": {
+      "message": "Adaugă filtre încorporate"
+   },
+   "options_close": {
+      "message": "închide"
+   },
+   "options_control_remove_title": {
+      "message": "elimină"
+   },
+   "options_customFilter_cancel": {
+      "message": "Anulează"
+   },
+   "options_customFilters_description": {
+      "message": "Scrie și gerează propriile filtre ca să controlezi mai bine ce conținut permiți sau blochezi cu Adblock Plus. \u003Ca0>Învață cum să scrii filtre (numai în engleză)\u003C/a0>"
+   },
+   "options_customFilters_title": {
+      "message": "Filtre personalizate"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Lista mea de filtre"
+   },
+   "options_customize_blockElement": {
+      "message": "Arată 'Blochează elementul' în meniul asociat unui obiect cu clic dreapta"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Blochează temporar elementele enervante pe o pagină de web, de exemplu imagini sau slideshow-uri animate."
+   },
+   "options_customize_header": {
+      "message": "Personalizări"
+   },
+   "options_customize_iconStats": {
+      "message": "Arată numărul de anunțuri blocate în icon"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Afișare panou 'Adblock Plus' în instrumente dezvoltator"
+   },
+   "options_customize_showNotifications": {
+      "message": "Arată notificări utile"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Permite notificări în Adblock Plus (notificările legate de probleme critice de performanță vor fi afișate totdeauna)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Copyright © $currentYear$ \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "Despre Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Toate drepturile rezervate. Adblock Plus® este o marcă înregistrată a eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Numărul versiunii $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "Adresa listei de filtre"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Introduceți un URL valid"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "URL-ul trebuie să înceapă cu $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "Adaugă o listă de filtre"
+   },
+   "options_dialog_invalid_message": {
+      "message": "Din motive de securitate, pot fi adăugate doar liste de filtre \u003Cstrong>HTTPS\u003C/strong> și URL-uri de \u003Cstrong>date\u003C/strong>."
+   },
+   "options_dialog_invalid_title": {
+      "message": "A apărut o eroare"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Nu există nicio limbă disponibilă."
+   },
+   "options_dialog_language_title": {
+      "message": "Alege o limbă"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Da, folosește această listă de filtre"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "Titlu"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "URL"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Vrei într-adevăr să folosești această listă de filtre?"
+   },
+   "options_donate_button": {
+      "message": "Donează"
+   },
+   "options_email": {
+      "message": "E-mail:"
+   },
+   "options_english": {
+      "message": "Engleză"
+   },
+   "options_filterList_add": {
+      "message": "Adaugă o listă de filtre prin URL"
+   },
+   "options_filterList_column_name": {
+      "message": "Liste de filtre"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_column_update": {
+      "message": "Ultima actualizare"
+   },
+   "options_filterList_description": {
+      "message": "Orice setare Adblock Plus funcţionează datorită unei liste de filtre. Mai jos sunt liste de filtre corespunzătoare tuturor setărilor Adblock Plus. Puteţi adăuga filtre suplimentare create şi întreţinute de către comunitatea noastră de încredere. Aflaţi mai multe."
+   },
+   "options_filterList_empty": {
+      "message": "Nu aţi adăugat nicio listă de filtre la Adblock Plus. Listele adăugate vor fi listate aici."
+   },
+   "options_filterList_hours": {
+      "message": "ore în urmă"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Eroare, suma de control nu se potriveşte"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Se actualizează"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Eroare, lista nu este validă"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Adresă invalidă. Verifică URL-ul."
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "Descărcare eșuată. URL-ul trebuie să înceapă cu $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "minute în urmă"
+   },
+   "options_filterList_now": {
+      "message": "Chiar acum"
+   },
+   "options_filterList_source": {
+      "message": "Sursă"
+   },
+   "options_filterList_title": {
+      "message": "Liste de filtre"
+   },
+   "options_filterList_update": {
+      "message": "actualizaţi toate listele de filtre"
+   },
+   "options_filterList_updateNow": {
+      "message": "Actualizează acum"
+   },
+   "options_filterList_website": {
+      "message": "Site web"
+   },
+   "options_filter_list_rule": {
+      "message": "Regulă de filtrare"
+   },
+   "options_filters_search_or_add": {
+      "message": "Caută sau adaugă filtru (ex. $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "Despre Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Contribuie"
+   },
+   "options_general_description": {
+      "message": "Stabileşte ceea ce Adblock Plus arată şi ascunde pe website-uri"
+   },
+   "options_generic_error": {
+      "message": "Oh! Ceva n-a mers bine. Te rog să încerci din nou."
+   },
+   "options_help_center": {
+      "message": "Cauți răspunsuri la întrebările tale? \u003Ca0>Vizitează Centrul nostru de Ajutor (doar engleză)\u003C/a0>"
+   },
+   "options_help_description": {
+      "message": "Găsește ajutor sau ia legătura cu noi"
+   },
+   "options_language_change": {
+      "message": "modifică"
+   },
+   "options_language_empty": {
+      "message": "Nu există filtre specifice limbii folosite."
+   },
+   "options_language_filter_list": {
+      "message": "Liste de Filtre de Limbă"
+   },
+   "options_language_join": {
+      "message": "$lang1$, $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>Sfat:\u003C/strong> Selectaţi doar limbile de care aveţi nevoie. Selectarea prea multor limbi va încetini viteza de blocare şi, prin urmare, viteza de navigare."
+   },
+   "options_learn_more": {
+      "message": "Află mai multe"
+   },
+   "options_more_filters_description": {
+      "message": "Acestea sunt filtrele suplimentare pe care le-aţi adăugat anterior la Adblock Plus."
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Notă:\u003C/strong> Ar trebui să utilizezi numai liste de filtre create de autori în care ai încredere."
+   },
+   "options_new_label": {
+      "message": "Nou"
+   },
+   "options_page_document_title": {
+      "message": "Setări"
+   },
+   "options_page_title": {
+      "message": "Setări"
+   },
+   "options_privacy_header": {
+      "message": "Confidențialitate & securitate"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Protejează datele cu caracter personal prin eliminarea tuturor formelor de urmărire în Internet, inclusiv colectarea datelor."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Iconurile social media pe site-urile vizitate permit rețelelor sociale să-ți construiască un profil bazat pe obiceiurile de navigare - chiar și atunci când nu faci clic pe ele. Ascunde aceste iconuri pentru a-ți proteja profilul."
+   },
+   "options_rating_button": {
+      "message": "Evaluează-ne"
+   },
+   "options_refresh": {
+      "message": "Actualizează"
+   },
+   "options_report_bug": {
+      "message": "Ai descoperit o eroare? \u003Ca>Trimite-ne un raport\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Vrei sprijin de la comunitatea noastră? \u003Ca>Du-te la Forum\u003C/a>"
+   },
+   "options_short": {
+      "message": "Opțiuni"
+   },
+   "options_social_description": {
+      "message": "Ai o întrebare sau o idee? Suntem aici pentru a ajuta."
+   },
+   "options_social_title": {
+      "message": "Intră în contact"
+   },
+   "options_supportUs_description": {
+      "message": "Te rugăm să iei un moment pentru a evalua ABP sau a dona pentru proiect. Mulțumim pentru sprijin!"
+   },
+   "options_supportUs_title": {
+      "message": "Îți place Adblock Plus?"
+   },
+   "options_support_title": {
+      "message": "Ajutor"
+   },
+   "options_tab_advanced": {
+      "message": "Avansat"
+   },
+   "options_tab_general": {
+      "message": "General"
+   },
+   "options_tab_help": {
+      "message": "Ajutor"
+   },
+   "options_tracking_warning_1": {
+      "message": "Am observat ca ai atât \u003Cstrong>$tracking$\u003C/strong> cât și \u003Cstrong>$acceptableAds$\u003C/strong> activate.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_3": {
+      "message": "Dacă preferi extra confidențialitate, alege caseta de selectare \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong> de mai jos.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "Ok, am înțeles"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Închide"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Oprește afișarea notificărilor"
+   },
+   "problem_os_mac": {
+      "message": "Mac"
+   },
+   "problem_os_windows": {
+      "message": "Windows"
+   },
+   "problem_social_description": {
+      "message": "Ai o problemă? Contactează echipa noastră de asistență."
+   },
+   "problem_social_email": {
+      "message": "E-mail"
+   },
+   "problem_social_facebook": {
+      "message": "Facebook"
+   },
+   "problem_social_title": {
+      "message": "Încă mai cauți ajutor?"
+   },
+   "problem_social_twitter": {
+      "message": "Twitter"
+   },
+   "problem_solution_action": {
+      "message": "Clichează aici pentru a dezinstala și reinstala Adblock Plus"
+   },
+   "problem_solution_opera_step_1": {
+      "message": "Deschide acest link către Opera Addons (se va deschide într-o filă nouă)"
+   },
+   "problem_solution_opera_step_2": {
+      "message": "Din bara de unelte Opera, dă \u003Cem0>clic dreapta\u003C/em0> / \u003Cem1>CTRL-clic\u003C/em1> pe iconul \u003Cstrong>Adblock Plus\u003C/strong> și selectează \u003Cstrong>Gestiune extensie\u003C/strong>."
+   },
+   "problem_solution_opera_step_3": {
+      "message": "Dă clic pe \u003Cstrong>săgeata\u003C/strong> de lângă iconul Adblock Plus."
+   },
+   "problem_solution_opera_step_4": {
+      "message": "Găsește Adblock Plus și clichează pe \u003Cstrong>X\u003C/strong> în colțul din dreapta sus."
+   },
+   "problem_solution_opera_step_5": {
+      "message": "Clichează pe \u003Cstrong>Elimină\u003C/strong>."
+   },
+   "problem_solution_opera_step_6": {
+      "message": "Reîncarcă pagina Opera Addons."
+   },
+   "problem_solution_opera_step_7": {
+      "message": "Clichează pe \u003Cstrong>Adaugă la Opera\u003C/strong>."
+   },
+   "problem_solution_title": {
+      "message": "Soluția:"
+   },
+   "problem_subtitle": {
+      "message": "Din această cauză, setările ABP au fost resetate la valorile implicite. Pentru a rezolva problema, Adblock Plus va trebui dezinstalat și reinstalat. Clichează pe linkul de mai jos ca să faci asta."
+   },
+   "problem_subtitle_opera": {
+      "message": "Din această cauză, setările ABP au fost resetate la valorile implicite. Pentru a rezolva problema, Adblock Plus va trebui dezinstalat și reinstalat. Urmează pașii de mai jos ca să faci acest lucru."
+   },
+   "problem_title": {
+      "message": "O problemă cu browser-ul a cauzat resetarea setărilor ABP."
+   },
+   "refresh_this_page": {
+      "message": "Reîncarcă pagina"
+   },
+   "refresh_to_take_effect": {
+      "message": "Faceți clic pe \u003Cstrong>Refresh\u003C/strong> pentru ca modificările să aibă efect."
+   },
+   "sendReport": {
+      "message": "Raportează o problemă"
+   },
+   "share_on_facebook": {
+      "message": "Partajează pe Facebook"
+   },
+   "share_on_twitter": {
+      "message": "Partajează pe Twitter"
+   },
+   "share_on_twitter_message": {
+      "message": "Am blocat $number$ (de) reclame cu Adblock Plus. Încearcă - este GRATUIT!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "share_on_weibo": {
+      "message": "Distribuie pe Weibo"
+   },
+   "share_on_weibo_message": {
+      "message": "Am blocat $number$ (de) reclame cu Adblock Plus. Încearcă - este GRATUIT!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "social_media_share": {
+      "message": "Partajează numere cu prietenii"
+   },
+   "stats_header": {
+      "message": "Numărul de elemente blocate"
+   },
+   "stats_label_page": {
+      "message": "pe această pagină"
+   },
+   "stats_label_total": {
+      "message": "în total"
+   },
+   "status_domain": {
+      "message": "Acest site web:"
+   },
+   "status_header": {
+      "message": "Blocare de pub activă"
+   },
+   "status_page": {
+      "message": "Această pagină:"
+   }
+}

@@ -1,0 +1,208 @@
+/*
+ * This file is part of Adblock Plus <https://adblockplus.org/>,
+ * Copyright (C) 2006-present eyeo GmbH
+ *
+ * Adblock Plus is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 3 as
+ * published by the Free Software Foundation.
+ *
+ * Adblock Plus is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+ */
+:root {
+  --background-color-error: #F7DDE1;
+  --background-color-secondary: #f7f7f7;
+  --background-color-primary: #fff;
+  --background-color-ternary: #edf9ff;
+  --border-color-secondary: #d2d2d2;
+  --border-color-primary: #e6e6e6;
+  --border-color-ternary: #c0e6f9;
+  --border-color-outline: #acacac;
+  --border-radius: 4px;
+  --border-radius-primary: 6px;
+  --border-style-primary: solid;
+  --border-width-thick: 4px;
+  --border-width-thin: 1px;
+  --box-shadow-primary: 0 2px 4px 0 hsla(0, 0%, 84%, 0.5);
+  --color-brand-primary: #ED1E45;
+  --color-primary: #585858;
+  --color-secondary: #000;
+  --color-dimmed: #4A4A4A;
+  --color-critical: var(--color-brand-primary);
+  --color-default: #FF8F00;
+  --color-error: var(--color-brand-primary);
+  --color-link: #0797E1;
+  --color-info: #0797E1;
+  --color-premium: #EDA51E;
+  --color-premium-hover: #EB9B05;
+  --font-size-heavy: 20px;
+  --font-size-big: 17px;
+  --font-size-medium: 16px;
+  --font-size-primary: 13px;
+  --font-size-small: 12px;
+  --margin-primary: 16px;
+  --margin-secondary: calc(var(--margin-primary) / 2);
+  --padding-primary: 16px;
+  --padding-secondary: calc(var(--padding-primary) / 2);
+  --primary-outline: var(--border-color-outline) dotted 1px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body,
+main,
+#actions,
+footer {
+  display: flex;
+}
+
+body,
+main {
+  flex-direction: column;
+}
+
+main,
+#filters,
+.spacer {
+  flex-grow: 1;
+}
+
+main,
+footer {
+  padding: var(--padding-primary);
+}
+
+#actions,
+footer {
+  flex-direction: row;
+}
+
+#actions {
+  margin-top: var(--margin-primary);
+}
+
+button {
+  font-weight: 700;
+  line-height: 34px;
+  cursor: pointer;
+}
+
+#details {
+  margin: auto;
+}
+
+button:not(#unselect) {
+  padding: 4px 20px;
+  border-radius: var(--border-radius);
+}
+
+#filters {
+  padding: 4px var(--padding-secondary);
+  border: 1px solid var(--border-color-secondary);
+  border-radius: var(--border-radius);
+  background-color: transparent;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: inherit;
+  outline: none;
+  resize: none;
+}
+
+#preview {
+  margin: auto var(--margin-secondary);
+  border: 1px solid var(--border-color-ternary);
+  color: var(--color-link);
+  background-color: var(--background-color-ternary);
+}
+
+#unselect {
+  border: 0;
+  background: transparent;
+  color: var(--color-link);
+}
+
+#selected,
+#cancel,
+#filters {
+  color: var(--color-dimmed);
+}
+
+#selected::before {
+  display: inline-block;
+  min-width: 24px;
+  height: 24px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-radius: 50%;
+  line-height: 24px;
+  text-align: center;
+  color: var(--background-color-primary);
+  background-color: var(--color-default);
+  content: attr(data-count);
+}
+
+html:not([dir=rtl]) #selected,
+html:not([dir=rtl]) #selected::before {
+  margin-right: var(--margin-secondary);
+}
+
+html[dir=rtl] #selected,
+html[dir=rtl] #selected::before {
+  margin-left: var(--margin-secondary);
+}
+
+#block,
+#block-reload {
+  margin: auto;
+  border: 1px solid var(--color-brand-primary);
+  color: var(--color-brand-primary);
+  background-color: #fae9e9;
+}
+
+#block:disabled,
+#block-reload:disabled,
+#filters:disabled,
+#preview:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+footer {
+  background-color: var(--background-color-secondary);
+}
+
+#cancel {
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid var(--border-color-secondary);
+  background-color: transparent;
+}
+
+#logo {
+  margin: auto;
+  height: 22px;
+}
+
+html:not([dir=rtl]) #logo {
+  margin-right: 0;
+}
+
+html[dir=rtl] #logo {
+  margin-left: 0;
+}

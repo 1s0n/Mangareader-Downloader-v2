@@ -1,0 +1,1185 @@
+{
+   "add": {
+      "message": "Dodaj"
+   },
+   "block_element": {
+      "message": "Zablokuj element"
+   },
+   "block_element_description": {
+      "message": "Blokuj konkretny element na tej stronie"
+   },
+   "browser_store_android": {
+      "message": "Aplikacja na Androida w Google Play"
+   },
+   "browser_store_ios": {
+      "message": "Dostępna w iTunes App Store"
+   },
+   "cancel": {
+      "message": "Anuluj"
+   },
+   "click_element_to_block_it": {
+      "message": "Kliknij element strony, aby go zablokować."
+   },
+   "common_copyright": {
+      "message": "Copyright © $year$ Wszelkie prawa zastrzeżone. Adblock Plus® jest zarejestrowanym znakiem towarowym \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Ukrywanie komunikatów ostrzegawczych Adblocka"
+   },
+   "common_feature_circumvention_title": {
+      "message": "Zestaw filtrów ABP przeciwdziałających omijaniu blokowania"
+   },
+   "common_feature_distractions_title": {
+      "message": "Blokuj więcej elementów rozpraszających uwagę"
+   },
+   "common_feature_malware_title": {
+      "message": "Blokowanie szkodliwego oprogramowania"
+   },
+   "common_feature_notifications_title": {
+      "message": "Blokuj powiadomienia"
+   },
+   "common_feature_privacy_title": {
+      "message": "Blokowanie dodatkowych mechanizmów śledzenia"
+   },
+   "common_feature_social_title": {
+      "message": "Blokowanie śledzenia przez media społecznościowe"
+   },
+   "common_notification_hide": {
+      "message": "Zamknij powiadomienie"
+   },
+   "composer_block": {
+      "message": "Blokuj"
+   },
+   "composer_block_reload": {
+      "message": "Zablokuj i odśwież stronę"
+   },
+   "composer_cancel": {
+      "message": "Anuluj"
+   },
+   "composer_elements": {
+      "message": "element(ów) wybrano"
+   },
+   "composer_loading": {
+      "message": "Ładowanie..."
+   },
+   "composer_preview": {
+      "message": "Podgląd"
+   },
+   "composer_undo_preview": {
+      "message": "Zamknij podgląd"
+   },
+   "composer_unselect": {
+      "message": "Odznacz"
+   },
+   "connect_on_facebook": {
+      "message": "Połącz się na Facebooku"
+   },
+   "connect_on_twitter": {
+      "message": "Połącz się na Twitterze"
+   },
+   "continue": {
+      "message": "Kontynuuj"
+   },
+   "copy_selected": {
+      "message": "Kopiuj wybrane"
+   },
+   "day1_blockelement_description": {
+      "message": "Blokuj je, korzystając z doskonałej funkcji Adblock Plusa do blokowaniu elementów."
+   },
+   "day1_blockelement_more": {
+      "message": "Dowiedz się, jak"
+   },
+   "day1_blockelement_screenshot": {
+      "message": "Przykład powiadomienia z ikoną ABP i wyróżnionym przyciskiem „Zablokuj element”."
+   },
+   "day1_blockelement_title": {
+      "message": "Masz dość frustrujących cię elementów komentarzy?"
+   },
+   "day1_community_contact": {
+      "message": "Skontaktuj się z nami!"
+   },
+   "day1_community_contact_subject": {
+      "message": "Uzyskaj pomoc!"
+   },
+   "day1_community_description_1": {
+      "message": "W celu pomocy poprawy jakości blokowania reklam, jako projekt open source, polegamy na doświadczeniu użytkowników, takich jak Ty."
+   },
+   "day1_community_description_2": {
+      "message": "Jakich funkcji Ci brakuje? Co możemy poprawić? Czy Adblock Plus powoduje nieprawidłowe działanie niektórych witryn?"
+   },
+   "day1_community_title": {
+      "message": "Dołącz do społeczności Adblock Plusa"
+   },
+   "day1_header_more": {
+      "message": "Dowiedz się więcej o złośliwych reklamach"
+   },
+   "day1_header_title": {
+      "message": "Adblock Plus \u003Cstrong>w \u003Cem1>ciągu ostatnich 30 minut\u003C/em1> zablokował \u003Cem0>$ads$ reklam\u003C/em0>\u003C/strong>, a niektóre z nich mogły zawierać złośliwą zawartość",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "delete": {
+      "message": "Usuń"
+   },
+   "description": {
+      "message": "Blokuj reklamy na YouTube™, wyskakujące okna i zwalcz złośliwe oprogramowanie!"
+   },
+   "devtools_action_block": {
+      "message": "Zablokuj element"
+   },
+   "devtools_action_remove": {
+      "message": "Usuń regułę"
+   },
+   "devtools_action_unblock": {
+      "message": "Dodaj wyjątek"
+   },
+   "devtools_filter_origin_custom": {
+      "message": "zdefiniowany przez użytkownika"
+   },
+   "devtools_filter_origin_none": {
+      "message": "subskrypcja bez nazwy"
+   },
+   "devtools_filter_subtitle": {
+      "message": "Pochodzenie"
+   },
+   "devtools_filter_title": {
+      "message": "Filtr"
+   },
+   "devtools_footer": {
+      "message": "Aby zobaczyć efekty zmian w filtrze \u003Ca0>wczytaj ponownie\u003C/a0> stronę"
+   },
+   "devtools_header": {
+      "message": "Pokaż \u003Cslot0>\u003C/slot0> elementów typu \u003Cslot1>\u003C/slot1>"
+   },
+   "devtools_header_state_all": {
+      "message": "wszystko"
+   },
+   "devtools_header_state_allowlisted": {
+      "message": "dozwolone"
+   },
+   "devtools_header_state_blocked": {
+      "message": "zablokowane"
+   },
+   "devtools_header_type_any": {
+      "message": "dowolne"
+   },
+   "devtools_request_subtitle": {
+      "message": "Domena dokumentu"
+   },
+   "devtools_request_title": {
+      "message": "Żądanie"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> przepisany na \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "devtools_type_title": {
+      "message": "Typ"
+   },
+   "easy_create_filter": {
+      "message": "Zablokuj element"
+   },
+   "filter_action_failed": {
+      "message": "Wystąpił błąd. Spróbuj ponownie."
+   },
+   "filter_elemhide_not_specific_enough": {
+      "message": "Selektor CSS jest zbyt krótki. Użyj dłuższego selektora lub określ co najmniej jedną domenę dla filtru ukrywającego ten element."
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "Nie określono aktywnej domeny. Proszę podać co najmniej jedną domenę dla tego filtra ukrywającego elementy rozszerzone."
+   },
+   "filter_invalid_csp": {
+      "message": "Nieprawidłowa polityka bezpieczeństwa zawartości (składnia nie odpowiada standardowi)."
+   },
+   "filter_invalid_domain": {
+      "message": "Nieprawidłowa lub pusta domena. Lista domen musi zawierać co najmniej jedną domenę oddzieloną przecinkiem (,) np. abc.com,def.com,ghi.com."
+   },
+   "filter_invalid_option": {
+      "message": "Nieprawidłowa opcja filtra"
+   },
+   "filter_invalid_regexp": {
+      "message": "Nieprawidłowe wyrażenie regularne (składnia nie jest zgodna ze standardem)."
+   },
+   "filter_slow": {
+      "message": "Filtr powolny. Należy sprawdzić długość wzorca i upewnić się, że nie zawiera on wyrażenia regularnego."
+   },
+   "filter_snippet_nodomain": {
+      "message": "Nie określono aktywnej domeny. Proszę podać co najmniej jedną domenę dla tego filtra fragmentów."
+   },
+   "filter_unknown_option": {
+      "message": "$option$ jest nieprawidłową opcja filtra.",
+      "placeholders": {
+         "option": {
+            "content": "$1",
+            "example": "foo"
+         }
+      }
+   },
+   "filter_url_not_specific_enough": {
+      "message": "Wzorzec adresu URL CSS jest zbyt krótki. Użyj dłuższego wzorca lub określ co najmniej jedną domenę dla tego filtra."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Nie powiodło się – błąd pobierania"
+   },
+   "firstRun_browser_description": {
+      "message": "Zespół twórców rozszerzenia Adblock Plus, najpopularniejszej funkcji blokowania reklam dla przeglądarek na komputery, stworzył przeglądarkę Adblock Browser dostępną już teraz na urządzenia Android oraz iOS."
+   },
+   "firstRun_browser_store_android": {
+      "message": "Aplikacja dla systemu Android w sklepie Google Play"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "Dostępne w sklepie iTunes Store"
+   },
+   "firstRun_browser_title": {
+      "message": "Aplikacja Adblock Browser"
+   },
+   "firstRun_control_description": {
+      "message": "Domyślnie będą wyświetlane nienatrętne reklamy spełniające \u003Ca0>ścisłe kryteria\u003C/a0>. Takie reklamy określamy jako Akceptowalne reklamy. Wolisz zablokować wszystkie reklamy? \u003Ca1>Wyłącz Akceptowalne reklamy\u003C/a1> w \u003Ca2>Ustawieniach\u003C/a2>."
+   },
+   "firstRun_control_title": {
+      "message": "Masz kontrolę"
+   },
+   "firstRun_donate": {
+      "message": "Wesprzyj"
+   },
+   "firstRun_fair_description": {
+      "message": "Zachęcamy do rzetelnego korzystania z Adblock Plus oraz opcji dodawania witryn do swojej listy dozwolonych. W zależności od używanych filtrów rozumiesz i akceptujesz, że może wiązać się to z niezamierzonymi skutkami (np. zablokowane treści na stronie internetowej). Więcej informacji na temat korzystania z Adblock Plus można znaleźć w \u003Ca0>Warunkach korzystania\u003C/a0>."
+   },
+   "firstRun_fair_title": {
+      "message": "Użytkowanie fair"
+   },
+   "firstRun_subtitle": {
+      "message": "Masz pełną kontrolę nad przeglądarką"
+   },
+   "firstRun_title": {
+      "message": "Instalacja powiodła się!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "Niektórzy użytkownicy mają problemy podczas otwierania tej strony przy każdym uruchomieniu przeglądarki. Problem można rozwiązać poprzez odinstalowanie i ponowne zainstalowanie Adblock Plus:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "Aby uzyskać dalszą pomoc, skontaktuj się z nami pod adresem: \u003Ca0>support@adblockplus.org\u003C/a0> lub odwiedź nasze \u003Ca1>Centrum pomocy\u003C/a1>."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "Otwórz kartę rozszerzeń przeglądarki."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "Znajdź rozszerzenie Adblock Plus i usuń je."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "Zainstaluj Adblock Plus z witryny \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "firstRun_warning_reinitialized": {
+      "message": "Wygląda na to, że błąd spowodował usunięcie wszystkich filtrów i nie udało nam się ich przywrócić z kopii zapasowej. Dlatego musieliśmy zresetować Twoje filtry i ustawienia Akceptowalnych reklam. Przejrzyj listę filtrów i ustawienia Akceptowalnych reklam w \u003Ca>opcjach Adblock Plus\u003C/a>."
+   },
+   "footer_donate_button": {
+      "message": "Wesprzyj"
+   },
+   "footer_donate_description": {
+      "message": "Chcesz wesprzeć ABP?"
+   },
+   "footer_get_help_button": {
+      "message": "Pomoc"
+   },
+   "footer_get_help_description": {
+      "message": "Masz problem z używaniem ABP?"
+   },
+   "footer_mobile_description": {
+      "message": "Interesuje Cię ABP na komórkę?"
+   },
+   "footer_rate_button": {
+      "message": "Oceń ABP"
+   },
+   "footer_rate_description": {
+      "message": "Podoba Ci się to rozszerzenie?"
+   },
+   "footer_social_description": {
+      "message": "Bądź z nami w kontakcie!"
+   },
+   "idle_header": {
+      "message": "Na tej stronie nie ma nic do zablokowania!"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Wyślij anonimowo"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Nie będziemy w stanie się z tobą skontaktować, co może spowodować nadanie raportowi niższego priorytetu."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Zamknij"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Pozostaw komentarz"
+   },
+   "issueReporter_comment_description": {
+      "message": "Pomóż nam lepiej zrozumieć problem, wprowadzając komentarz poniżej."
+   },
+   "issueReporter_comment_label": {
+      "message": "Komentarz (opcjonalne):"
+   },
+   "issueReporter_config_label": {
+      "message": "Dołącz informacje o konfiguracji mojej przeglądarki oraz listę używanych aktywnych rozszerzeń."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Zgłoszenie zostało zapisane. Możesz zobaczyć je pod następującym adresem:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>Uwaga:\u003C/strong> Otworzy się dodatkowa karta, więc narzędzie zgłaszania problemów nie wpłynie na wyświetlanie aktualnie przeglądanej strony."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Szczegóły"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Gotowe"
+   },
+   "issueReporter_email_description": {
+      "message": "Wprowadzenie prawidłowego adresu e-mail może okazać się pomocne. W ten sposób będziemy mogli się skontaktować w celu rozwiązania trudnych problemów przykładowo związanych ze złośliwym oprogramowaniem. Pamiętaj, że nie musisz podawać adresu e-mail i nigdy nie zostanie on udostępniony."
+   },
+   "issueReporter_email_label": {
+      "message": "E-mail:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Próba wysłania zgłoszenia nie powiodła się z powodu „?1?”. Sprawdź połączenie z internetem i ponów próbę. Jeśli problem będzie nadal występował, poproś o pomoc na [link]forum Adblock Plusa[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Adblock Plus jest włączony, ale nadal widzę reklamę lub reklamy."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Widzę reklamy"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Strona jest wyświetlana nieprawidłowo, nie działa lub wydaje się, że nie ma na niej ważnych treści."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Strona, którą próbuję wyświetlić jest uszkodzona"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "Użyj narzędzi, aby wyróżnić reklamy lub ukryć wrażliwe informacje na zrzucie ekranu. Wyróżnienie reklam pozwoli nam szybciej rozwiązać problem."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "Wyróżnij problem"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Prawdopodobnie zgłaszany problem jest już znany. Więcej informacji:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "Zaznacz problem"
+   },
+   "issueReporter_other_issues": {
+      "message": "W przypadku innych problemów, skontaktuj się z nami na \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "Reporter problemów"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Zasady ochrony prywatności"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "Przetwarzanie"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "Abyśmy lepiej zrozumieli problem, wraz ze zgłoszeniem należy przesłać zrzut ekranu. W zależności od aktualnie otwartej witryny zrzut ekranu może zawierać prywatne dane. Jeśli wolisz nie przesyłać zrzutu ekranu, prześlij opis problemu we wiadomości e-mail na adres \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Ukryj"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "Wyróżnij"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "Wybierz problem"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Wyślij zgłoszenie"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Wyślij zgłoszenie"
+   },
+   "issueReporter_sending": {
+      "message": "Wysyłanie zgłoszenia… Proszę czekać."
+   },
+   "issueReporter_showData_label": {
+      "message": "Kliknij to łącze, aby przed wysłaniem przejrzeć dane raportu"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Wybierz problem:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Jakiego rodzaju problem się pojawia?"
+   },
+   "line": {
+      "message": "Wiersz $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus – wersja rozwojowa"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - darmowy adblocker"
+   },
+   "notification_configure": {
+      "message": "Konfiguruj ustawienia powiadomień"
+   },
+   "notification_day1_message": {
+      "message": "To dużo irytujących reklam. \u003Ca>Dowiedz się, co jeszcze może blokować Adblock Plus.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "Zablokowaliśmy już $ads$ reklam!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "Otwórz wszystkie odnośniki z tego powiadomienia"
+   },
+   "notification_problem_message": {
+      "message": "Wystąpił problem, który spowodował przywrócenie ustawień ABP do domyślnych. \u003Ca>Napraw problem i dowiedz się więcej\u003C/a>"
+   },
+   "notification_recommendLanguage_message": {
+      "message": "Wygląda na to, że odwiedzono stronę w języku: $language$. Czy chcesz zablokować reklamy na wszystkich stronach internetowych w tym języku? \u003Ca>Tak\u003C/a>",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "čeština"
+         }
+      }
+   },
+   "notification_updates_message": {
+      "message": "Nie jest wymagane żadne działanie — kontynuuj przeglądanie stron bez denerwujących reklam! \u003Ca>Zobacz nowości\u003C/a>"
+   },
+   "notification_updates_title": {
+      "message": "Adblock Plus został zaktualizowany"
+   },
+   "notification_without_buttons": {
+      "message": "Kliknij powiadomienie, aby otworzyć wszystkie znajdujące się w nim odnośniki."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "Aby pomóc nam w ulepszaniu Adblock Plusa, powiedz, co spowodowało wyłączenie akceptowalnych reklam?"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "Nie, dziękuję"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "Przejdź do ankiety"
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "Akceptowalne reklamy nie przeszkadzają w oglądaniu treści. \u003Ca>Dowiedz się więcej\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "Pokaż akceptowalne reklamy"
+   },
+   "options_acceptableAds_description": {
+      "message": "Akceptowalne reklamy to takie, które nie są irytujące i spełniają rygorystyczne standardy reklamowe. Pomagają w generowaniu przychodów dla twórców treści oraz nie przeszkadzają w przeglądaniu stron."
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Uwaga:\u003C/strong> W ustawieniach przeglądarki opcja \u003Cstrong>Bez śledzenia (DNT)\u003C/strong> jest wyłączona. Aby ta funkcja działała poprawnie włącz \u003Cstrong>DNT\u003C/strong> w ustawieniach swojej przeglądarki. \u003Ca>Sprawdź, jak włączyć DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Akceptowalne reklamy"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Zezwalaj tylko na reklamy bez śledzenia przez podmioty zewnętrzne"
+   },
+   "options_advanced_description": {
+      "message": "Dostosuj Adblock Plus, dodaj lub usuń zestawy filtrów, twórz i utrzymuj własne zestawy filtrów"
+   },
+   "options_allowlist_add": {
+      "message": "Dodaj stronę"
+   },
+   "options_allowlist_description": {
+      "message": "Blokowanie reklam na tych stronach zostało wyłączone i dlatego zobaczysz na nich reklamy."
+   },
+   "options_allowlist_empty_1": {
+      "message": "Nie masz żadnych stron na swojej liście dozwolonych."
+   },
+   "options_allowlist_empty_2": {
+      "message": "Tutaj pojawią się strony, którym ufasz oraz zezwalasz na wyświetlanie reklam."
+   },
+   "options_allowlist_notification": {
+      "message": "Strona została dodana do listy dozwolonych."
+   },
+   "options_allowlist_placeholder_example": {
+      "message": "np. $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "www.example.com"
+         }
+      }
+   },
+   "options_beta_label": {
+      "message": "Beta"
+   },
+   "options_builtin_filterList_add": {
+      "message": "Dodaj wbudowane listy filtrów"
+   },
+   "options_close": {
+      "message": "Zamknij"
+   },
+   "options_control_remove_title": {
+      "message": "Usuń"
+   },
+   "options_customFilter_cancel": {
+      "message": "Anuluj"
+   },
+   "options_customFilters_description": {
+      "message": "Utwórz i edytuj własne niestandardowe filtry, aby jeszcze lepiej kontrolować wyświetlanie zawartości przez Adblock Plusa. \u003Ca0>Dowiedz się, jak tworzyć filtry (w języku angielskim)\u003C/a0>"
+   },
+   "options_customFilters_title": {
+      "message": "Filtry niestandardowe"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Mój zestaw filtrów"
+   },
+   "options_customize_blockElement": {
+      "message": "Pokaż pozycję „Zablokuj element” w menu kontekstowym"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Tymczasowe blokowanie irytujących elementów na stronie np. obrazków lub animowanych pokazów slajdów."
+   },
+   "options_customize_elemhideDebug": {
+      "message": "Włącz tryb usuwania błędów filtrów ukrywania elementu"
+   },
+   "options_customize_elemhideDebug_tooltip": {
+      "message": "Zaznacz na stronie elementy, które są dotknięte przez filtry ukrywania elementu."
+   },
+   "options_customize_header": {
+      "message": "Dostosowania"
+   },
+   "options_customize_iconStats": {
+      "message": "Wyświetlaj liczbę zablokowanych reklam na ikonie"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Wyświetlaj panel „Adblock Plus” w narzędziach dla deweloperów"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "Z panelu narzędzi deweloperskich przeglądarki wyświetl elementy zablokowane oraz dozwolone."
+   },
+   "options_customize_showNotifications": {
+      "message": "Wyświetlaj użyteczne powiadomienia"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Zezwalaj na powiadomienia Adblock Plus (powiadomienia powiązane z krytycznymi problemami dotyczącymi wydajności będą zawsze wyświetlane)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Copyright © $currentYear$ \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "Adblock Plus — informacje"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Wszelkie prawa zastrzeżone. Adblock Plus® jest zarejestrowanym znakiem towarowym eyeo GmbH"
+   },
+   "options_dialog_about_version": {
+      "message": "Numer wersji $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "Adres URL zestawu filtrów"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Wprowadź prawidłowy adres URL"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "Adres URL musi zaczynać się od $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "Dodaj zestaw filtrów"
+   },
+   "options_dialog_invalid_message": {
+      "message": "Ze względów bezpieczeństwa, możliwe jest dodanie wyłącznie list filtrów protokołu \u003Cstrong>HTTPS\u003C/strong> oraz URL \u003Cstrong>danych\u003C/strong>."
+   },
+   "options_dialog_invalid_title": {
+      "message": "Wystąpił problem"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Brak dostępnych języków."
+   },
+   "options_dialog_language_title": {
+      "message": "Wybierz język"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Tak, dodaję tę listę filtrów"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "Tytuł"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "URL"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Czy chcesz użyć tego zestaw filtrów?"
+   },
+   "options_donate_button": {
+      "message": "Wesprzyj"
+   },
+   "options_email": {
+      "message": "E-mail:"
+   },
+   "options_english": {
+      "message": "Angielski"
+   },
+   "options_filterList_add": {
+      "message": "Dodaj adres URL listy filtrów"
+   },
+   "options_filterList_column_name": {
+      "message": "Zestawy filtrów"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_column_update": {
+      "message": "Ostatnia aktualizacja"
+   },
+   "options_filterList_description": {
+      "message": "Wszystkie ustawienia Adblock Plus działają na podstawie zestawu filtrów. Poniżej znajduj sięzestawy filtrów, które odpowiadają wszystkim ustawieniom Adblock Plusa. Możesz również dodać inne filtry tworzone oraz utrzymywane przez naszą zaufaną społeczność."
+   },
+   "options_filterList_empty": {
+      "message": "Nie dodano żadnych zestawów filtrów. Dodane zestawy filtrów będą widoczne tutaj."
+   },
+   "options_filterList_enableFilters": {
+      "message": "Włącz je"
+   },
+   "options_filterList_errorPopup_title": {
+      "message": "Występuje co najmniej jeden problem z tą listą filtrów:"
+   },
+   "options_filterList_filtersDisabled": {
+      "message": "Niektóre filtry na tej liście są wyłączone."
+   },
+   "options_filterList_hours": {
+      "message": "godzin temu"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Nie powiodło się – niepoprawna suma kontrolna"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "Nie udało się pobrać listy filtrów."
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Aktualizacja"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Nieprawidłowa lista filtrów"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Nieprawidłowy adres. Sprawdź adres URL."
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "Pobieranie się nie powiodło. Adres URL musi zaczynać się od $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "min temu"
+   },
+   "options_filterList_now": {
+      "message": "przed chwilą"
+   },
+   "options_filterList_source": {
+      "message": "Źródło"
+   },
+   "options_filterList_title": {
+      "message": "Zestawy filtrów"
+   },
+   "options_filterList_update": {
+      "message": "Aktualizuj wszystkie zestawy filtrów"
+   },
+   "options_filterList_updateNow": {
+      "message": "Aktualizuj teraz"
+   },
+   "options_filterList_website": {
+      "message": "Strona internetowa"
+   },
+   "options_filter_list_rule": {
+      "message": "Reguły filtrowania"
+   },
+   "options_filters_search_or_add": {
+      "message": "Wyszukaj lub dodaj filtry (np. $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "Adblock Plus — informacje"
+   },
+   "options_footer_contribute": {
+      "message": "Wesprzyj nas"
+   },
+   "options_free_filters_header": {
+      "message": "Darmowe opcje"
+   },
+   "options_general_description": {
+      "message": "Określ, co Adblock Plus pokazuje i ukrywa na stronach internetowych"
+   },
+   "options_generic_error": {
+      "message": "Wystąpił błąd! Spróbuj ponownie."
+   },
+   "options_help_center": {
+      "message": "Szukasz odpowiedzi na swoje pytania? \u003Ca0>Odwiedź nasze Centrum pomocy (w j. angielskim)\u003C/a0>"
+   },
+   "options_help_description": {
+      "message": "Znajdź pomoc lub skontaktuj się z nami"
+   },
+   "options_language_add": {
+      "message": "Dodaj listę filtra językowego"
+   },
+   "options_language_change": {
+      "message": "Zmień"
+   },
+   "options_language_description": {
+      "message": "Dodaj lub usuń języki, w których chcesz, aby Adblock Plus blokował reklamy.\u003Ca0>Dowiedz się więcej\u003C/a0>"
+   },
+   "options_language_empty": {
+      "message": "Nie masz żadnych filtrów specyficznych dla języków."
+   },
+   "options_language_filter_list": {
+      "message": "Listy filtrów dla języka"
+   },
+   "options_language_header": {
+      "message": "Listy filtrów w różnych językach"
+   },
+   "options_language_join": {
+      "message": "$lang1$, $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_recommend": {
+      "message": "Powiadamiaj mnie o dostępnych listach filtrów w różnych językach"
+   },
+   "options_language_recommend_tooltip": {
+      "message": "Adblock Plus opiera się na listach filtrów do blokowania reklam w różnych językach."
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>Wskazówka\u003C/strong> Wybierz tylko Języki, których potrzebujesz. Zaznaczanie dużej liczby języków spowolni blokowanie reklam, a co za tym idzie – szybkość przeglądania."
+   },
+   "options_learn_more": {
+      "message": "Dowiedz się więcej"
+   },
+   "options_more_filters_description": {
+      "message": "To są dodatkowe filtry wcześniej dodane do Adblock Plusa."
+   },
+   "options_more_filters_header": {
+      "message": "Więcej list filtrów"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Uwaga:\u003C/strong> Używane zestawy filtrów powinny pochodzić wyłącznie od zaufanych autorów."
+   },
+   "options_new_label": {
+      "message": "Nowy"
+   },
+   "options_page_document_title": {
+      "message": "Ustawienia"
+   },
+   "options_page_title": {
+      "message": "Ustawienia"
+   },
+   "options_premium_manage": {
+      "message": "Zarządzaj moją subskrypcją"
+   },
+   "options_premium_upgrade_description": {
+      "message": "Dostosuj i zwiększ swoje doświadczenie w zakresie blokowania reklam! \u003Ca0>Dowiedz się więcej\u003C/a0>"
+   },
+   "options_privacy_header": {
+      "message": "Prywatność i bezpieczeństwo"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Chroń swoją prywatność przed znanymi elementami, które mogą śledzić Twoją aktywność na odwiedzanych witrynach."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Ikony mediów społecznościowych znajdujące się w odwiedzanych witrynach internetowych umożliwiaj sieciom mediów społecznościowych na budowanie Twojego profilu w oparciu o Twoje nawyki przeglądania – nawet, jeśli ich nie klikasz. Ukrycie tych ikon może ochronić Twój profil."
+   },
+   "options_rating_button": {
+      "message": "Oceń nas"
+   },
+   "options_recommended_distractions_description": {
+      "message": "Blokuj pływające filmy, wyskakujące okienka newslettera, prośby o wypełnienie ankiet oraz powiadomienia z witryn."
+   },
+   "options_recommended_notifications_description": {
+      "message": "Powstrzymaj witryny przed proszeniem o zgodę na powiadomienia, które mogłyby śledzić Twoją aktywność w sieci."
+   },
+   "options_recommended_privacy_description": {
+      "message": "Chroń swoją prywatność przed znanymi podmiotami, które mogą śledzić Twoją aktywność online na odwiedzanych stronach internetowych."
+   },
+   "options_recommended_social_description": {
+      "message": "Zablokuj sieciom społecznościowym możliwość budowania Twojego profilu w oparciu o nawyki w przeglądaniu stron."
+   },
+   "options_refresh": {
+      "message": "Odśwież"
+   },
+   "options_report_bug": {
+      "message": "Widzisz błąd? \u003Ca>Wyślij do nas zgłoszenie\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Potrzebujesz pomocy od naszej społeczności? \u003Ca>Przejdź do forum\u003C/a>"
+   },
+   "options_short": {
+      "message": "Opcje"
+   },
+   "options_social_description": {
+      "message": "Masz pytanie lub nowy pomysł? Jesteśmy tutaj po to, aby pomóc."
+   },
+   "options_social_title": {
+      "message": "Bądź w kontakcie"
+   },
+   "options_supportUs_description": {
+      "message": "Poświęć chwilę, aby ocenić ABP lub przekazać darowiznę na projekt. Dziękujemy za wsparcie!"
+   },
+   "options_supportUs_title": {
+      "message": "Lubisz Adblock Plus?"
+   },
+   "options_support_title": {
+      "message": "Pomoc"
+   },
+   "options_tab_advanced": {
+      "message": "Zaawansowane"
+   },
+   "options_tab_allowlist": {
+      "message": "Strony dozwolone"
+   },
+   "options_tab_general": {
+      "message": "Ogólne"
+   },
+   "options_tab_help": {
+      "message": "Pomoc"
+   },
+   "options_tracking_warning_1": {
+      "message": "Zauważyliśmy że masz włączone funkcje: \u003Cstrong>$tracking$\u003C/strong> i \u003Cstrong>$acceptableAds$\u003C/strong>.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_2": {
+      "message": "Chcemy, abyście wiedzieli, że aby reklamodawcy \u003Cstrong>mogli\u003C/strong> pokazywać bardziej dopasowane reklamy, w pewnym stopniu mogą występować związane z tym przypadki śledzenia."
+   },
+   "options_tracking_warning_3": {
+      "message": "Jeśli preferujesz dodatkową prywatność, zaznacz poniżej opcję \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong>.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "OK, rozumiem"
+   },
+   "options_upgrade_button": {
+      "message": "Aktualizuj"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Zamknij"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Przestań wyświetlać powiadomienia"
+   },
+   "premium_upgrade": {
+      "message": "Dokonaj upgrade'u"
+   },
+   "problem_note": {
+      "message": "Pamiętaj, że w zależności od sposobu korzystania po ponownej instalacji Adblock Plus może być konieczna ponowna konfiguracja ustawień, filtrów niestandardowych oraz witryn z listy dozwolonych."
+   },
+   "problem_os_mac": {
+      "message": "Mac"
+   },
+   "problem_os_windows": {
+      "message": "Windows"
+   },
+   "problem_social_description": {
+      "message": "Masz problem? Skontaktuj się z naszym zespołem pomocy technicznej"
+   },
+   "problem_social_email": {
+      "message": "E-mail"
+   },
+   "problem_social_facebook": {
+      "message": "Facebook"
+   },
+   "problem_social_title": {
+      "message": "Wciąż szukasz pomocy?"
+   },
+   "problem_social_twitter": {
+      "message": "Twitter"
+   },
+   "problem_solution_action": {
+      "message": "Kliknij tutaj, aby odinstalować i ponownie zainstalować Adblock Plus"
+   },
+   "problem_solution_opera_step_1": {
+      "message": "Otwórz ten link do Opera Addons (otworzy się w nowej karcie)"
+   },
+   "problem_solution_opera_step_2": {
+      "message": "Z paska narzędzi Opery, \u003Cem0>kliknij prawym przyciskiem myszy\u003C/em0> / \u003Cem1>Ctrl-klik\u003C/em1> na ikonę \u003Cstrong>Adblock Plus\u003C/strong> i wybierz \u003Cstrong>Zarządzaj rozszerzeniem\u003C/strong>."
+   },
+   "problem_solution_opera_step_3": {
+      "message": "Kliknij \u003Cstrong>strzałkę\u003C/strong> obok ikony Adblock Plus."
+   },
+   "problem_solution_opera_step_4": {
+      "message": "Zlokalizuj Adblock Plus i kliknij znaczek \u003Cstrong>X\u003C/strong> w prawym górnym rogu."
+   },
+   "problem_solution_opera_step_5": {
+      "message": "Kliknij \u003Cstrong>Usuń\u003C/strong>."
+   },
+   "problem_solution_opera_step_6": {
+      "message": "Odśwież Opera Addons."
+   },
+   "problem_solution_opera_step_7": {
+      "message": "Kliknij \u003Cstrong>Dodaj do Opera\u003C/strong>."
+   },
+   "problem_solution_title": {
+      "message": "Rozwiązanie:"
+   },
+   "problem_subtitle": {
+      "message": "Z tego powodu ustawienia ABP zostały przywrócone do domyślnych. Aby rozwiązać problem, musisz odinstalować i ponownie zainstalować Adblock Plus. Kliknij poniższy link, aby to zrobić."
+   },
+   "problem_subtitle_opera": {
+      "message": "Z tego powodu ustawienia ABP zostały przywrócone do domyślnych. Aby rozwiązać problem, musisz odinstalować i ponownie zainstalować Adblock Plus. Postępuj zgodnie z poniższą instrukcją, aby to zrobić."
+   },
+   "problem_title": {
+      "message": "Problem z przeglądarką spowodował zresetowanie ustawień ABP."
+   },
+   "refresh_this_page": {
+      "message": "Odśwież tę stronę"
+   },
+   "refresh_to_take_effect": {
+      "message": "Kliknij poniższy przycisk, aby wprowadzić zmiany."
+   },
+   "sendReport": {
+      "message": "Zgłoś problem na tej stronie"
+   },
+   "share_on_facebook": {
+      "message": "Podziel się na Facebooku"
+   },
+   "share_on_twitter": {
+      "message": "Podziel się na Twitterze"
+   },
+   "share_on_twitter_message": {
+      "message": "Zablokowałem/am $number$ reklam z Adblock Plus. Też go wypróbuj - ZA DARMO!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "share_on_weibo": {
+      "message": "Udostępnij na Weibo"
+   },
+   "share_on_weibo_message": {
+      "message": "Zablokowałem/am $number$ reklam z Adblock Plus. Też go wypróbuj - ZA DARMO!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "social_media_share": {
+      "message": "Podziel się tą liczbą ze znajomymi"
+   },
+   "stats_header": {
+      "message": "Liczba zablokowanych elementów"
+   },
+   "stats_label_page": {
+      "message": "na tej stronie"
+   },
+   "stats_label_total": {
+      "message": "w sumie"
+   },
+   "status_domain": {
+      "message": "Ta strona internetowa:"
+   },
+   "status_header": {
+      "message": "Blokuj reklamy na"
+   },
+   "status_page": {
+      "message": "Ta strona:"
+   },
+   "too_many_filters": {
+      "message": "Osiągnięto maksymalną ilość filtrów. Przed dodaniem nowych proszę usunąć inne filtry tego samego typu."
+   },
+   "unexpected_filter_list_header": {
+      "message": "Nagłówki list filtrów są obsługiwane tylko w listach filtrów do pobrania."
+   },
+   "updates_adblockBrowser": {
+      "message": "Jeśli sterujesz wszystkim z komputera, możesz blokować reklamy, dbając o prywatność i bezpieczeństwo, także na telefonie. Pobierz \u003Ca>aplikację Adblock Browser poniżej\u003C/a>"
+   },
+   "updates_blockAds": {
+      "message": "Nowe filtry blokujące utworzone przez Sojusz Rebeliantów Open Source pozwalają odstrzelić ukryte reklamy w witrynach, takich jak Facebook, nawet jeśli Imperium skontratakuje!"
+   },
+   "updates_contribute_donate_action": {
+      "message": "Wspomóż"
+   },
+   "updates_contribute_donate_subtitle": {
+      "message": "Twoje wsparcie pozwoli na dalsze udoskonalanie Adblock Plus."
+   },
+   "updates_contribute_donate_title": {
+      "message": "Wesprzyj rozwój projektu ABP"
+   },
+   "updates_contribute_rate_action": {
+      "message": "Oceń"
+   },
+   "updates_contribute_rate_subtitle": {
+      "message": "Poświęć nam chwilę i oceń Adblock Plus. Szybko i bezpłatnie! Dzięki temu jeszcze więcej użytkowników dowie się o programie."
+   },
+   "updates_contribute_rate_title": {
+      "message": "Oceń!"
+   },
+   "updates_contribute_subtitle": {
+      "message": "Możesz wesprzeć ABP na dwa sposoby:"
+   },
+   "updates_contribute_subtitle_generic": {
+      "message": "Pomyśl o wsparciu ABP:"
+   },
+   "updates_contribute_title": {
+      "message": "Lubisz Adblock Plus?"
+   },
+   "updates_fixes_title": {
+      "message": "Poprawki"
+   },
+   "updates_heading": {
+      "message": "Rozszerzenie Adblock Plus zostało zaktualizowane!"
+   },
+   "updates_improvements_title": {
+      "message": "Usprawnienia"
+   },
+   "updates_link": {
+      "message": "Dowiedz się więcej"
+   },
+   "updates_optionsPageNews": {
+      "message": "Całkiem nowa strona ustawień — ulepszona i przebudowana z większą liczbą opcji prywatności i zabezpieczeń — \u003Ca>aby dostosowanie Adblock Plus było jeszcze łatwiejsze\u003C/a>."
+   },
+   "updates_phone": {
+      "message": "Ale zaczekaj! A co z Twoim telefonem?"
+   },
+   "updates_social_description": {
+      "message": "Podziel się z nami swoją opinią na temat najnowszych uaktualnień ABP."
+   },
+   "updates_social_email": {
+      "message": "E-mail"
+   },
+   "updates_social_facebook": {
+      "message": "Facebook"
+   },
+   "updates_social_title": {
+      "message": "Chcemy poznać Twoją opinię!"
+   },
+   "updates_social_twitter": {
+      "message": "Twitter"
+   },
+   "updates_status": {
+      "message": "Aktualizacja ukończona"
+   },
+   "updates_subheading": {
+      "message": "Co nowego?"
+   },
+   "updates_subtitle": {
+      "message": "Mamy nadzieję, że podobają ci się najnowsze uaktualnienia."
+   },
+   "updates_title": {
+      "message": "Adblock Plus został zaktualizowany!"
+   },
+   "updates_update_f1_description": {
+      "message": "Zaktualizowaliśmy nasze sformułowania, aby dalej korzystać z \u003Cstrong>listy dozwolonych\u003C/strong>."
+   },
+   "updates_update_f1_title": {
+      "message": "Zaktualizowaliśmy nasze sformułowania"
+   },
+   "updates_update_f2_description": {
+      "message": "Teraz użytkownik będzie powiadamiany o wyłączeniu niektórych filtrów na listach filtrów do pobrania, aby mógł je ponownie włączyć w dogodnym dla siebie momencie."
+   },
+   "updates_update_f2_title": {
+      "message": "Dodana opcja ponownego włączania filtrów dla pobieranych list filtrów"
+   },
+   "updates_update_f3_description": {
+      "message": "Zaktualizowaliśmy link przycisku \"Oceń\" w Microsoft Edge, aby wskazywał na właściwy sklep z dodatkami (add-ons)."
+   },
+   "updates_update_f3_title": {
+      "message": "Zaktualizowany link przycisku \"Oceń\""
+   },
+   "updates_update_i2_description": {
+      "message": "Teraz możesz odwiedzać strony internetowe w innych językach i nadal mieć zablokowane reklamy. Gdy odwiedzisz witrynę w określonym języku, możesz wybrać, czy chcesz blokować reklamy na wszystkich witrynach w tym języku. Opcję tę można włączyć/wyłączyć w \u003Cstrong>Ustawieniach > Ogólne > Listy filtrów językowych\u003C/strong>. Opcja ta jest już dostępna dla naszych użytkowników w Chrome, Firefox i Microsoft Edge, a wkrótce pojawi się także w Operze."
+   },
+   "updates_update_i2_image": {
+      "message": "\"Powiadom mnie o dostępnych filtrach językowych\" jest podświetlone w sekcji \"Język\" na stronie opcji."
+   },
+   "updates_update_i2_title": {
+      "message": "Dodano opcję powiadamiania o dostępnych filtrach językowych"
+   },
+   "updates_update_i3_description": {
+      "message": "Po otwarciu menu Adblock Plus z paska narzędzi zobaczysz nową, przeprojektowaną stopkę. Z tego miejsca można łatwo uzyskać dostęp do interesujących linków, aby lepiej wykorzystać swój produkt. Uzyskaj wsparcie Centrum pomocy, skontaktuj się z nami w mediach społecznościowych i nie tylko!"
+   },
+   "updates_update_i3_title": {
+      "message": "Dodano linki szybkiego dostępu do stopki menu"
+   },
+   "updates_update_i4_description": {
+      "message": "Jeśli często dodajesz niestandardowe filtry do ABP, zobaczysz teraz bardziej przejrzyste komunikaty o błędach. Mamy nadzieję, że to pomoże!"
+   },
+   "updates_update_i4_title": {
+      "message": "Zaktualizowane komunikaty sprawdzania poprawności filtrów"
+   }
+}

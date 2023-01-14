@@ -1,0 +1,319 @@
+{
+   "add": {
+      "message": "Əlavə et"
+   },
+   "block_element": {
+      "message": "Elementi əngəllə"
+   },
+   "cancel": {
+      "message": "Ləğv et"
+   },
+   "common_copyright": {
+      "message": "Copyright © $year$ Bütün hüquqlar qorunur. Adblock Plus®, \u003Ca0>eyeo GmbH\u003C/a0>-ın qeydiyyatdan keçmiş ticarət nişanıdır.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Adblock Xəbərdarlıq Mesajlarını Gizlət"
+   },
+   "common_feature_circumvention_title": {
+      "message": "ABP Aldatmaya Qarşı Filtr Siyahısı"
+   },
+   "common_feature_malware_title": {
+      "message": "Zərərli Proqramı Əngəllə"
+   },
+   "common_feature_privacy_title": {
+      "message": "Əlavə izləmələri əngəllə"
+   },
+   "common_feature_social_title": {
+      "message": "Sosial media nişanları ilə izləməni əngəllə"
+   },
+   "common_notification_hide": {
+      "message": "Bildirişi bağla"
+   },
+   "continue": {
+      "message": "İrəli"
+   },
+   "copy_selected": {
+      "message": "Seçilmişi kopyala"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "description": {
+      "message": "Adblock Plus əlavəni 500 milyondan çox insan istifadə edir. Bu, dünyanın ən məşhir reklama qarşı əlavədir."
+   },
+   "easy_create_filter": {
+      "message": "Elementi əngəllə"
+   },
+   "filter_action_failed": {
+      "message": "Nəsə səhv getdi. Zəhmət olmasa yenidən sınayın."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Baş tutmadı, yükləmə uğursuz oldu"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonim göndəriş"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Sizinlə əlaqə saxlaya bilməyəcəyik və raportu çox vacib qiymətləndirə bilməyəcəyik."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Bağla"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Qeyd əlavə et"
+   },
+   "issueReporter_comment_description": {
+      "message": "Aşağıdakı hissəyə qeydlərinizi yazaraq problemi yaxşı izah edə bilərsiniz. Bu mərhələ istəyə bağlıdır, amma problem ciddidirsə qeyd etməyiniz məsləhət bilinir. Raportu göndərməmişdən əvvəl onun məzmununa nəzər sala bilərsiniz."
+   },
+   "issueReporter_comment_label": {
+      "message": "Qeyd (seçimə bağlı):"
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Raportunuz yadda saxlandı. Ona aşağıdakı ünvandan keçə bilərsiniz:"
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Təfsilatlar"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Oldu"
+   },
+   "issueReporter_email_description": {
+      "message": "Raport haqqında sualımız olarkən sizinlə əlaqə saxlaya biləcəyimiz e-ünvan daxil etməyinizi xahiş edirik. Bu qatqılarınıza prioritetlik verməyimizə və onlara görə sizxatırlmağımıza kömək edəcək."
+   },
+   "issueReporter_email_label": {
+      "message": "E-poçt:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Raport göndərmə cəhdi \"?1?\" xəta səbəbi ilə uğursuz alındı. Lütfən internet əlaqənizi yoxlayın və yenidən cəhd edin. Problem hələ də qalırsa [link]Adblock Plus forum[/link] - dən kömək alın."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Adblock Plus aktiv olmasına rəğmən reklam yenə görünürsə bu bəndi seçin."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus reklamı blok etmir"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Səhifə vacib məzmunu əskildirsə, yalnış göstərirsə, düzgün işləmirsə bu bölməni seçin. Problemin səbəbini öyrənmək üçün Adblock Plus' su müvəqqəti olaraq deaktiv edin."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus aşırı çox blok edir"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Bildirdiyiniz problemin səbəbi bilinir. Ətraflı:"
+   },
+   "issueReporter_page_title": {
+      "message": "Problem xəbərçisi"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Gizlilik siyasəti"
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Gizlət"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Raportu göndər"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Raport göndər"
+   },
+   "issueReporter_sending": {
+      "message": "Lütfən Adblock Plus raportunuzu göndərənədək gözləyin."
+   },
+   "issueReporter_showData_label": {
+      "message": "Raport məzmununu göstər"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Bu pəncərə sizi Adblock Plus' un problemini göndərənədək sizə yardımçi olacaq. Birinci, lütfən qarşılaşdığınız problemin növünü seçin:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Problem növünü seçin"
+   },
+   "line": {
+      "message": "Sətir $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus (sınaq versiyası)"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - ödənişsiz reklam əngəlləyici"
+   },
+   "notification_configure": {
+      "message": "Bildirişlərin ayarlarını seç"
+   },
+   "notification_open_all": {
+      "message": "Bu bildirişə aid bütün keçidləri aç"
+   },
+   "notification_without_buttons": {
+      "message": "Bütün keçidləri açmaq üçün, bildirişin üzərinə klik edin."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "Adblock Plus-u təkmilləşdirməyə kömək etmək üçün Qəbul edilə bilən reklamları bağlama səbəbinizi bizimlə paylaşmağı düşünürsünüz?"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "Xeyr, təşəkkürlər"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "Anketə get"
+   },
+   "options_acceptableAds_header": {
+      "message": "Qəbul edilən reklamlar"
+   },
+   "options_close": {
+      "message": "bağla"
+   },
+   "options_control_remove_title": {
+      "message": "çıxart"
+   },
+   "options_customFilter_cancel": {
+      "message": "Ləğv et"
+   },
+   "options_customize_showNotifications": {
+      "message": "Faydalı bildirişləri göstər"
+   },
+   "options_dialog_about_title": {
+      "message": "Adblock Plus Haqqında"
+   },
+   "options_dialog_about_version": {
+      "message": "Versiya nömrəsi $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_invalid_title": {
+      "message": "Xəta baş verdi"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "Başlıq"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "URL"
+   },
+   "options_email": {
+      "message": "E-poçt:"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Baş tutmadı, rəqəmsal cəm uyğunlaşmadı"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Baş tutmadı ünvan düzgün deyil"
+   },
+   "options_filterList_updateNow": {
+      "message": "indi yenilə"
+   },
+   "options_footer_about": {
+      "message": "Adblock Plus Haqqında"
+   },
+   "options_footer_contribute": {
+      "message": "Töhfə ver"
+   },
+   "options_general_description": {
+      "message": "Adblock Plus-un saytlarda nəyi göstərib nəyi gizlədəcəyini müəyyənləşdirin"
+   },
+   "options_language_change": {
+      "message": "dəyişdir"
+   },
+   "options_learn_more": {
+      "message": "Daha ətraflı"
+   },
+   "options_new_label": {
+      "message": "Yeni"
+   },
+   "options_page_document_title": {
+      "message": "Tənzimləmələr"
+   },
+   "options_page_title": {
+      "message": "Tənzimləmələr"
+   },
+   "options_privacy_header": {
+      "message": "Gizlilik və təhlükəsizlik"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Gizliliyinizi, ziyarət etdiyiniz veb saytlarda onlayn fəaliyyətinizi izləyə bilənlərdən qoruyun."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Ziyarət etdiyiniz saytlarda olan sosial media nişanları, sosial media şəbəkələrinə, saytlardakı gəzinti vərdişlərinizə əsaslanaraq sizin profilinizi yaratmağa icazə verir - hətta onlara klikləməsəniz belə. Bu nişanları gizlətmək profilinizi qoruya bilər."
+   },
+   "options_refresh": {
+      "message": "Təzələ"
+   },
+   "options_short": {
+      "message": "Ayarlar"
+   },
+   "options_support_title": {
+      "message": "Dəstək"
+   },
+   "options_tab_advanced": {
+      "message": "Qabaqcıl"
+   },
+   "options_tab_general": {
+      "message": "Ümumi"
+   },
+   "options_tab_help": {
+      "message": "Kömək"
+   },
+   "options_tracking_warning_1": {
+      "message": "Hər ikisidə fəaldır: \u003Cstrong>$tracking$\u003C/strong> və \u003Cstrong>$acceptableAds$\u003C/strong>.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "Yaxşı, anladım."
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Bağla"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Bildirişləri göstərməyi dayandır"
+   },
+   "refresh_this_page": {
+      "message": "Bu səhifəni təzələ"
+   },
+   "refresh_to_take_effect": {
+      "message": "Dəyişikliklərin tətbiq edilməsi üçün aşağıdakı düyməyə klikləyin."
+   },
+   "stats_label_page": {
+      "message": "Bu səhifədə"
+   },
+   "stats_label_total": {
+      "message": "Ümumi"
+   },
+   "status_domain": {
+      "message": "Bu veb sayt:"
+   },
+   "status_header": {
+      "message": "Reklamları əngəllə"
+   },
+   "status_page": {
+      "message": "Bu səhifə:"
+   }
+}

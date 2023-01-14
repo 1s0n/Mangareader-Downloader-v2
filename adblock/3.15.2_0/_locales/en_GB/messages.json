@@ -1,0 +1,797 @@
+{
+   "add": {
+      "message": "Add"
+   },
+   "block_element": {
+      "message": "Block element"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "click_element_to_block_it": {
+      "message": "Click an element on the page to block it."
+   },
+   "common_copyright": {
+      "message": "Copyright © $year$ All rights reserved. Adblock Plus® is a registered trademark of \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Hide Adblock Warning Messages"
+   },
+   "common_feature_circumvention_title": {
+      "message": "ABP Anti-Circumvention Filter List"
+   },
+   "common_feature_malware_title": {
+      "message": "Block Malware"
+   },
+   "common_feature_privacy_title": {
+      "message": "Block additional tracking"
+   },
+   "common_feature_social_title": {
+      "message": "Block social media icons tracking"
+   },
+   "common_notification_hide": {
+      "message": "Close notification"
+   },
+   "continue": {
+      "message": "Continue"
+   },
+   "copy_selected": {
+      "message": "Copy selected"
+   },
+   "day1_blockelement_description": {
+      "message": "Block them with Adblock Plus's nifty block element feature."
+   },
+   "day1_blockelement_more": {
+      "message": "Learn how"
+   },
+   "day1_blockelement_screenshot": {
+      "message": "Example of icon pop-up with \"Block element\" button highlighted."
+   },
+   "day1_blockelement_title": {
+      "message": "Tired of comment sections bringing you down?"
+   },
+   "day1_community_contact": {
+      "message": "Contact us!"
+   },
+   "day1_community_contact_subject": {
+      "message": "Looking for support!"
+   },
+   "day1_community_description_1": {
+      "message": "As an open source project, we depend on users like you to help us improve your ad-blocking experience."
+   },
+   "day1_community_description_2": {
+      "message": "What features would you like to see? What can we do better? Is Adblock Plus making some websites misbehave?"
+   },
+   "day1_community_title": {
+      "message": "Join the Adblock Plus community"
+   },
+   "day1_header_more": {
+      "message": "Learn more about malicious advertising"
+   },
+   "day1_header_title": {
+      "message": "Adblock Plus \u003Cstrong>blocked \u003Cem0>$ads$ ads\u003C/em0> in \u003Cem1>the last half hour\u003C/em1>,\u003C/strong> some of which might have contained malicious content",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "description": {
+      "message": "Block YouTube™ ads and pop-ups & fight malware!"
+   },
+   "devtools_action_block": {
+      "message": "Block item"
+   },
+   "devtools_action_remove": {
+      "message": "Remove rule"
+   },
+   "devtools_action_unblock": {
+      "message": "Add exception"
+   },
+   "devtools_filter_origin_custom": {
+      "message": "user-defined"
+   },
+   "devtools_filter_origin_none": {
+      "message": "unnamed subscription"
+   },
+   "devtools_filter_subtitle": {
+      "message": "Origin"
+   },
+   "devtools_filter_title": {
+      "message": "Filter"
+   },
+   "devtools_footer": {
+      "message": "\u003Ca0>Reload\u003C/a0> page to see effect of filter changes"
+   },
+   "devtools_header": {
+      "message": "Show \u003Cslot0>\u003C/slot0> items of \u003Cslot1>\u003C/slot1> type"
+   },
+   "devtools_header_state_all": {
+      "message": "all"
+   },
+   "devtools_header_state_blocked": {
+      "message": "blocked"
+   },
+   "devtools_header_type_any": {
+      "message": "any"
+   },
+   "devtools_request_subtitle": {
+      "message": "Document domain"
+   },
+   "devtools_request_title": {
+      "message": "Request"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> rewritten to \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "devtools_type_title": {
+      "message": "Type"
+   },
+   "easy_create_filter": {
+      "message": "Block element"
+   },
+   "filter_action_failed": {
+      "message": "Something went wrong. Please try again."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Failed: download failure"
+   },
+   "firstRun_browser_description": {
+      "message": "From the team behind Adblock Plus, the most popular ad blocker for desktop browsers, Adblock Browser is now available for your Android and iOS devices."
+   },
+   "firstRun_browser_store_android": {
+      "message": "Android app on Google Play"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "Available on the iTunes App Store"
+   },
+   "firstRun_browser_title": {
+      "message": "Adblock Browser app"
+   },
+   "firstRun_control_description": {
+      "message": "By default, you may see some nonintrusive ads that adhere to \u003Ca0>strict criteria\u003C/a0>. We identify these ads as Acceptable Ads. Prefer to block all ads? \u003Ca1>Turn off Acceptable Ads\u003C/a1> in your \u003Ca2>Settings\u003C/a2>."
+   },
+   "firstRun_control_title": {
+      "message": "You're in control"
+   },
+   "firstRun_fair_title": {
+      "message": "Fair use"
+   },
+   "firstRun_subtitle": {
+      "message": "You just took control of your browser."
+   },
+   "firstRun_title": {
+      "message": "Installation Successful!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "Some users are experiencing an issue where this page opens each time their browser is launched. This issue can be resolved by uninstalling and reinstalling Adblock Plus:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "If you still need help, contact us at \u003Ca0>support@adblockplus.org\u003C/a0> or visit our \u003Ca1>Help Center\u003C/a1>."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "Open your browser's Extensions tab."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "Locate Adblock Plus and remove it."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "Reinstall Adblock Plus from \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "firstRun_warning_reinitialized": {
+      "message": "It seems that an issue caused all filters to be removed and we were unable to restore a backup. Therefore, we had to reset your filters and Acceptable Ads settings. Please check your filter lists and Acceptable Ads settings in the \u003Ca>Adblock Plus options\u003C/a>."
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Anonymous submission"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "We won't be able to come back to you and will likely prioritize the report lower."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Close"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Enter comment"
+   },
+   "issueReporter_comment_description": {
+      "message": "The text field below allows you to enter a comment to help us understand the issue. This step is optional but recommended if the problem isn't obvious. You can also review the report data before it is sent."
+   },
+   "issueReporter_comment_label": {
+      "message": "Comment (optional):"
+   },
+   "issueReporter_config_label": {
+      "message": "Include information about my browser configuration, as well as a list of active extensions I'm using."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Your report has been saved. You can access it at the following address:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>Note:\u003C/strong> An additional tab will temporarily open so the page you are on won't be affected by the Issue Reporter."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Details"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Done"
+   },
+   "issueReporter_email_description": {
+      "message": "We encourage you to enter a valid email address so that we can contact you if there are questions about your report. It will also allow us to recognize your contributions and to prioritize them higher."
+   },
+   "issueReporter_email_label": {
+      "message": "Email:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "An attempt to send the report failed with error code \"?1?\". Please ensure you are connected to the Internet and retry. If the problem persists please request assistance in the [link]Adblock Plus forum[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Select this option if an advertisement is displayed despite Adblock Plus being enabled."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Adblock Plus doesn't block an advertisement"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Select this option if the page lacks important content, displays incorrectly or fails to function properly. You can determine whether Adblock Plus is the cause of the problem by disabling it temporarily."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Adblock Plus is blocking too much"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "Use the tools to highlight each ad or hide sensitive info on the screenshot. Highlighting ads will help us fix the issue faster."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "Highlight issue"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "The issue you reported is probably already known. More information:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "Mark issue"
+   },
+   "issueReporter_other_issues": {
+      "message": "For all other issues, please contact us via \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "Issue reporter"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Privacy policy"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "processing"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "To help us better understand the issue, a screenshot is required when submitting an issue report. Depending on the website you're currently on, the screenshot might contain personal information. If you're uncomfortable submitting a screenshot, please email your issue to \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Hide"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "Highlight"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "Select issue"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Send report"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Send report"
+   },
+   "issueReporter_sending": {
+      "message": "Please wait while Adblock Plus is submitting your report."
+   },
+   "issueReporter_showData_label": {
+      "message": "Show report data"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "This window will guide you through the steps required for the submission of an Adblock Plus issue report. First, please select the type of issue that you are experiencing on this page:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Select issue type"
+   },
+   "line": {
+      "message": "Line $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Adblock Plus development build"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - free ad blocker"
+   },
+   "notification_configure": {
+      "message": "Configure notification settings"
+   },
+   "notification_day1_message": {
+      "message": "That's a lot of annoying ads. \u003Ca>Find out what else Adblock Plus can block.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "You've already blocked $ads$ ads!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "Open all links from this notification."
+   },
+   "notification_problem_message": {
+      "message": "An issue has caused your ABP settings to be reset to default. \u003Ca>Fix the issue and learn more\u003C/a>"
+   },
+   "notification_without_buttons": {
+      "message": "Click on the notification to open all links in it."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "To help us improve Adblock Plus, mind sharing why you’ve turned off Acceptable Ads?"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "No, thanks"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "Go to the survey"
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Note:\u003C/strong> You have \u003Cstrong>Do Not Track (DNT)\u003C/strong> disabled in your browser settings. For this feature to work properly, please enable \u003Cstrong>DNT\u003C/strong> in your browser preferences. \u003Ca>Find out how to enable DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Acceptable Ads"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Only allow ads without third-party tracking"
+   },
+   "options_advanced_description": {
+      "message": "Customize Adblock Plus, add or remove filter lists, create and maintain your own filter lists"
+   },
+   "options_builtin_filterList_add": {
+      "message": "Add built-in filter lists"
+   },
+   "options_close": {
+      "message": "close"
+   },
+   "options_control_remove_title": {
+      "message": "remove"
+   },
+   "options_customFilter_cancel": {
+      "message": "Cancel"
+   },
+   "options_customFilters_description": {
+      "message": "Write your own custom filters to further control what content Adblock Plus allows or blocks. \u003Ca0>Learn how to write filters (English only)\u003C/a0>"
+   },
+   "options_customFilters_title": {
+      "message": "Create and edit your filter list"
+   },
+   "options_customFilters_widget_title": {
+      "message": "My filter list"
+   },
+   "options_customize_blockElement": {
+      "message": "Show 'Block element' right-click menu item"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Temporarily block annoying items on a webpage, e.g. images or animated slideshows."
+   },
+   "options_customize_header": {
+      "message": "Customisations"
+   },
+   "options_customize_iconStats": {
+      "message": "Show number of ads blocked in icon"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Show 'Adblock Plus' panel in developer tools"
+   },
+   "options_customize_showNotifications": {
+      "message": "Show useful notifications"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Allow notifications from Adblock Plus (notifications related to critical performance issues will always be shown)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Copyright © $currentYear$ \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "About Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "All rights reserved. Adblock Plus® is a registered trademark of eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Version number $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "Filter list URL"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Enter a valid URL"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "URL must start with $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "Add a filter list"
+   },
+   "options_dialog_invalid_message": {
+      "message": "For security reasons, only \u003Cstrong>HTTPS\u003C/strong> filter lists and \u003Cstrong>data\u003C/strong> URLs can be added."
+   },
+   "options_dialog_invalid_title": {
+      "message": "Error occurred"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "There are no available languages."
+   },
+   "options_dialog_language_title": {
+      "message": "Select a language"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Yes, use this filter list"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "Title"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "URL"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Are you sure you want to add this filter list?"
+   },
+   "options_email": {
+      "message": "Email:"
+   },
+   "options_english": {
+      "message": "English"
+   },
+   "options_filterList_add": {
+      "message": "Add a new filter list"
+   },
+   "options_filterList_column_name": {
+      "message": "Filter lists"
+   },
+   "options_filterList_column_status": {
+      "message": "Status"
+   },
+   "options_filterList_column_update": {
+      "message": "Last updated"
+   },
+   "options_filterList_description": {
+      "message": "Each Adblock Plus setting functions because of a filter list. Below are the filter lists that correspond to all of your Adblock Plus settings. You can also add additional filters created and maintained by our trusted community."
+   },
+   "options_filterList_empty": {
+      "message": "You have not added any filter lists to Adblock Plus. Filter lists you add will be shown here."
+   },
+   "options_filterList_hours": {
+      "message": "hours ago"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Failed, checksum mismatch"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "Updating"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Failed, not a valid filter list"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Failed, not a valid address"
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "Download failed. URL must start with $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "minutes ago"
+   },
+   "options_filterList_now": {
+      "message": "Just now"
+   },
+   "options_filterList_source": {
+      "message": "source"
+   },
+   "options_filterList_title": {
+      "message": "Filter lists"
+   },
+   "options_filterList_update": {
+      "message": "update all filter lists"
+   },
+   "options_filterList_updateNow": {
+      "message": "update now"
+   },
+   "options_filterList_website": {
+      "message": "website"
+   },
+   "options_filter_list_rule": {
+      "message": "Filter rule"
+   },
+   "options_filters_search_or_add": {
+      "message": "Search or add filter(s) (e.g. $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "About Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Contribute"
+   },
+   "options_general_description": {
+      "message": "Determine what Adblock Plus shows and hides on websites"
+   },
+   "options_generic_error": {
+      "message": "Uh oh! Something went wrong. Please try again."
+   },
+   "options_help_center": {
+      "message": "Looking for answers to your questions? \u003Ca0>Visit our Help Center (English only)\u003C/a0>"
+   },
+   "options_help_description": {
+      "message": "Find help or get in touch with us"
+   },
+   "options_language_change": {
+      "message": "change"
+   },
+   "options_language_empty": {
+      "message": "You don't have any language-specific filters."
+   },
+   "options_language_filter_list": {
+      "message": "Language Filter Lists"
+   },
+   "options_language_join": {
+      "message": "$lang1$, $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>TIP:\u003C/strong> Only select the languages you need. Selecting more will slow down the ad blocker and, therefore, your browsing speed."
+   },
+   "options_learn_more": {
+      "message": "Learn more"
+   },
+   "options_more_filters_description": {
+      "message": "These are additional filters you previously added to Adblock Plus."
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Note:\u003C/strong> You should only use third party filter lists from authors that you trust."
+   },
+   "options_new_label": {
+      "message": "New"
+   },
+   "options_page_document_title": {
+      "message": "Adblock Plus Options"
+   },
+   "options_page_title": {
+      "message": "Settings"
+   },
+   "options_privacy_header": {
+      "message": "Privacy & security"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Protect your personal data by removing all forms of tracking from the Internet including information collectors."
+   },
+   "options_protection_social_tooltip": {
+      "message": "The social media icons on the websites you visit allow social media networks to build a profile of you based on your browsing habits - even when you don't click on them. Hiding these icons can protect your profile."
+   },
+   "options_refresh": {
+      "message": "Refresh"
+   },
+   "options_report_bug": {
+      "message": "Found a bug? \u003Ca>Send us a bug report\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Want support from our community? \u003Ca>Go to the Forum\u003C/a>"
+   },
+   "options_short": {
+      "message": "Options"
+   },
+   "options_social_description": {
+      "message": "Have a question or a new idea? We're here to help."
+   },
+   "options_social_title": {
+      "message": "Get in touch"
+   },
+   "options_support_title": {
+      "message": "Support"
+   },
+   "options_tab_advanced": {
+      "message": "Advanced"
+   },
+   "options_tab_general": {
+      "message": "General"
+   },
+   "options_tab_help": {
+      "message": "Help"
+   },
+   "options_tracking_warning_1": {
+      "message": "We noticed you have both \u003Cstrong>$tracking$\u003C/strong> and \u003Cstrong>$acceptableAds$\u003C/strong> enabled.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_3": {
+      "message": "If you prefer extra privacy, select the \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong> checkbox below.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "OK, got it"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Close"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Stop showing notifications"
+   },
+   "problem_os_mac": {
+      "message": "Mac"
+   },
+   "problem_os_windows": {
+      "message": "Windows"
+   },
+   "problem_social_description": {
+      "message": "Experiencing an issue? Contact our support team"
+   },
+   "problem_social_email": {
+      "message": "Email"
+   },
+   "problem_social_facebook": {
+      "message": "Facebook"
+   },
+   "problem_social_title": {
+      "message": "Still looking for help?"
+   },
+   "problem_social_twitter": {
+      "message": "Twitter"
+   },
+   "problem_solution_action": {
+      "message": "Click here to uninstall and reinstall Adblock Plus"
+   },
+   "problem_solution_opera_step_1": {
+      "message": "Open this link to Opera Addons (it will open in a new tab)"
+   },
+   "problem_solution_opera_step_2": {
+      "message": "From the Opera toolbar, \u003Cem0>right-click\u003C/em0> / \u003Cem1>control-click\u003C/em1> the \u003Cstrong>Adblock Plus\u003C/strong> icon and select \u003Cstrong>Manage extension\u003C/strong>."
+   },
+   "problem_solution_opera_step_3": {
+      "message": "Click the \u003Cstrong>arrow\u003C/strong> next to the Adblock Plus icon."
+   },
+   "problem_solution_opera_step_4": {
+      "message": "Locate Adblock Plus and click the \u003Cstrong>X\u003C/strong> in the upper-right corner."
+   },
+   "problem_solution_opera_step_5": {
+      "message": "Click \u003Cstrong>Remove\u003C/strong>."
+   },
+   "problem_solution_opera_step_6": {
+      "message": "Refresh the Opera Addons page."
+   },
+   "problem_solution_opera_step_7": {
+      "message": "Click \u003Cstrong>Add to Opera\u003C/strong>."
+   },
+   "problem_solution_title": {
+      "message": "The solution:"
+   },
+   "problem_subtitle": {
+      "message": "Because of this, your ABP settings have been reset to default. To resolve the issue, you'll need to uninstall and reinstall Adblock Plus. Click the link below to do this."
+   },
+   "problem_subtitle_opera": {
+      "message": "Because of this, your ABP settings have been reset to default. To resolve the issue, you'll need to uninstall and reinstall Adblock Plus. Follow the steps below to do this."
+   },
+   "problem_title": {
+      "message": "A browser issue has caused your ABP settings to be reset."
+   },
+   "refresh_this_page": {
+      "message": "Refresh this page"
+   },
+   "refresh_to_take_effect": {
+      "message": "Click the button below for changes to take effect."
+   },
+   "sendReport": {
+      "message": "Report issue"
+   },
+   "share_on_facebook": {
+      "message": "Share on Facebook"
+   },
+   "share_on_twitter": {
+      "message": "Share on Twitter"
+   },
+   "share_on_twitter_message": {
+      "message": "I've blocked $number$ ads with Adblock Plus. Give it a try - it's FREE!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "social_media_share": {
+      "message": "Share numbers with friends"
+   },
+   "stats_header": {
+      "message": "Number of items blocked"
+   },
+   "stats_label_page": {
+      "message": "on this page"
+   },
+   "stats_label_total": {
+      "message": "in total"
+   },
+   "status_domain": {
+      "message": "This website:"
+   },
+   "status_header": {
+      "message": "Block ads on"
+   },
+   "status_page": {
+      "message": "This page:"
+   }
+}

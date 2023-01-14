@@ -1,0 +1,1134 @@
+{
+   "add": {
+      "message": "أضف"
+   },
+   "block_element": {
+      "message": "حجب العنصر"
+   },
+   "block_element_description": {
+      "message": "حجب عنصر محدد على موقع الويب هذا"
+   },
+   "browser_store_android": {
+      "message": "تطبيق Android على متجر Google Play"
+   },
+   "browser_store_ios": {
+      "message": "متوفر على iTunes App Store"
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "click_element_to_block_it": {
+      "message": "أنقر فوق عنصر في الصفحة لحظره."
+   },
+   "common_copyright": {
+      "message": "حقوق الطبع والنشر © $year$ جميع الحقوق محفوظة. Adblock Plus® هو علامة تجارية مسجلة لـ \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "اخفاء رسائل تحذير ادبلوك"
+   },
+   "common_feature_circumvention_title": {
+      "message": "قائمة فلاتر ضد التحايل ABP"
+   },
+   "common_feature_distractions_title": {
+      "message": "حجب المزيد من عوامل التشتيت"
+   },
+   "common_feature_malware_title": {
+      "message": "منع البرامج الضارة"
+   },
+   "common_feature_notifications_title": {
+      "message": "حجب الإشعارات المنبثقة"
+   },
+   "common_feature_privacy_title": {
+      "message": "حجب أنواع التعقب الإضافية"
+   },
+   "common_feature_social_title": {
+      "message": "حجب تعقب رموز مواقع التواصل الاجتماعي"
+   },
+   "common_notification_hide": {
+      "message": "أغلق التنبيه"
+   },
+   "composer_block": {
+      "message": "حجب"
+   },
+   "composer_block_reload": {
+      "message": "الحجب وإعادة تحميل الصفحة"
+   },
+   "composer_cancel": {
+      "message": "إلغاء"
+   },
+   "composer_elements": {
+      "message": "من العناصر تم تحديدها"
+   },
+   "composer_loading": {
+      "message": "جارٍ التحميل..."
+   },
+   "composer_preview": {
+      "message": "معاينة"
+   },
+   "composer_undo_preview": {
+      "message": "خروج من المعاينة"
+   },
+   "composer_unselect": {
+      "message": "إلغاء التحديد"
+   },
+   "connect_on_facebook": {
+      "message": "التواصل على فيسبوك"
+   },
+   "connect_on_twitter": {
+      "message": "التواصل على Twitter"
+   },
+   "continue": {
+      "message": "واصِل"
+   },
+   "copy_selected": {
+      "message": "نسخ المحدد"
+   },
+   "day1_blockelement_description": {
+      "message": "احجبها باستخدام ميزة عنصر الحجب المنمق في Adblock Plus."
+   },
+   "day1_blockelement_more": {
+      "message": "تعرف على كيفية حدوث ذلك"
+   },
+   "day1_blockelement_screenshot": {
+      "message": "مثال على رمز منبثق مع تمييز زر عنصر الحجب \"حجب العنصر\"."
+   },
+   "day1_blockelement_title": {
+      "message": "هل أرهقتك أقسام التعليقات؟"
+   },
+   "day1_community_contact": {
+      "message": "اتصل بنا!"
+   },
+   "day1_community_contact_subject": {
+      "message": "أتبحث عن الدعم!"
+   },
+   "day1_community_description_1": {
+      "message": "كمشروع مفتوح المصادر، نعتمد على المستخدمين وأنت منهم لمساعدتنا في تحسين تجربتكم في حجب الإعلانات."
+   },
+   "day1_community_description_2": {
+      "message": "ما المزايا التي تود رؤيتها؟ ما الذي يمكننا تحسينه؟ هل يتسبب Adblock Plus في أن تصدر أشياء غريبة من بعض المواقع الإلكترونية؟"
+   },
+   "day1_community_title": {
+      "message": "انضم إلى مجتمع Adblock Plus"
+   },
+   "day1_header_more": {
+      "message": "اعرف المزيد عن الإعلانات الضارة"
+   },
+   "day1_header_title": {
+      "message": "قام Adblock Plus \u003Cstrong>بحجب \u003Cem0>$ads$ إعلان\u003C/em0> في \u003Cem1>النصف ساعة الأخيرة\u003C/em1>,\u003C/strong> والتي ربما كانت يتضمن بعض منها محتوى ضار",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "description": {
+      "message": "حظر إعلانات YouTube™‎، والنوافذ المنبثقة، ومكافحة البرامج الضارة!"
+   },
+   "devtools_header_state_allowlisted": {
+      "message": "المسموح بها"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> r أعيد كتابته إلى \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "easy_create_filter": {
+      "message": "حجب العنصر"
+   },
+   "filter_action_failed": {
+      "message": "حدث خطأ ما. الرجاء المحاولة مرة أخرى."
+   },
+   "filter_elemhide_not_specific_enough": {
+      "message": "مُحدد CSS قصير جدًا. يُرجى استخدام مُحدد أطول أو تحديد مجال واحد على الأقل لعامل تصفية إخفاء العناصر هذا."
+   },
+   "filter_elemhideemulation_nodomain": {
+      "message": "لم يتم تحديد مجال نشط. يُرجى تحديد مجال واحد على الأقل لعامل تصفية إخفاء العناصر المُوسَّع هذا."
+   },
+   "filter_invalid_csp": {
+      "message": "سياسة أمان المحتوى غير صالحة (لا يتقيّد بناء الجملة بالمعيار)."
+   },
+   "filter_invalid_domain": {
+      "message": "مجال فارغ أو غير صالح. يجب أن تحتوي قائمة المجالات على مجال أو أكثر على أن يُفصل بين المجال والآخر بفاصلة (,)، مثل: abc.com,def.com,ghi.com‏."
+   },
+   "filter_invalid_option": {
+      "message": "خيار عامل تصفية غير صالح"
+   },
+   "filter_invalid_regexp": {
+      "message": "التعبير القياسي غير صالح (لا يتقيّد بناء الجملة بالمعيار)."
+   },
+   "filter_slow": {
+      "message": "عامل التصفية بطيء. يُرجى التحقق من طول النمط والتأكد من أنه لا يحتوي على تعبير عادي."
+   },
+   "filter_snippet_nodomain": {
+      "message": "لم يتم تحديد مجال نشط. يُرجى تحديد مجال واحد على الأقل لعامل تصفية القصاصات البرمجية هذا."
+   },
+   "filter_unknown_option": {
+      "message": "$option$ ليس خيار عامل تصفية صالحًا.",
+      "placeholders": {
+         "option": {
+            "content": "$1",
+            "example": "foo"
+         }
+      }
+   },
+   "filter_url_not_specific_enough": {
+      "message": "نمط عنوان URL قصير جدًا. يُرجى استخدام نمط أطول أو تحديد مجال واحد على الأقل لعامل التصفية هذا."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "فشل الأمر، بسبب فشل التحميل"
+   },
+   "firstRun_browser_description": {
+      "message": "من الفريق اللذي هو خلف Adblock Plus، مانع الإعلانات الأكثر شيوعًا لمتصفحات على سطح المكتب، Adblock Browser هو الآن متاح لأجهزة Android و iOS."
+   },
+   "firstRun_browser_store_android": {
+      "message": "تطبيق آندرويد على متجر جوجل"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "متوفر على متجر أبل آي تيونز"
+   },
+   "firstRun_browser_title": {
+      "message": "تطبيق Adblock Browser"
+   },
+   "firstRun_control_description": {
+      "message": "بشكل افتراضي، قد تشاهد بعض الإعلانات غير تطفلية التي تلتزم بـ \u003Ca0>معايير صارمة\u003C/a0>. هذه الإعلانات نسميها الإعلانات المقبولة. هل تفضل أن تحجب كل الإعلانات؟ \u003Ca1>إيقاف الإعلانات المقبولة\u003C/a1> في \u003Ca2>الإعدادات\u003C/a2>."
+   },
+   "firstRun_control_title": {
+      "message": "انت تتحكم"
+   },
+   "firstRun_donate": {
+      "message": "تبرّع"
+   },
+   "firstRun_fair_description": {
+      "message": "نحثك على استخدام Adblock Plus وخيار إضافة مواقع الويب إلى القائمة المسموح بها استخدامًا عادلاً. واعتمادًا على عوامل التصفية التي تستخدمها، فأنت تتفهم وتقبل أنه يُحتمل حدوث نتائج غير مقصودة (مثل حجب محتوى على أحد مواقع الويب). ويُرجى الرجوع إلى ⁦\u003Ca0>⁩شروط الاستخدام⁦\u003C/a0>⁩ للحصول على مزيدٍ من المعلومات عن استخدام Adblock Plus استخدامًا عادلاً."
+   },
+   "firstRun_fair_title": {
+      "message": "إستخدام عادل"
+   },
+   "firstRun_subtitle": {
+      "message": "لقد اتخذت للتو السيطرة على المتصفح الخاص بك."
+   },
+   "firstRun_title": {
+      "message": "تم التثبيت بنجاح!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "يواجه بعض المستخدمين مشكلة حيث قد فتح هذه الصفحة في كل مرة يتم فيها تشغيل المتصفح. يمكن حل هذه المشكلة عن طريق إلغاء تثبيت Adblock Plus ثم إعادة تثبيته:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "إذا كنت لا تزال بحاجة إلى المساعدة ، إتصل بنا على \u003Ca0>support@adblockplus.org\u003C/a0> أو قم بزيارة \u003Ca1>مركز المساعدة\u003C/a1>."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "إفتح علامة التبويب الخاصة بالإضافات في متصفحك."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "إبحث عن Adblock Plus وقم بإزالته."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "إعادة تثبيت Adblock Plus من \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "firstRun_warning_reinitialized": {
+      "message": "يبدو أن حدث مشكلة تسببت في إزالة جميع الفلاتر ولم نتمكن من إستعادة النسخة الإحتياطية. لذلك إضطررنا إلى إعادة تعيين الفلاتر الإفتراضية وإعدادات الإعلانات المقبولة. يرجى التحقق من قوائم الفلاتر وإعدادات الإعلانات المقبولة في \u003Ca>خيارات Adblock Plus\u003C/a>."
+   },
+   "footer_donate_button": {
+      "message": "التبرّع"
+   },
+   "footer_donate_description": {
+      "message": "هل تريد دعم ABP؟"
+   },
+   "footer_get_help_button": {
+      "message": "طلب مساعدة"
+   },
+   "footer_get_help_description": {
+      "message": "هل تواجه مشكلة في استخدام ABP؟"
+   },
+   "footer_mobile_description": {
+      "message": "هل تهتم بـ ABP للأجهزة المحمولة؟"
+   },
+   "footer_rate_button": {
+      "message": "تقييم ABP"
+   },
+   "footer_rate_description": {
+      "message": "هل يعجبك الامتداد؟"
+   },
+   "footer_social_description": {
+      "message": "ابقَ على اتصال معنا!"
+   },
+   "idle_header": {
+      "message": "لا يوجد شيء لحجبه في هذه الصفحة!"
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "تقرير بدون هوية"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "لن نكون قادرين على الرجوع إليك و لن نعطي للتقرير أهمية كبيرة."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "أغلق"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "أضف تعليق"
+   },
+   "issueReporter_comment_description": {
+      "message": "يسمح لك الحقل التالي بإدخال تعليق ليساعدنا في فهم المشكلة. هذه الخطوة إختيارية ولكننا نصح بها إن لم تكن المشكلة واضحة. تستطيع أيضا مراجعة بيانات التقرير قبل إرساله."
+   },
+   "issueReporter_comment_label": {
+      "message": "التعليق (إختياري):"
+   },
+   "issueReporter_config_label": {
+      "message": "أدرج معلومات عن تكوين متصفحي بالإضافة إلى قائمة بالامتدادات النشطة التي أستخدمها."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "تم حفظ تقريرك. ستستطيع الوصول إليه عن طريق العنوان التالي:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>ملاحظة:\u003C/strong>سيتم فتح علامة تبويب إضافية مؤقتًا بحيث لن تتأثر الصفحة التي تزورها بمُبلّغ المشاكل."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "تفاصيل"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "تمّ"
+   },
+   "issueReporter_email_description": {
+      "message": "نحن نشجعك لإدخال بريد إلكتروني صحيح لكي نتمكن من الاتصال بك بخصوص تقريرك إذا كانت هناك أسئلة. أيضا يسمح لنا بالتعرف على مساهمتك و إعطائها أولوية."
+   },
+   "issueReporter_email_label": {
+      "message": "البريد الإلكتروني:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "فشل إرسال التقرير بسبب الخطأ \"?1?\". الرجاء التأكد من صحة اتصالك بالإنترنت ثم أعاد المحاولة. إن استمرت المشكلة الرجاء طلب المساعدة على [link]منتديات Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "اختر هذا الخيار إن كان أحد الإعلانات ظاهرا رغم أن آدبلوك بلس مفعل"
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "آدبلوك بلس لا يقوم بحجب أحد الإعلانات"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "اختر هذا الخيار ان كان محتوى مهم ناقص من الصفحة أو كانت الصفحة تظهر بشكل خاطئ أو لا تعمل بشكل جيد. إن لم يكن باستطاعتك تحديد إن كان آدبلوك بلس هو سبب المشكلة جرب تعطيله مؤقتاً"
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "آدبلوك بلس يحجب أكثر من اللازم"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "إستخدم الأدوات لتظليل كل إعلان أو إخفاء معلومات حساسة على لقطة الشاشة. تظليل الإعلانات سيساعدنا في حل المشكلة بشكل أسرع."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "تظليل المشكلة"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "المشكلة التي قمت بالإبلاغ عنه معروفة مسبقاً. للمزيد من المعلومات:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "وَسْم المشكل"
+   },
+   "issueReporter_other_issues": {
+      "message": "لأي مشكلة أخرى، يُرجى التواصل معنا عبر البريد الإلكتروني ⁦\u003Ca0>⁩support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "مُبَلِغ المشاكل"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "سياسة الخصوصية"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "معالجة"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "لمساعدتنا على فهم المشكل بشكل أفضل، لقطة شاشة مطلوب عند تقديم تقرير المشكلة. حسب موقع الويب الذي تستخدمه حاليًا، قد تحتوي لقطة الشاشة على معلومات شخصية. إذا كنت غير مرتاح لإرسال لقطة شاشة، يرجى إرسال مشكلتك بالبريد الإلكتروني إلى \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "إخفاء"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "تظليل"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "حدد المشكلة"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "إرسال التقرير"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "إرسال التقرير"
+   },
+   "issueReporter_sending": {
+      "message": "الرجاء الإنتظار ريثما يقوم Adblock Plus بإرسال تقرير."
+   },
+   "issueReporter_showData_label": {
+      "message": "إظهار بيانات التقرير"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "هذه النافذة ستقودك خلال الخطوات المطلوبة لإرسال تبليغ بمشكلة في آدبلوك بلس. في البداية عليك إختيار نوع المشكلة التي تواجهها من هذه الصفحة:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "إختر نوع المشكلة"
+   },
+   "line": {
+      "message": "السطر $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "رقم نسخة تطوير آدبلوك بلس"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus - مانع إعلانات مجاني"
+   },
+   "notification_configure": {
+      "message": "ضبط إعدادات الإشعارات"
+   },
+   "notification_day1_message": {
+      "message": "ثمة كثير من الإعلانات المزعجة. \u003Ca>اكتشف الأشياء الأخرى التي يستطيع Adblock Plus حجبها.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "لقد حجبت إعلانات $ads$!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "فتح كل الروابط من هذا الإشعار"
+   },
+   "notification_problem_message": {
+      "message": "حدثت مشكلة أدّت إلى إعادة تعيين إعدادات ABP إلى الإعدادات الافتراضية \u003Ca>أصلح المشكلة وتعرّف على المزيد\u003C/a>"
+   },
+   "notification_recommendLanguage_message": {
+      "message": "يبدو أنك زرت موقع ويب في: $language$. فهل ترغب في حجب الإعلانات على جميع مواقع الويب بهذه اللغة؟ \u003Ca>نعم\u003C/a>",
+      "placeholders": {
+         "language": {
+            "content": "$1",
+            "example": "čeština"
+         }
+      }
+   },
+   "notification_updates_message": {
+      "message": "لا يلزم اتخاذ أي إجراء — تابع استعراض الويب دون أي إعلانات مزعجة! \u003Ca>تعرّف على الجديد\u003C/a>"
+   },
+   "notification_updates_title": {
+      "message": "Adblock Plus مُحدَّث"
+   },
+   "notification_without_buttons": {
+      "message": "اضغط على التنبيه لفتح كل الروابط الموجودة فيه."
+   },
+   "options_aa_opt_out_survey": {
+      "message": "لتساعدنا في تحسين Adblock Plus، هل تمانع في الإفصاح عن سبب إيقافك لتشغيل الإعلان المقبول الإعلان المقبول؟"
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "لا، شكرًا"
+   },
+   "options_aa_opt_out_survey_ok": {
+      "message": "الانتقال إلى الاستبيان"
+   },
+   "options_acceptableAds_ads_description_1": {
+      "message": "لا تتداخل الإعلانات المقبولة مع المحتوى الذي تستعرضه. \u003Ca>معرفة المزيد\u003C/a>"
+   },
+   "options_acceptableAds_ads_label": {
+      "message": "عرض الإعلانات المقبولة"
+   },
+   "options_acceptableAds_description": {
+      "message": "الإعلانات المقبولة هي إعلانات غير مزعجة تتوافق مع معيار صارم للإعلانات. وتساعد هذه الإعلانات في توفير عائد مادي لمنشئي المحتوى في حين لا تتداخل مع المحتوى الذي تستعرضه."
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>ملاحظة:\u003C/strong> لديك \u003Cstrong>ميزة عدم التعقب (DNT)\u003C/strong> معطّلة في إعدادات المتصفّح. لكي تعمل هذه الميزة بشكل صحيح، الرجاء تمكين \u003Cstrong>DNT\u003C/strong> في تفضيلات المتصفّح. \u003Ca>تعرف على كيفية تشغيل DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "الإعلان المقبول"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "السماح فقط بالإعلانات دون تتبع الجهات الخارجية"
+   },
+   "options_advanced_description": {
+      "message": "يمكنك تخصيص Adblock Plus حسب تفضيلاتك الشخصية أو يمكنك إضافة أو إزالة قوائم عوامل التصفية أو إنشاء قوائم عوامل تصفية خاصة بك أو الحفاظ عليها"
+   },
+   "options_allowlist_add": {
+      "message": "إضافة موقع ويب"
+   },
+   "options_allowlist_description": {
+      "message": "لقد أوقفت تشغيل حجب الإعلانات على مواقع الويب هذه، وبالتالي، ستشاهد إعلانات عليها."
+   },
+   "options_allowlist_empty_1": {
+      "message": "لا يوجد لديك أي مواقع ويب في القائمة المسموح بها الخاصة بك."
+   },
+   "options_allowlist_empty_2": {
+      "message": "مواقع الويب التي تثق بها وتريد السماح بالإعلانات عليها ستظهر هنا."
+   },
+   "options_allowlist_notification": {
+      "message": "تمت إضافة موقع الويب إلى القائمة المسموح بها."
+   },
+   "options_allowlist_placeholder_example": {
+      "message": "مثل: $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "www.example.com"
+         }
+      }
+   },
+   "options_beta_label": {
+      "message": "بيتا"
+   },
+   "options_builtin_filterList_add": {
+      "message": "إضافة قوائم عوامل تصفية مدمجة"
+   },
+   "options_close": {
+      "message": "غلق"
+   },
+   "options_control_remove_title": {
+      "message": "إزالة"
+   },
+   "options_customFilter_cancel": {
+      "message": "إلغاء"
+   },
+   "options_customFilters_description": {
+      "message": "اكتب عوامل التصفية المخصصة لديك لزيادة التحكم في المحتوى الذي يسمح Adblock Plus أو يحجبه (باللغة الإنجليزية)."
+   },
+   "options_customFilters_title": {
+      "message": "إنشاء وتحرير قوائم عوامل التصفية"
+   },
+   "options_customFilters_widget_title": {
+      "message": "قوائم عوامل التصفية"
+   },
+   "options_customize_blockElement": {
+      "message": "عرض \"حجب عنصر\" عند النقر فوق العنصر بالزر الأيمن"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "حجب العناصر المزعجة مؤقتًا في إحدى صفحات الويب، مثل الصور أو عروض شرائح الرسوم المتحركة."
+   },
+   "options_customize_elemhideDebug": {
+      "message": "تشغيل وضع عوامل تصفية إخفاء عناصر تصحيح الأخطاء"
+   },
+   "options_customize_elemhideDebug_tooltip": {
+      "message": "يمكنك تمييز العناصر المتأثرة بعوامل تصفية إخفاء العناصر على إحدى الصفحات."
+   },
+   "options_customize_header": {
+      "message": "تخصيص"
+   },
+   "options_customize_iconStats": {
+      "message": "عرض عدد الإعلانات التي تم حجبها على الأيقونة"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "عرض لوحة 'Adblock Plus' في أدوات المطور"
+   },
+   "options_customize_showDevToolsPanel_tooltip": {
+      "message": "يمكنك عرض العناصر المحظورة والمسموح بها من لوحة أدوات المطوّرين في المتصفح الخاص بك."
+   },
+   "options_customize_showNotifications": {
+      "message": "أظهر الأشعارات الهامة"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "السماح بالإشعارات من Adblock Plus (الإشعارات المتعلقة بمشاكل الأداء الهامة ستظهر دائمًا)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "حقوق النشر © $currentYear$ \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "نبذة عن Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "كافة الحقوق محفوظة. ®Adblock Plus هو علامة تجارية مسجلة لشركة eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "رقم الإصدار $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "رابط URL لقائمة عوامل تصفية"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "أدخل رابط URL صحيحًا"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "يجب أن يبدأ عنوان URL بـ $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "إضافة قائمة عوامل تصفية"
+   },
+   "options_dialog_invalid_message": {
+      "message": "لأسباب تتعلق بالأمان، يمكن إضافة قوائم عامل تصفية \u003Cstrong>HTTPS\u003C/strong> وعناوين URL \u003Cstrong>للبيانات\u003C/strong> فقط."
+   },
+   "options_dialog_invalid_title": {
+      "message": "حدث خطأ"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "لا يوجد لغات متوفرة."
+   },
+   "options_dialog_language_title": {
+      "message": "حدد لغة"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "نعم، أضف قائمة التصفية هذه"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "العنوان"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "عنوان URL"
+   },
+   "options_dialog_predefined_title": {
+      "message": "هل أنت بالتأكيد تريد إضافة قائمة عوامل التصفية هذه؟"
+   },
+   "options_donate_button": {
+      "message": "تبرّع"
+   },
+   "options_email": {
+      "message": "البريد الإلكتروني:"
+   },
+   "options_english": {
+      "message": "الإنجليزية"
+   },
+   "options_filterList_add": {
+      "message": "إضافة قائمة عامل تصفية من خلال URL"
+   },
+   "options_filterList_column_name": {
+      "message": "قوائم عوامل التصفية"
+   },
+   "options_filterList_column_status": {
+      "message": "الحالة"
+   },
+   "options_filterList_column_update": {
+      "message": "التحديث الأخير"
+   },
+   "options_filterList_description": {
+      "message": "يعمل كل إعداد من إعدادات Adblock Plus بسبب إحدى قوائم عوامل التصفية. وفيما يلي قوائم عوامل التصفية التي تتوافق مع كافة إعدادات Adblock Plus. كما يمكنك إضافة عوامل تصفية إضافية تم إنشاؤها والتي تحتفظ بها مجتمعنا الموثوق بها."
+   },
+   "options_filterList_empty": {
+      "message": "لم تضف أي عوامل تصفية إلى Adblock Plus. ستظهر هنا عوامل التصفية التي أضفتها."
+   },
+   "options_filterList_enableFilters": {
+      "message": "تمكينها"
+   },
+   "options_filterList_errorPopup_title": {
+      "message": "توجد مشكلة أو أكثر متعلقة بقائمة عوامل التصفية هذه:"
+   },
+   "options_filterList_filtersDisabled": {
+      "message": "تم تعطيل بعض عوامل التصفية في قائمة عوامل التصفية هذه."
+   },
+   "options_filterList_hours": {
+      "message": "منذ ساعات"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "فشل الأمر، عدم تطابق المجموع الإختباري"
+   },
+   "options_filterList_lastDownload_connectionError": {
+      "message": "فشل تنزيل قائمة عوامل التصفية."
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "تحديث"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "قائمة عامل تصفية غير صالحة"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "عنوان غير صالح. تحقق من عنوان URL."
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "فشل التنزيل. يجب أن يبدأ عنوان URL بـ $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "منذ دقائق"
+   },
+   "options_filterList_now": {
+      "message": "فقط الآن"
+   },
+   "options_filterList_source": {
+      "message": "المصدر"
+   },
+   "options_filterList_title": {
+      "message": "قوائم عوامل التصفية"
+   },
+   "options_filterList_update": {
+      "message": "تحديث كل قوائم عوامل التصفية"
+   },
+   "options_filterList_updateNow": {
+      "message": "حدّث الآن"
+   },
+   "options_filterList_website": {
+      "message": "موقع الويب"
+   },
+   "options_filter_list_rule": {
+      "message": "قاعدة عامل تصفية"
+   },
+   "options_filters_search_or_add": {
+      "message": "بحث / إضافة فلتر (مثال $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "نبذة عن Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "مساهمة"
+   },
+   "options_free_filters_header": {
+      "message": "ميزات مجانية"
+   },
+   "options_general_description": {
+      "message": "حدد المحتويات التي يظهرها Adblock Plus ويخفيها على مواقع الويب."
+   },
+   "options_generic_error": {
+      "message": "يا لها من ورطة! حدث خطأ ما. الرجاء المحاولة مجددًا."
+   },
+   "options_help_center": {
+      "message": "هل تبحث عن إجابات عن أسئلتك؟ \u003Ca0>تفضل بزيارة مركز التعليمات الخاص بنا (باللغة الإنجليزية)\u003C/a0>"
+   },
+   "options_help_description": {
+      "message": "ابحث عن التعليمات أو تواصل معنا"
+   },
+   "options_language_add": {
+      "message": "إضافة قائمة عوامل تصفية لغة"
+   },
+   "options_language_change": {
+      "message": "تغيير"
+   },
+   "options_language_description": {
+      "message": "أضف أو أزِل اللغات التي تريد من Adblock Plus أن يحجب الإعلانات المكتوبة بها. ⁦\u003Ca0>⁩معرفة المزيد⁦\u003C/a0>⁩"
+   },
+   "options_language_empty": {
+      "message": "ليس لديك أي عوامل تصفية محددة حسب اللغة."
+   },
+   "options_language_filter_list": {
+      "message": "قوائم عوامل تصفية اللغة"
+   },
+   "options_language_header": {
+      "message": "قوائم عوامل تصفية اللغات"
+   },
+   "options_language_join": {
+      "message": "$lang1$، $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_recommend": {
+      "message": "إعلامي بقوائم عوامل تصفية اللغات المتاحة"
+   },
+   "options_language_recommend_tooltip": {
+      "message": "يعتمد Adblock Plus على قوائم عوامل التصفية لحجب الإعلانات بلغات مختلفة."
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>نصيحة:\u003C/strong> لا تحدد سوى اللغات التي تحتاجها. سيؤدي تحديد المزيد من اللغات إلى إبطاء مانع الإعلانات ومن ثم إبطاء سرعة تصفحك."
+   },
+   "options_learn_more": {
+      "message": "تعرف على المزيد"
+   },
+   "options_more_filters_description": {
+      "message": "هذه عوامل تصفية إضافية أضفتها من قبل إلى Adblock Plus."
+   },
+   "options_more_filters_header": {
+      "message": "قوائم عوامل تصفية أكثر"
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>ملاحظة:\u003C/strong> ينبغي ألا تستخدم عوامل تصفية من أطراف خارجية إلا من مؤلفين تثق بهم."
+   },
+   "options_new_label": {
+      "message": "جديد"
+   },
+   "options_page_document_title": {
+      "message": "إعدادات"
+   },
+   "options_page_title": {
+      "message": "إعدادات"
+   },
+   "options_premium_manage": {
+      "message": "إدارة اشتراكي"
+   },
+   "options_premium_upgrade_description": {
+      "message": "يمكنك تخصيص تجربتك وتحسينها في حجب الإعلانات! ⁦\u003Ca0>⁩معرفة المزيد⁦\u003C/a0>⁩"
+   },
+   "options_privacy_header": {
+      "message": "الخصوصية والأمان"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "احرص على حماية خصوصيتك من الجهات المعلومة التي قد تتعقب نشاطك على الإنترنت عبر المواقع الإلكتروني التي تزورها."
+   },
+   "options_protection_social_tooltip": {
+      "message": "تتيح رموز مواقع التواصل الاجتماعي التي تظهر في مواقع الويب لك زيارة شبكات مواقع التواصل الاجتماعي لإنشاء بروفايل شخصي لك استنادًا إلى عاداتك في التصفح - حتى عندما لا تنقر فوق تلك الأزرار أو الرموز. يمكن حماية بروفايلك الشخصي من خلال إخفاء تلك الرموز."
+   },
+   "options_rating_button": {
+      "message": "قيّمنا"
+   },
+   "options_recommended_distractions_description": {
+      "message": "يمكنك حجب مقاطع الفيديو العائمة وعناصر النشرات الإخبارية المنبثقة وطلبات الاستطلاعات وإشعارات المواقع."
+   },
+   "options_recommended_notifications_description": {
+      "message": "يمكنك منع مواقع الويب من مطالبتك بالسماح بالإشعارات المنبثقة التي يمكنها تعقب نشاطك على الإنترنت."
+   },
+   "options_recommended_privacy_description": {
+      "message": "يمكنك حماية خصوصيتك من الكيانات المعروفة التي قد تتعقب نشاطك على الإنترنت عبر مواقع الويب التي تزورها."
+   },
+   "options_recommended_social_description": {
+      "message": "يمكنك منع شبكات التواصل الاجتماعي من إنشاء ملف تعريف لك بناء على عاداتك في التصفح."
+   },
+   "options_refresh": {
+      "message": "تحديث"
+   },
+   "options_report_bug": {
+      "message": "هل وجدت خطأ برمجيًا؟ \u003Ca>أرسل لنا تقريرًا بالخطأ البرمجي\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "هل تريد الدعم من مجتمعنا؟ \u003Ca>الانتقال إلى المنتدى\u003C/a>"
+   },
+   "options_short": {
+      "message": "الخيارات"
+   },
+   "options_social_description": {
+      "message": "هل لديك سؤال أو فكرة جديدة؟ نحن هنا لنساعدك."
+   },
+   "options_social_title": {
+      "message": "تواصل معنا"
+   },
+   "options_supportUs_description": {
+      "message": "الرجاء تخصيص بعض الوقت لتقييم Adblock Plus أو التبرع لصالح المشروع. شكرًا لك لما تقدّمه من دعم!"
+   },
+   "options_supportUs_title": {
+      "message": "هل تجد Adblock Plus ممتعًا؟"
+   },
+   "options_support_title": {
+      "message": "الدعم"
+   },
+   "options_tab_advanced": {
+      "message": "متقدمة"
+   },
+   "options_tab_allowlist": {
+      "message": "مواقع الويب المسموح بها"
+   },
+   "options_tab_general": {
+      "message": "عامة"
+   },
+   "options_tab_help": {
+      "message": "تعليمات"
+   },
+   "options_tracking_warning_1": {
+      "message": "لاحظنا أنه لديك على حد سواء \u003Cstrong>$tracking$\u003C/strong> و \u003Cstrong>$acceptableAds$\u003C/strong> مفعلة.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_2": {
+      "message": "نريدك أن تعرف أنه لكي تتمكن جهات الإعلان من عرض إعلانات أكثر صلة بك، فقد تحدث \u003Cstrong>بعض\u003C/strong> أشكال التتبع باستخدام إعلانات مقبولة."
+   },
+   "options_tracking_warning_3": {
+      "message": "إذا كنت تفضل خصوصية إضافية، حدد \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong> خانة الاختيار أدناه.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "حسناً، فهمت"
+   },
+   "options_upgrade_button": {
+      "message": "ترقية"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "أغلق"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "إيقاف عرض الإشعارات"
+   },
+   "premium_upgrade": {
+      "message": "ترقية"
+   },
+   "problem_note": {
+      "message": "يُرجى العلم بأنّك قد تحتاج إلى إعادة تكوين الإعدادات وعوامل التصفية المخصّصة ومواقع الويب المسموح بها بعد إعادة تثبيت Adblock Plus؛ وذلك حسب كيفية استخدامك له."
+   },
+   "problem_social_description": {
+      "message": "هل تواجه مشكلة؟ يُرجى الاتصال بفريق الدعم"
+   },
+   "problem_social_email": {
+      "message": "البريد الإلكتروني"
+   },
+   "problem_social_facebook": {
+      "message": "فيسبوك"
+   },
+   "problem_social_title": {
+      "message": "ما زلت تبحث عن مساعدة؟"
+   },
+   "problem_social_twitter": {
+      "message": "تويتر"
+   },
+   "problem_solution_action": {
+      "message": "انقر هنا لإلغاء تثبيت Adblock Plus وإعادة تثبيته"
+   },
+   "problem_solution_opera_step_1": {
+      "message": "افتح هذا الرابط Opera Addons (سُيفتح في علامة تبويب جديدة)"
+   },
+   "problem_solution_opera_step_2": {
+      "message": "من شريط أدوات Opera، \u003Cem0>انقر بزر الماوس الأيمن\u003C/em0> / \u003Cem1>نقرة التحكم\u003C/em1> فوق رمز \u003Cstrong>Adblock Plus\u003C/strong> واختر \u003Cstrong>إدارة الامتداد\u003C/strong>."
+   },
+   "problem_solution_opera_step_3": {
+      "message": "انقر فوق \u003Cstrong>السهم\u003C/strong> المجاور لرمز Adblock Plus."
+   },
+   "problem_solution_opera_step_4": {
+      "message": "حدّد Adblock Plus، وانقر فوق \u003Cstrong>X\u003C/strong> في الزاوية العلوية اليمنى."
+   },
+   "problem_solution_opera_step_5": {
+      "message": "انقر فوق \u003Cstrong>إزالة\u003C/strong>."
+   },
+   "problem_solution_opera_step_6": {
+      "message": "حدّث صفحة إ Opera Addons."
+   },
+   "problem_solution_opera_step_7": {
+      "message": "انقر فوق \u003Cstrong>إضافة إلى Opera\u003C/strong>."
+   },
+   "problem_solution_title": {
+      "message": "الحل:"
+   },
+   "problem_subtitle": {
+      "message": "لهذا السبب، تمت إعادة تعيين إعدادات ABP إلى الإعدادات الافتراضية. لحل هذه المشكلة، قم بإلغاء تثبيت Adblock Plus ثم أعد تثبيته. انقر على الرابط أدناه للقيام بذلك."
+   },
+   "problem_subtitle_opera": {
+      "message": "لهذا السبب، تمت إعادة تعيين إعدادات ABP إلى الإعدادات الافتراضية. لحل هذه المشكلة، قم بإلغاء تثبيت Adblock Plus ثم أعد تثبيته. اتبع الخطوات المذكورة أدناه للقيام بذلك."
+   },
+   "problem_title": {
+      "message": "توجد مشكلة في المتصفح أدّت إلى إعادة تعيين إعدادات ABP."
+   },
+   "refresh_this_page": {
+      "message": "تحديث هذه الصفحة"
+   },
+   "refresh_to_take_effect": {
+      "message": "انقر فوق الزر بالأسفل لتفعيل التغييرات."
+   },
+   "sendReport": {
+      "message": "الإبلاغ عن مشكلة في هذه الصفحة"
+   },
+   "share_on_facebook": {
+      "message": "المشاركة على فيسبوك"
+   },
+   "share_on_twitter": {
+      "message": "المشاركة على تويتر"
+   },
+   "share_on_twitter_message": {
+      "message": "لقد حجبت $number$ الإعلانات باستخدام Adblock Plus. جرّبه؛ إنّه مجاني!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "share_on_weibo": {
+      "message": "المشاركة على ويبو (Weibo)"
+   },
+   "share_on_weibo_message": {
+      "message": "لقد حجبت $number$ الإعلانات باستخدام Adblock Plus. جرّبه؛ إنّه مجاني!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "social_media_share": {
+      "message": "مشاركة الأرقام مع الأصدقاء"
+   },
+   "stats_header": {
+      "message": "عدد العناصر التي حظرها"
+   },
+   "stats_label_page": {
+      "message": "على هذه الصفحة"
+   },
+   "stats_label_total": {
+      "message": "الإجمالي"
+   },
+   "status_domain": {
+      "message": "موقع الويب هذا:"
+   },
+   "status_header": {
+      "message": "حظر الإعلانات على"
+   },
+   "status_page": {
+      "message": "هذه الصفحة:"
+   },
+   "too_many_filters": {
+      "message": "تم بلوغ الحد الأقصى لعدد عوامل التصفية. يرجى إزالة عوامل تصفية أخرى من نفس النوع قبل إضافة عوامل تصفية جديدة."
+   },
+   "unexpected_filter_list_header": {
+      "message": "رؤوس قوائم عوامل التصفية معتمدة فقط في قوائم عوامل التصفية القابلة للتنزيل."
+   },
+   "updates_adblockBrowser": {
+      "message": "إذا أحكمت سيطرتك على سطح المكتب، فستستطيع حجب الإعلانات وتحسين الخصوصية والأمان على الهاتف الجوال أيضًا. احصل على \u003Ca>تطبيق Adblock Browser أدناه\u003C/a>"
+   },
+   "updates_blockAds": {
+      "message": "أنشأ تحالف متمردي المصادر المفتوحة عوامل تصفية جديدة للحجب وهي تتيح لك تدمير الإعلانات المخفية على مواقع الويب مثل الفيس بوك حتى إذا عاود الإمبراطور الهجوم."
+   },
+   "updates_contribute_donate_action": {
+      "message": "مساهمة"
+   },
+   "updates_contribute_donate_subtitle": {
+      "message": "إنّ ما تُقدّمه لنا من دعم يمكّننا من مواصلة تحسين Adblock Plus."
+   },
+   "updates_contribute_donate_title": {
+      "message": "المساهمة في مشروع Adblock Plus"
+   },
+   "updates_contribute_rate_action": {
+      "message": "قيِّمه"
+   },
+   "updates_contribute_rate_subtitle": {
+      "message": "الرجاء تخصيص بعض الوقت لمساعدتنا في نشر رسالتنا عن طريق تقييم Adblock Plus. هذا التقييم سريع ومجاني!"
+   },
+   "updates_contribute_rate_title": {
+      "message": "قيِّمه!"
+   },
+   "updates_contribute_subtitle": {
+      "message": "ضع في اعتبارك دعم Adblock Plus بإحدى طريقتين:"
+   },
+   "updates_contribute_subtitle_generic": {
+      "message": "خُذ بعين الاعتبار دعم ABP:"
+   },
+   "updates_contribute_title": {
+      "message": "هل تجد Adblock Plus ممتعًا؟"
+   },
+   "updates_fixes_title": {
+      "message": "الإصلاحات"
+   },
+   "updates_heading": {
+      "message": "تم تحديث Adblock Plus!"
+   },
+   "updates_improvements_title": {
+      "message": "التحسينات"
+   },
+   "updates_link": {
+      "message": "قراءة المزيد"
+   },
+   "updates_optionsPageNews": {
+      "message": "صفحة الإعدادات الجديدة للعلامة التجارية - وتصميم جديد مع مزيدٍ من خيارات الخصوصية والأمان - ولذلك من السهل \u003Ca>تخصيص Adblock Plus حسبما تريده\u003C/a>."
+   },
+   "updates_phone": {
+      "message": "ولكن تمهل! ماذا عن هاتفك؟"
+   },
+   "updates_social_description": {
+      "message": "شارك آراءك بشأن تحديث Adblock Plus الأخير."
+   },
+   "updates_social_email": {
+      "message": "البريد الإلكتروني"
+   },
+   "updates_social_facebook": {
+      "message": "فيسبوك"
+   },
+   "updates_social_title": {
+      "message": "يهمنا معرفة رأيك!"
+   },
+   "updates_social_twitter": {
+      "message": "تويتر"
+   },
+   "updates_status": {
+      "message": "اكتمل التحديث"
+   },
+   "updates_subheading": {
+      "message": "ما الجديد؟"
+   },
+   "updates_subtitle": {
+      "message": "نعتقد أنّ التحديثات الأخيرة ستروق لك."
+   },
+   "updates_title": {
+      "message": "Adblock Plus مُحدَّث!"
+   },
+   "updates_update_f1_description": {
+      "message": "لقد قمنا بتحديث صياغتنا من أجل استخدام \u003Cstrong>القائمة المسموح بها\u003C/strong> من الآن فصاعدًا."
+   },
+   "updates_update_f1_title": {
+      "message": "تم تحديث صياغتنا"
+   },
+   "updates_update_f2_description": {
+      "message": "سيتم إخطارك الآن عند إيقاف تشغيل بعض عوامل التصفية في قوائم عوامل التصفية القابلة للتنزيل حتى تتمكن من إعادة تمكينها في الوقت الذي يناسبك."
+   },
+   "updates_update_f2_title": {
+      "message": "تمت إضافة خيار لإعادة تمكين عوامل التصفية في قوائم عوامل التصفية القابلة للتنزيل"
+   },
+   "updates_update_f3_description": {
+      "message": "لقد قمنا بتحديث الرابط الموجود خلف الزر \"قيِّمه\" في المتصفح Microsoft Edge بحيث يشير إلى متجر الوظائف الإضافية الصحيح."
+   },
+   "updates_update_f3_title": {
+      "message": "تم إصلاح الرابط الخطأ خلف الزر \"قيِّمه\""
+   },
+   "updates_update_i2_description": {
+      "message": "يمكنك الآن زيارة مواقع الويب بلغات أخرى مع استمرار حجب الإعلانات. فعندما تزور موقع ويب بلغة معينة، ستتمكن من اختيار ما إذا كنت تود حجب الإعلانات على جميع مواقع الويب بهذه اللغة. ويمكنك تشغيل/ إيقاف تشغيل هذا الخيار في \u003Cstrong>\"إعدادات\" > \"عامة\" > قوائم عوامل تصفية اللغة\u003C/strong>. ويتوفر هذا الخيار بالفعل لمستخدمينا في المتصفحات Chrome وFirefox وMicrosoft Edge، وسيتوفر قريبًا في المتصفح Opera أيضًا."
+   },
+   "updates_update_i2_image": {
+      "message": "يتم تمييز \"إعلامي بعوامل تصفية اللغات المتاحة\" في القسم \"اللغة\" الموجود في صفحة الخيارات."
+   },
+   "updates_update_i2_title": {
+      "message": "تمت إضافة خيار الإخطار إلى عوامل تصفية اللغات المتاحة"
+   },
+   "updates_update_i3_description": {
+      "message": "عندما تفتح قائمة Adblock Plus من أيقونة شريط الأدوات، سترى تذييلاً جديدًا أُعيد تصميمه. ومن هنا، يمكنك الوصول بسهولة إلى الروابط المثيرة للاهتمام وذلك للاستفادة أكثر من منتجك. ويمكنك الحصول على الدعم من \"مركز المساعدة\"، والتواصل معنا عبر وسائل التواصل الاجتماعي، وغير ذلك الكثير!"
+   },
+   "updates_update_i3_title": {
+      "message": "تمت إضافة روابط الوصول السريع في تذييل القائمة"
+   },
+   "updates_update_i4_description": {
+      "message": "إذا كنت تضيف عوامل تصفية مخصصة إلى ABP بشكلٍ متكرر، فستظهر لك الآن رسائل خطأ أكثر وضوحًا إذا كانت هناك أي مشكلات. ونأمل أن يساعد ذلك!"
+   },
+   "updates_update_i4_title": {
+      "message": "تم تحديث رسائل التحقق من صحة عوامل التصفية"
+   }
+}

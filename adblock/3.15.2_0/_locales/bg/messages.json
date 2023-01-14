@@ -1,0 +1,725 @@
+{
+   "add": {
+      "message": "Добави"
+   },
+   "block_element": {
+      "message": "Блокирай елемента"
+   },
+   "cancel": {
+      "message": "Отказ"
+   },
+   "click_element_to_block_it": {
+      "message": "Щракнете по елемент в страницата, който блокирате."
+   },
+   "common_copyright": {
+      "message": "Авторски права © $year$ г. Всички права запазени. Adblock Plus® е запазена търговска марка на \u003Ca0>eyeo GmbH\u003C/a0>.",
+      "placeholders": {
+         "year": {
+            "content": "$1",
+            "example": "1984"
+         }
+      }
+   },
+   "common_feature_anti_adblock_title": {
+      "message": "Скривай съобщенията за инсталиран блокер"
+   },
+   "common_feature_circumvention_title": {
+      "message": "Против-заобикалящ Филтър"
+   },
+   "common_feature_malware_title": {
+      "message": "Блокирай вредоносния софтуер"
+   },
+   "common_feature_privacy_title": {
+      "message": "Блокирай допълнителното проследяване"
+   },
+   "common_feature_social_title": {
+      "message": "Блокирай проследяването чрез социални бутони"
+   },
+   "common_notification_hide": {
+      "message": "Затваряне на известието"
+   },
+   "composer_block": {
+      "message": "Блокирай"
+   },
+   "composer_cancel": {
+      "message": "Отказ"
+   },
+   "composer_elements": {
+      "message": "Избран(и) елементи"
+   },
+   "composer_loading": {
+      "message": "Зареждане…"
+   },
+   "composer_preview": {
+      "message": "Предварителен преглед"
+   },
+   "composer_undo_preview": {
+      "message": "Изход от прегледа"
+   },
+   "composer_unselect": {
+      "message": "Не избрани"
+   },
+   "continue": {
+      "message": "Напред"
+   },
+   "copy_selected": {
+      "message": "Копирай избраното"
+   },
+   "day1_blockelement_more": {
+      "message": "Научете как"
+   },
+   "day1_community_contact": {
+      "message": "Свържете се с нас!"
+   },
+   "day1_community_title": {
+      "message": "Присъединете се към общността на Adblock Plus"
+   },
+   "delete": {
+      "message": "Изтрий"
+   },
+   "description": {
+      "message": "Изтеглете Adblock Plus — един от най-популярните блокери на реклами в света."
+   },
+   "devtools_action_block": {
+      "message": "Блокирай обекта"
+   },
+   "devtools_action_remove": {
+      "message": "Премахни правилото"
+   },
+   "devtools_action_unblock": {
+      "message": "Добави изключение"
+   },
+   "devtools_filter_origin_custom": {
+      "message": "собствени филтри"
+   },
+   "devtools_filter_origin_none": {
+      "message": "неименувани абонаменти"
+   },
+   "devtools_filter_subtitle": {
+      "message": "Произход"
+   },
+   "devtools_filter_title": {
+      "message": "Филтър"
+   },
+   "devtools_footer": {
+      "message": "\u003Ca0>Презаредете\u003C/a0> страницата за преглед на промените от филтъра в сила."
+   },
+   "devtools_header": {
+      "message": "Покажи \u003Cslot0>\u003C/slot0> като \u003Cslot1>\u003C/slot1>"
+   },
+   "devtools_header_state_all": {
+      "message": "всички"
+   },
+   "devtools_header_state_blocked": {
+      "message": "блокираните"
+   },
+   "devtools_header_type_any": {
+      "message": "кой да е"
+   },
+   "devtools_request_subtitle": {
+      "message": "Домейн на документа"
+   },
+   "devtools_request_title": {
+      "message": "Заявка"
+   },
+   "devtools_request_url": {
+      "message": "\u003Ca0>$original$\u003C/a0> пренаписан като \u003Ca1>$rewritten$\u003C/a1>",
+      "placeholders": {
+         "original": {
+            "content": "$1",
+            "example": "http://example.com/foo"
+         },
+         "rewritten": {
+            "content": "$2",
+            "example": "http://example.com/bar"
+         }
+      }
+   },
+   "devtools_type_title": {
+      "message": "Вид"
+   },
+   "easy_create_filter": {
+      "message": "Блокирай елемента"
+   },
+   "filter_action_failed": {
+      "message": "Нещо се обърка. Моля, опитайте отново."
+   },
+   "filters_subscription_lastDownload_connectionError": {
+      "message": "Провалено — провалено изтегляне!"
+   },
+   "firstRun_browser_description": {
+      "message": "От екипа зад Adblock Plus, който е най-популярния брокировач на реклами за браузъри на работния плот, Adblock Browser сега е на разположение на вашите устройства Android и iOS."
+   },
+   "firstRun_browser_store_android": {
+      "message": "Ап за Android от Google Play"
+   },
+   "firstRun_browser_store_ios": {
+      "message": "Налично в магазина за приложения iTunes"
+   },
+   "firstRun_browser_title": {
+      "message": "Ап Adblock Browser"
+   },
+   "firstRun_control_title": {
+      "message": "Под ваш контрол"
+   },
+   "firstRun_fair_title": {
+      "message": "Честна употреба"
+   },
+   "firstRun_subtitle": {
+      "message": "Току-що поставихте своя браузър под ваш контрол."
+   },
+   "firstRun_title": {
+      "message": "Успешно инсталиране!"
+   },
+   "firstRun_warning_dataCorrupted_intro": {
+      "message": "Определени потребители срещат недостатък, при който тази страница се отваря с всяко пускане на браузъра. Същият може да бъде разрешен чрез премахване и повторно инсталиране на Adblock Plus:"
+   },
+   "firstRun_warning_dataCorrupted_note": {
+      "message": "Ако все още имате нужда от помощ, свържете се с нас на \u003Ca0>support@adblockplus.org\u003C/a0> или посетете нашия \u003Ca1>Помощен център\u003C/a1>."
+   },
+   "firstRun_warning_dataCorrupted_step1": {
+      "message": "Отворете раздел Разширения на браузъра."
+   },
+   "firstRun_warning_dataCorrupted_step2": {
+      "message": "Намерете Adblock Plus и го премахнете."
+   },
+   "firstRun_warning_dataCorrupted_step3": {
+      "message": "Инсталирайте повторно Adblock Plus от \u003Ca>adblockplus.org\u003C/a>."
+   },
+   "issueReporter_anonymousSubmission_label": {
+      "message": "Предай анонимно"
+   },
+   "issueReporter_anonymousSubmission_warning": {
+      "message": "Иначе няма да сме в състояние да се свържем с вас и вероятно приоритетът на доклада ви ще бъде понижен."
+   },
+   "issueReporter_closeButton_label": {
+      "message": "Затвори"
+   },
+   "issueReporter_commentPage_heading": {
+      "message": "Оставяне на коментар"
+   },
+   "issueReporter_comment_description": {
+      "message": "Моля, оставете коментар в полето по-долу, който ще помогне да разберем по-добре недостатъка."
+   },
+   "issueReporter_comment_label": {
+      "message": "Коментар (по избор):"
+   },
+   "issueReporter_config_label": {
+      "message": "Включва данни за конфигурирането на браузъра ми, както и списък с дейните разширения, които употребявам."
+   },
+   "issueReporter_confirmationMessage": {
+      "message": "Докладът е записан. Ще го откриете на следния адрес:"
+   },
+   "issueReporter_data_gathering_tab": {
+      "message": "\u003Cstrong>Забележка:\u003C/strong> Временно ще бъде отворен допълнителен раздел, така че Докладчикът няма да засегне страницата, на която сте в момента."
+   },
+   "issueReporter_detailsButton_label": {
+      "message": "Подробности"
+   },
+   "issueReporter_doneButton_label": {
+      "message": "Готово"
+   },
+   "issueReporter_email_description": {
+      "message": "Добре е да въведете действителен адрес на е-поща. Това ще ни позволи да се свържем при отстраняване на сериозни недостатъци като зловреден код. Имайте предвид, че въвеждането му не е задължително, и че няма никъде да се споделя."
+   },
+   "issueReporter_email_label": {
+      "message": "Е-поща:"
+   },
+   "issueReporter_errorMessage": {
+      "message": "Опитът за изпращане на доклада се провали с код на грешка „?1?“. Моля, уверете се, че сте свързани с интернет и повторете. Ако това продължи, моля потърсете помощ във [link]форума на Adblock Plus[/link]."
+   },
+   "issueReporter_falseNegative_description": {
+      "message": "Adblock Plus е включен, но аз все още виждам реклама или реклами."
+   },
+   "issueReporter_falseNegative_label": {
+      "message": "Продължавам да виждам реклами"
+   },
+   "issueReporter_falsePositive_description": {
+      "message": "Страницата се показва неправилно не работи както трябва или липсват важни неща."
+   },
+   "issueReporter_falsePositive_label": {
+      "message": "Блокирането разрушава страницата"
+   },
+   "issueReporter_highlighter_description": {
+      "message": "Ползвайте инструментите за открояване или скриване на чувствителни данни върху екрана. Открояването на рекламите ще помогне по-бързо да отстраним недостатъка."
+   },
+   "issueReporter_highlighter_heading": {
+      "message": "Открояване на недостатък"
+   },
+   "issueReporter_knownIssueMessage": {
+      "message": "Докладваният недостатък вероятно е вече познат. За повече информация:"
+   },
+   "issueReporter_markIssueButton_label": {
+      "message": "Отбелязване"
+   },
+   "issueReporter_other_issues": {
+      "message": "За всякакви други проблем се свържете с нас на адрес \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_page_title": {
+      "message": "Докладчик на недостатък"
+   },
+   "issueReporter_privacyPolicy": {
+      "message": "Политика на поверителност"
+   },
+   "issueReporter_processing_screenshot": {
+      "message": "обработва се"
+   },
+   "issueReporter_screenreader_warning": {
+      "message": "За да ни помогнете да разберем по добре проблема ви моля да прикачите снимка на екрана и ако съдържа ваши лични данни моля изпратете я на мейлът \u003Ca0>support@adblockplus.org\u003C/a0>."
+   },
+   "issueReporter_screenshot_hide": {
+      "message": "Скрий"
+   },
+   "issueReporter_screenshot_highlight": {
+      "message": "Открои"
+   },
+   "issueReporter_selectIssueButton_label": {
+      "message": "Посочване"
+   },
+   "issueReporter_sendButton_label": {
+      "message": "Изпрати доклада"
+   },
+   "issueReporter_sendPage_heading": {
+      "message": "Изпращане на доклада"
+   },
+   "issueReporter_sending": {
+      "message": "Моля, изчакайте докато Adblock Plus изпрати доклада."
+   },
+   "issueReporter_showData_label": {
+      "message": "Преглед на данните преди изпращане"
+   },
+   "issueReporter_typeSelector_description": {
+      "message": "Моля, изберете недостатък:"
+   },
+   "issueReporter_typeSelector_heading": {
+      "message": "Какъв вид недостатък срещате?"
+   },
+   "line": {
+      "message": "Ред $number$: $message$",
+      "placeholders": {
+         "message": {
+            "content": "$2",
+            "example": "Some error on this line"
+         },
+         "number": {
+            "content": "$1",
+            "example": "42"
+         }
+      }
+   },
+   "name": {
+      "message": "Adblock Plus"
+   },
+   "name_devbuild": {
+      "message": "Развойна копилация на Adblock Plus"
+   },
+   "name_releasebuild": {
+      "message": "Adblock Plus — безплатен блокер на реклами"
+   },
+   "notification_configure": {
+      "message": "Конфигуриране на настройките на известяване"
+   },
+   "notification_day1_message": {
+      "message": "Това са много досадни реклами. \u003Ca>Намерете какво друго може да блокира Adblock Plus.\u003C/a>"
+   },
+   "notification_day1_title": {
+      "message": "Вече блокирахте $ads$ реклами!",
+      "placeholders": {
+         "ads": {
+            "content": "$1",
+            "example": "12,000"
+         }
+      }
+   },
+   "notification_open_all": {
+      "message": "Отваряй всички препратки от известието"
+   },
+   "notification_without_buttons": {
+      "message": "Щракнете по известие за отваряне на съдържащите се препратки."
+   },
+   "options_aa_opt_out_survey_no": {
+      "message": "Не, благодаря"
+   },
+   "options_acceptableAds_dnt_notification": {
+      "message": "\u003Cstrong>Забележка:\u003C/strong> \u003Cstrong>Искай неследене (DNT)\u003C/strong> е забранена във вашия браузър. За правилна работа на функцията, моля, разрешете \u003Cstrong>DNT\u003C/strong> в настройките на браузъра. \u003Ca>Как да разрешите DNT\u003C/a>."
+   },
+   "options_acceptableAds_header": {
+      "message": "Приемливи реклами"
+   },
+   "options_acceptableAds_privacy_label": {
+      "message": "Позволи само реклами без проследяване от трета страна"
+   },
+   "options_advanced_description": {
+      "message": "Нагласяване на Adblock Plus, добавяне или премахване на филтри, създаване и поддържане на собствени филтри."
+   },
+   "options_close": {
+      "message": "затвори"
+   },
+   "options_control_remove_title": {
+      "message": "премахни"
+   },
+   "options_customFilter_cancel": {
+      "message": "Отказ"
+   },
+   "options_customFilters_description": {
+      "message": "Създайте и поддържайте собствени филтри за последващ контрол над позволеното или блокирано съдържание от Adblock Plus. \u003Ca0>Повече за писането на филтри\u003C/a0>"
+   },
+   "options_customFilters_title": {
+      "message": "Собствени филтри"
+   },
+   "options_customFilters_widget_title": {
+      "message": "Собствен филтър"
+   },
+   "options_customize_blockElement": {
+      "message": "Показвай „Блокирай елемента“ в контекстното меню"
+   },
+   "options_customize_blockElement_tooltip": {
+      "message": "Временно блокиране на досадни елементи в страницата, т.е. картини или анимирани слайдове."
+   },
+   "options_customize_header": {
+      "message": "Нагласяване"
+   },
+   "options_customize_iconStats": {
+      "message": "Показвай броя блокирани реклами върху иконата"
+   },
+   "options_customize_showDevToolsPanel": {
+      "message": "Показвай панел „Adblock Plus“ към развойни инструменти"
+   },
+   "options_customize_showNotifications": {
+      "message": "Показвай полезни известия"
+   },
+   "options_customize_showNotifications_tooltip": {
+      "message": "Позволяване на известяване от Adblock Plus (това за критични проблеми в производителността ще се показва винаги)."
+   },
+   "options_dialog_about_copyright": {
+      "message": "Авторски права © \u003Ca0>eyeo GmbH\u003C/a0>, $currentYear$ г.",
+      "placeholders": {
+         "currentYear": {
+            "content": "$1",
+            "example": "2017"
+         }
+      }
+   },
+   "options_dialog_about_title": {
+      "message": "За Adblock Plus"
+   },
+   "options_dialog_about_trademark": {
+      "message": "Всички права запазени. Adblock Plus® е запазена търговска марка на eyeo GmbH."
+   },
+   "options_dialog_about_version": {
+      "message": "Версия $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.6.7"
+         }
+      }
+   },
+   "options_dialog_import_subscription_location": {
+      "message": "Адрес на филтъра"
+   },
+   "options_dialog_import_subscription_location_error": {
+      "message": "Въведете действителен адрес"
+   },
+   "options_dialog_import_subscription_location_error_protocol": {
+      "message": "URL адресът трябва да започва с $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_dialog_import_title": {
+      "message": "Добавяне на филтър"
+   },
+   "options_dialog_invalid_title": {
+      "message": "Възникна грешка"
+   },
+   "options_dialog_language_other_empty": {
+      "message": "Няма налични езици."
+   },
+   "options_dialog_language_title": {
+      "message": "Избор на език"
+   },
+   "options_dialog_predefined_confirm": {
+      "message": "Да, ползвай филтъра"
+   },
+   "options_dialog_predefined_subscription_title": {
+      "message": "Заглавие"
+   },
+   "options_dialog_predefined_subscription_url": {
+      "message": "URL адрес"
+   },
+   "options_dialog_predefined_title": {
+      "message": "Сигурен ли сте, че ще ползвате филтъра?"
+   },
+   "options_email": {
+      "message": "Е-поща:"
+   },
+   "options_english": {
+      "message": "английски"
+   },
+   "options_filterList_add": {
+      "message": "Добави нов филтър"
+   },
+   "options_filterList_column_name": {
+      "message": "Филтър"
+   },
+   "options_filterList_column_status": {
+      "message": "Състояние"
+   },
+   "options_filterList_column_update": {
+      "message": "Обновяване"
+   },
+   "options_filterList_description": {
+      "message": "Зад всяка настройка в Adblock Plus стои филтър. По-долу са филтрите, отговарящи за всяка от настройките на вашия Adblock Plus. Можете да добавите допълнителни филтри, създадени и поддържани от доверената ни общност."
+   },
+   "options_filterList_empty": {
+      "message": "Няма добавени филтри към Adblock Plus. Тези които добавите ще се покажат тук."
+   },
+   "options_filterList_hours": {
+      "message": "преди часа"
+   },
+   "options_filterList_lastDownload_checksumMismatch": {
+      "message": "Провалено — несъвпадаща контролна сума!"
+   },
+   "options_filterList_lastDownload_inProgress": {
+      "message": "обновяване"
+   },
+   "options_filterList_lastDownload_invalidData": {
+      "message": "Провалено — недействителен филтър!"
+   },
+   "options_filterList_lastDownload_invalidURL": {
+      "message": "Провалено — недействителен адрес!"
+   },
+   "options_filterList_lastDownload_invalidURLProtocol": {
+      "message": "Изтеглянето пропадна. URL адресът трябва да започва с $protocol$.",
+      "placeholders": {
+         "protocol": {
+            "content": "https://"
+         }
+      }
+   },
+   "options_filterList_minutes": {
+      "message": "преди минути"
+   },
+   "options_filterList_now": {
+      "message": "току-що"
+   },
+   "options_filterList_source": {
+      "message": "Източник"
+   },
+   "options_filterList_title": {
+      "message": "Филтри"
+   },
+   "options_filterList_update": {
+      "message": "обнови всички"
+   },
+   "options_filterList_updateNow": {
+      "message": "Обновяване сега"
+   },
+   "options_filterList_website": {
+      "message": "сайт"
+   },
+   "options_filter_list_rule": {
+      "message": "Правило за филтър"
+   },
+   "options_filters_search_or_add": {
+      "message": "Търсене или добавяне на филтри (например $filter$)",
+      "placeholders": {
+         "filter": {
+            "content": "/ads/track/*"
+         }
+      }
+   },
+   "options_footer_about": {
+      "message": "За Adblock Plus"
+   },
+   "options_footer_contribute": {
+      "message": "Съдействай"
+   },
+   "options_general_description": {
+      "message": "Определяне какво Adblock Plus показва и скрива в сайтовете"
+   },
+   "options_generic_error": {
+      "message": "Опа! Нещо се обърка. Опитайте пак."
+   },
+   "options_help_description": {
+      "message": "Намиране на помощ или свързване с нас"
+   },
+   "options_language_change": {
+      "message": "промени"
+   },
+   "options_language_empty": {
+      "message": "Нямате езикозависещи филтри."
+   },
+   "options_language_join": {
+      "message": "$lang1$, $lang2$",
+      "placeholders": {
+         "lang1": {
+            "content": "$1",
+            "example": "čeština"
+         },
+         "lang2": {
+            "content": "$2",
+            "example": "slovenčina"
+         }
+      }
+   },
+   "options_language_tip": {
+      "message": "\u003Cstrong>СЪВЕТ:\u003C/strong> Изберете само нужните езици. Изборът на повече забавя блокера на реклами, и с това — скоростта на сърфиране."
+   },
+   "options_learn_more": {
+      "message": "Повече"
+   },
+   "options_more_filters_description": {
+      "message": "Добавените от вас допълнителни филтри към Adblock Plus."
+   },
+   "options_more_filters_note": {
+      "message": "\u003Cstrong>Забележка:\u003C/strong> Ползвайте филтри от трета страна само от автори, на които доверявате."
+   },
+   "options_new_label": {
+      "message": "Нов"
+   },
+   "options_page_document_title": {
+      "message": "Настройки на Adblock Plus"
+   },
+   "options_page_title": {
+      "message": "Настройки"
+   },
+   "options_privacy_header": {
+      "message": "Поверителност и сигурност"
+   },
+   "options_protection_privacy_tooltip": {
+      "message": "Защита на личните данни от компании, за които е известно, че проследяват вашата активност в мрежата през посещаваните от вас сайтове."
+   },
+   "options_protection_social_tooltip": {
+      "message": "Социалните бутони позволяват на социалните мрежи да съставят, според посетените сайтове, профил на вашите навици на сърфиране, дори когато не ги натискате. Скриването им ви предпазва от това."
+   },
+   "options_refresh": {
+      "message": "Опресни"
+   },
+   "options_report_bug": {
+      "message": "Открихте грешка? \u003Ca>Изпратете ни доклад за грешка\u003C/a>"
+   },
+   "options_report_forum": {
+      "message": "Трябва ви поддръжка от общността? \u003Ca>Преминете към форума\u003C/a>"
+   },
+   "options_short": {
+      "message": "Настройки"
+   },
+   "options_social_description": {
+      "message": "Имате въпрос или предложение? Тук сме, за да ви помогнем."
+   },
+   "options_social_title": {
+      "message": "Връзка с нас"
+   },
+   "options_support_title": {
+      "message": "Поддръжка"
+   },
+   "options_tab_advanced": {
+      "message": "Разширени"
+   },
+   "options_tab_general": {
+      "message": "Общи"
+   },
+   "options_tab_help": {
+      "message": "Помощ"
+   },
+   "options_tracking_warning_1": {
+      "message": "При вас както \u003Cstrong>$tracking$\u003C/strong>, така и \u003Cstrong>$acceptableAds$\u003C/strong> са разрешени.",
+      "placeholders": {
+         "acceptableAds": {
+            "content": "$2",
+            "example": "Allow Acceptable Ads"
+         },
+         "tracking": {
+            "content": "$1",
+            "example": "Block additional tracking"
+         }
+      }
+   },
+   "options_tracking_warning_3": {
+      "message": "Ако предпочитате екстра неприкосновеност, поставете отметка пред \u003Cstrong>$acceptableAdsPrivacy$\u003C/strong> по-долу.",
+      "placeholders": {
+         "acceptableAdsPrivacy": {
+            "content": "$1",
+            "example": "Only allow ads without third-party tracking"
+         }
+      }
+   },
+   "options_tracking_warning_acknowledgment": {
+      "message": "ДА, ясно"
+   },
+   "overlay_notification_closing_button_hide": {
+      "message": "Затвори"
+   },
+   "overlay_notification_closing_button_optout": {
+      "message": "Спри показването на известия"
+   },
+   "problem_os_mac": {
+      "message": "Mac"
+   },
+   "problem_os_windows": {
+      "message": "Windows"
+   },
+   "problem_social_email": {
+      "message": "Е-поща"
+   },
+   "problem_social_facebook": {
+      "message": "Facebook"
+   },
+   "problem_social_title": {
+      "message": "Търсите ли още помощ?"
+   },
+   "problem_social_twitter": {
+      "message": "Twitter"
+   },
+   "problem_solution_title": {
+      "message": "Решението:"
+   },
+   "refresh_this_page": {
+      "message": "Опресняване на тази страница"
+   },
+   "refresh_to_take_effect": {
+      "message": "Натиснете \u003Cstrong>Опресни\u003C/strong> за влизане на промените в сила."
+   },
+   "sendReport": {
+      "message": "Докладвай недостатъка"
+   },
+   "share_on_facebook": {
+      "message": "Споделяне във Facebook"
+   },
+   "share_on_twitter": {
+      "message": "Споделяне в Twitter"
+   },
+   "share_on_twitter_message": {
+      "message": "Блокирах $number$ реклами с Adblock Plus. Опитайте и вие - безплатно е!",
+      "placeholders": {
+         "number": {
+            "content": "$1"
+         }
+      }
+   },
+   "social_media_share": {
+      "message": "Споделете цифри с приятели"
+   },
+   "stats_header": {
+      "message": "Брой блокирани"
+   },
+   "stats_label_page": {
+      "message": "— в страницата"
+   },
+   "stats_label_total": {
+      "message": "— общо"
+   },
+   "status_domain": {
+      "message": "Този уебсайт:"
+   },
+   "status_header": {
+      "message": "Блокирани реклами:"
+   },
+   "status_page": {
+      "message": "Тази страница:"
+   }
+}
