@@ -1,3 +1,5 @@
+# TODO: USE JS FUNCTION hozNextImage() to move pages, instead of using selenium to push buttons
+
 import base64
 import chromedriver_autoinstaller
 from selenium.webdriver.common.keys import Keys
@@ -67,14 +69,15 @@ page = 1
 
 next_btn = WaitTilAvaliable(driver, By.CSS_SELECTOR, next_button_path)
 
-sleep(1)
+sleep(5)
+
 
 last_url = driver.current_url
 
 retry_attempts = 0
 
 
-downloader.DownloadVolume(driver, next_btn, rating_panel_path, title)
+downloader.DownloadVolume(driver, next_btn, rating_panel_path, title, next_button_path)
 
 print("Presse enter to exit")
 

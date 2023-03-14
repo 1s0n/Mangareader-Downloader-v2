@@ -1,3 +1,13 @@
-# These were found to be the ad providers for mangareader.to using burpsuite. Might change
+# These were found to be the ad providers for mangareader.to using burpsuite. Will change
 0.0.0.0 adsystem.pocpoc.io
 0.0.0.0 whoursie.com
+0.0.0.0 nomathoo.net
+0.0.0.0 tags.bluekai.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 script.4dex.io
+0.0.0.0 z.moatads.com
+0.0.0.0 px.pocpoc.io
+0.0.0.0 nxlogugw.com
+0.0.0.0 dsp.vlitag.com
+0.0.0.0 poufaini.com
