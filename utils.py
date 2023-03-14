@@ -20,3 +20,16 @@ def WaitTilAvaliable(driver, by, value, expected_error=(InvalidSelectorException
             continue
     
     return element
+
+def ElementExists(driver, by, value, expected_error=(InvalidSelectorException, NoSuchElementException,)):
+    try:
+        driver.find_element(by=by, value=value)
+        return True
+    except expected_error:
+        return False
+
+def FilterPath(path):
+    illegal_chars = ["\\", "/", ":", "*", "?", "\"", "<", ">", "|"]
+    for char in illegal_chars:
+        path = path.replace(char, "")
+    return path
