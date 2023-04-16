@@ -27,7 +27,7 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
         if len(images) < 2:
             if retry_attempts > max_attempts:
                 next_btn.click()
-                if page == tot_pages:
+                if (page + 1) == tot_pages:
                     print("New volume!")
                     break;
                     
@@ -53,6 +53,8 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
         pix.save(f"temp/{foldername}/{page}.png")
         page += 1
         retry_attempts = 0
+        # driver.execute_script("hozNextImage();");
+
         try:
             next_btn.click()
         except selenium.common.exceptions.StaleElementReferenceException:
@@ -61,5 +63,6 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
                 next_btn.click()
             except selenium.common.exceptions.StaleElementReferenceException:
                 sleep(5)
-                next_btn = driver.find_element(By.CSS_SELECTOR, value=next_btn_path)
-                next_btn.click()
+                # next_btn = driver.find_element(By.CSS_SELECTOR, value=next_btn_path)
+                # next_btn.click()
+                driver.execute_script("hozNextImage();")

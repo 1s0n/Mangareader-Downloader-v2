@@ -49,6 +49,10 @@ low_quality_button_path = "#wrapper > div.mr-tools.mrt-top > div > div > div.flo
 rating_panel_path = "#vote-info > div"
 
 
+# WARNING: Qality can be low, medium, high. This is put straight into the cookies so it might break if any other value is put in idk im not bothered to test it 
+quality = "medium"
+
+
 horizon_button = WaitTilAvaliable(driver, By.CSS_SELECTOR, horizontal_path)
 horizon_button.click()
 

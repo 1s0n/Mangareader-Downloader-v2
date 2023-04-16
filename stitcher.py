@@ -18,7 +18,7 @@ for manga in mangas:
 
     print("Done! Beggining to append to pdf...")
 
-    for i in range(1, imagelen):
+    for i in range(1, imagelen + 1):
         print("Opening image " + str(i))
         images.append(Image.open(f"temp/{manga}/{i}.png"))
 
