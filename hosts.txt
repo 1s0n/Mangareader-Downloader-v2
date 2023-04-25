@@ -1,4 +1,5 @@
 # These were found to be the ad providers for mangareader.to using burpsuite. Will change
+# NOTE: THIS IS USELESS NOW
 0.0.0.0 adsystem.pocpoc.io
 0.0.0.0 whoursie.com
 0.0.0.0 nomathoo.net

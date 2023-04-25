@@ -4,6 +4,9 @@ import time
 
 mangas = os.listdir("temp")
 
+if not os.path.exists("downloads"):
+    os.mkdir("downloads")
+
 for manga in mangas:
 
     images = []
@@ -29,3 +32,6 @@ for manga in mangas:
     images[0].save(
         pdf_path, "PDF" ,resolution=100.0, save_all=True, append_images=images[1:]
     )
+
+    os.rmdir(f"temp/{manga}")
+    

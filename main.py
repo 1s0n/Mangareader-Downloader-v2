@@ -16,12 +16,14 @@ import os
 
 import sys
 
+if not os.path.exists("temp"):
+    os.mkdir("temp")
+
 if len(sys.argv) > 1:
     print(sys.argv[1])
     url = sys.argv[1]
 else:
     url = input("URL: ")
-
 
 
 # WARNING: Qality can be low, medium, high. This is put straight into the cookies so it might break if any other value is put in idk im not bothered to test it 
