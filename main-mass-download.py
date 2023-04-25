@@ -96,7 +96,7 @@ sleep(5)
 last_url = driver.current_url
 
 retry_attempts = 0
-
+ 
 
 downloader.DownloadVolume(driver, next_btn, rating_panel_path, title, next_button_path)
 

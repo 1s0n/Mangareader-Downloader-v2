@@ -5,6 +5,8 @@ from selenium.webdriver.common.by import By
 from time import sleep
 import selenium
 
+valiad_check_chars = [b'`\x82', b'\xff\xd9', b"\x00\x00"]
+
 def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_path):
 
     page = 1
@@ -26,10 +28,8 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
 
         if len(images) < 2:
             if retry_attempts > max_attempts:
-                next_btn.click()
-                if (page + 1) == tot_pages:
-                    print("New volume!")
-                    break;
+                print("New volume!")
+                break;
                     
             print(f"No images found, retrying after 0.5 seconds. Retry attempt: {retry_attempts}")
             sleep(0.5)
@@ -42,7 +42,7 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
         print("Pix.save() ", end="")
         print(type(image))
         check_chars = image["image"][-2:]
-        if check_chars == b'`\x82' or check_chars == b'\xff\xd9':
+        if check_chars in valiad_check_chars:
             pass
         else:
             print('Not complete image')
@@ -55,6 +55,9 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
         retry_attempts = 0
         # driver.execute_script("hozNextImage();");
 
+        driver.execute_script("hozNextImage();");
+
+        """
         try:
             next_btn.click()
         except selenium.common.exceptions.StaleElementReferenceException:
@@ -66,3 +69,4 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
                 # next_btn = driver.find_element(By.CSS_SELECTOR, value=next_btn_path)
                 # next_btn.click()
                 driver.execute_script("hozNextImage();")
+        """
