@@ -20,4 +20,4 @@ This allows easier automation, which I will hopefully add later.
 Now that the manga is downloaded (you can check in the "temp" folder), run stitcher.py and wait for it to generate the pdfs from the downloaded manga, which will be in the downloads folder. 
 
 
-## NOTE: This code is pretty buggy due to the ads, even though it doesn't click on the page. Please open an issue if the program crashes without downloading the entire volume/chapter.
+## NOTE: This code might be buggy due to the ads, even though it doesn't click on the page. Please open an issue if the program crashes without downloading the entire volume/chapter.
