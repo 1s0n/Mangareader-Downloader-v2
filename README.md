@@ -19,7 +19,8 @@ This allows easier automation, which I will hopefully add later.
 Now that the manga is downloaded (you can check in the "temp" folder), run stitcher.py and wait for it to generate the pdfs from the downloaded manga, which will be in the downloads folder. 
 
 
-## NOTE: There is a problem where the program only downloads a part of the manga, 
-## this is due to the way I detect the end of a manga, which is to search for the image in each page, and if the image isn't there after 30 retries, it gives up.
-## Directly reading the number from the webpage wont work either because the read might get intercepted by ads, which breaks everything, and an adblock is a pain to try to implement in selenium.
-## I will try to come up with a fix.
+## NOTE: 
+### There is a problem where the program only downloads a part of the manga, 
+### this is due to the way I detect the end of a manga, which is to search for the image in each page, and if the image isn't there after 30 retries, it gives up.
+### Directly reading the number from the webpage wont work either because the read might get intercepted by ads, which breaks everything, and an adblock is a pain to try to implement in selenium.
+### I will try to come up with a fix.
