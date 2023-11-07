@@ -1,6 +1,7 @@
 # Mangareader-Downloader-v2
 
-#### Make a batch downloader
+#### ~~Make a batch downloader~~
+#### Make gui
 This is a updated and improved version of [my old mangareader download](https://github.com/1s0n/Mangareader.to-downloader)
 I am hoping to add gui to this soon
 
@@ -14,13 +15,21 @@ python3 main.py https://mangareader.to/read/kaguyasama-love-is-war-13/en/volume-
 ```
 This allows easier automation, which I will hopefully add later.
 
+## Batch downloader
+To use the batch downloader, run batch.py, and enter the first volume/chapter of the manga you want to download
+eg:
+```
+ENTER URL: https://mangareader.to/read/kaguyasama-love-is-war-13/en/volume-1
+```
+And enter the final volume you want to download up to (and including):
+```
+ENTER URL: https://mangareader.to/read/kaguyasama-love-is-war-13/en/volume-1
+FINAL VOLUME: 26
+```
+
 
 ### Stitching manga into pdf
 Now that the manga is downloaded (you can check in the "temp" folder), run stitcher.py and wait for it to generate the pdfs from the downloaded manga, which will be in the downloads folder. 
 
-
 ## NOTE: 
-### There is a problem where the program only downloads a part of the manga, 
-### this is due to the way I detect the end of a manga, which is to search for the image in each page, and if the image isn't there after 30 retries, it gives up.
-### Directly reading the number from the webpage wont work either because the read might get intercepted by ads, which breaks everything, and an adblock is a pain to try to implement in selenium.
-### I will try to come up with a fix.
+### The get_element to get the number of pages doesn't seem to be intercepted by ads anymore, please open an issue if this causes problems
