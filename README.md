@@ -13,7 +13,6 @@ You can also pass it on as a argument. eg:
 ```bash
 python3 main.py https://mangareader.to/read/kaguyasama-love-is-war-13/en/volume-1
 ```
-This allows easier automation, which I will hopefully add later.
 
 ## Batch downloader
 To use the batch downloader, run batch.py, and enter the first volume/chapter of the manga you want to download
