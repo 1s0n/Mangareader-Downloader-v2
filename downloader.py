@@ -15,10 +15,9 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
     retry_attempts = 0
     max_attempts = 30
 
-    tot_pages_selector = "#divslide > div.navi-buttons.hoz-controls.hoz-controls-rtl > div.nabu-page > span > span.hoz-total-image"
-
-    tot_pages = driver.find_element(by=By.CSS_SELECTOR, value=tot_pages_selector)
-
+    tot_pages = driver.find_element(By.CSS_SELECTOR, "#divslide > div.navi-buttons.hoz-controls.hoz-controls-ltr > div.nabu-page > span > span.hoz-total-image").text
+    print(f"TOTAL PAGES: {tot_pages}")
+        
     while True:
         print(f"On page {page}")
         pdfdata = driver.print_page()
@@ -27,13 +26,11 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
         images = doc.get_page_images(0)
 
         if len(images) < 2:
-            if retry_attempts > max_attempts:
+            if page == int(tot_pages):
                 print("New volume!")
                 break;
-                    
-            print(f"No images found, retrying after 0.5 seconds. Retry attempt: {retry_attempts}")
-            sleep(0.5)
-            retry_attempts += 1
+            print("Retrying...")
+            sleep(1)
             continue
 
         img = list(images)[1]
@@ -49,6 +46,7 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
             print(check_chars)
             sleep(0.5)
             continue
+
         pix = fitz.Pixmap(doc, xref)
         pix.save(f"temp/{foldername}/{page}.png")
         page += 1

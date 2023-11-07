@@ -8,7 +8,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from utils import WaitTilAvaliable, FilterPath
 import downloader
-chromedriver_autoinstaller.install()
+
+chromepath = chromedriver_autoinstaller.install()
 
 from time import sleep
 import fitz
@@ -19,6 +20,7 @@ import sys
 if not os.path.exists("temp"):
     os.mkdir("temp")
 
+
 if len(sys.argv) > 1:
     print(sys.argv[1])
     url = sys.argv[1]
@@ -27,7 +29,7 @@ else:
 
 
 # WARNING: Qality can be low, medium, high. This is put straight into the cookies so it might break if any other value is put in idk im not bothered to test it 
-quality = "medium"
+quality = "high"
 
 # DONT CHANGE THIS!
 mode = "horizontal"
@@ -42,6 +44,7 @@ cookie = cookie.replace("QUALITY_SETTING", quality)
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
+
 driver = webdriver.Chrome(options=chrome_options)
 driver.get(url)
 
@@ -59,7 +62,7 @@ except FileExistsError:
     pass
 
 # input()
-
+ 
 horizontal_path = "#first-read > div.read-tips > div > div.rtl-rows > a:nth-child(2)"
 next_button_path = "#divslide > div.photo-navigation.hoz-controls.hoz-controls-rtl > div.photo-button.photo-button-prev.hoz-next-hide"
 settings_button_path = "#header > div > div.auto-div > div.float-right.hr-right > div.hr-setting.mr-2 > a"
