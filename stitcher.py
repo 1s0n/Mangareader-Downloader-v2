@@ -9,6 +9,10 @@ if not os.path.exists("downloads"):
 
 for manga in mangas:
 
+    if not os.path.isdir(f"temp/{manga}"):
+        print(f"Skipping {manga} since its not a directory")
+        continue
+    
     images = []
 
     print("processing manga: " + manga)
@@ -33,3 +37,5 @@ for manga in mangas:
         pdf_path, "PDF" ,resolution=100.0, save_all=True, append_images=images[1:]
     )
 
+    os.rmdir(f"temp/{manga}")
+    
