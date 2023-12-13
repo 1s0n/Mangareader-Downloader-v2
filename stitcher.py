@@ -1,6 +1,7 @@
 import os
 from PIL import Image
 import time
+import shutil
 
 mangas = os.listdir("temp")
 
@@ -37,5 +38,5 @@ for manga in mangas:
         pdf_path, "PDF" ,resolution=100.0, save_all=True, append_images=images[1:]
     )
 
-    os.rmdir(f"temp/{manga}")
+    shutil.rmtree(f"temp/{manga}")
     
