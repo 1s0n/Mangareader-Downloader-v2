@@ -33,7 +33,7 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
             sleep(1)
             continue
 
-        img = list(images)[1]
+        img = list(images)[0]
         xref = img[0]
         image = doc.extract_image(xref)
         print("Pix.save() ", end="")
