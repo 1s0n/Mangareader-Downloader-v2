@@ -6,7 +6,10 @@ This is a updated and improved version of [my old mangareader download](https://
 I am hoping to add gui to this soon
 
 ## How to run
-To use this, ensure you have chromedriver_autoinstaller, selenium and PyMuPDF installed using pip
+To use this, ensure you have chromedriver_autoinstaller, selenium and PyMuPDF installed using pip, install them with command
+```bash
+pip3 install -r requirements.txt
+```
 Run ```main.py```, and enter the __link to the first page__ of the manga. eg. ```https://mangareader.to/read/kaguyasama-love-is-war-13/en/volume-1```
 
 You can also pass it on as a argument. eg:
