@@ -5,6 +5,8 @@
 This is a updated and improved version of [my old mangareader download](https://github.com/1s0n/Mangareader.to-downloader)
 I am hoping to add gui to this soon
 
+#### Please create an issue for feature requests
+
 ## How to run
 To use this, ensure you have chromedriver_autoinstaller, selenium and PyMuPDF installed using pip, install them with command
 ```bash
