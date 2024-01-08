@@ -1,6 +1,12 @@
 url = input("ENTER URL: ")
-startVol = int(url.split("volume-")[1])
-url = url.split("volume-")[0] + "volume-"
+a = url.split("volume-")
+if len(a) == 1:
+    a = url.split("chapter-")
+    url = url.split("chapter-")[0] + "chapter-"
+else:
+    url = url.split("volume-")[0] + "volume-"
+
+startVol = int(a[1])
 print(url + str(startVol))
 
 from os import system
