@@ -8,7 +8,7 @@ This is a updated and improved version of [my old mangareader download](https://
 I am hoping to add gui to this soon
 #### I will compile binaries for MacOS soon, and I do not access to a windows computer right now, so I will compile for windows and linux in the future when I get back
 #### Please create an issue for feature requests
-## GUI
+## How to run with GUI
 TO run the gui, just make sure you have python installed and added to PATH, and run 
 ```
 python3 gui.py
