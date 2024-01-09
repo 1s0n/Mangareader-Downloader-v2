@@ -9,6 +9,7 @@ I am hoping to add gui to this soon
 #### I will compile binaries for MacOS soon, and I do not access to a windows computer right now, so I will compile for windows and linux in the future when I get back
 #### Please create an issue for feature requests
 ## How to run with GUI
+### NOTE: The gui has pretty bad performance, so everything will take a while to load.
 TO run the gui, just make sure you have python installed and added to PATH, and run 
 ```
 python3 gui.py
