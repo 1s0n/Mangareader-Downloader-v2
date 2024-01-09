@@ -1,6 +1,7 @@
 # Mangareader-Downloader-v2
 
 #### ~~Make a batch downloader~~
+#### Make the batch downloader less sketchy
 #### Better support for chapters
 #### Make gui
 This is a updated and improved version of [my old mangareader download](https://github.com/1s0n/Mangareader.to-downloader)
