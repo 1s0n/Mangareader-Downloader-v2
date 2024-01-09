@@ -17,9 +17,10 @@ import os
 
 import sys
 
+if not os.path.exists("temp"):
+    os.mkdir("temp")
 
-
-def download_volume(url, update_function=None):
+def download_volume(url):
 
     # WARNING: Qality can be low, medium, high. This is put straight into the cookies so it might break if any other value is put in idk im not bothered to test it 
     quality = "high"
@@ -96,7 +97,7 @@ def download_volume(url, update_function=None):
     retry_attempts = 0
 
 
-    downloader.DownloadVolume(driver, next_btn, rating_panel_path, title, next_button_path, update_function)
+    downloader.DownloadVolume(driver, next_btn, rating_panel_path, title, next_button_path)
 
     print("Presse enter to exit")
 
@@ -104,16 +105,24 @@ def download_volume(url, update_function=None):
 
     driver.quit()
 
+url = input("ENTER URL: ")
+a = url.split("volume-")
+if len(a) == 1:
+    a = url.split("chapter-")
+    url = url.split("chapter-")[0] + "chapter-"
+else:
+    url = url.split("volume-")[0] + "volume-"
 
-if __name__ == "__main__":
-    if not os.path.exists("temp"):
-        os.mkdir("temp")
+startVol = int(a[1])
+print(url + str(startVol))
 
+from os import system
 
-    if len(sys.argv) > 1:
-        print(sys.argv[1])
-        url = sys.argv[1]
-    else:
-        url = input("URL: ")
+finalVol = int(input("FINAL VOLUME: "))
 
-    download_volume(url)
+import threading
+
+for i in range(startVol, finalVol + 1):
+    print(url + str(i))
+    t = threading.Thread(target=download_volume, args=(url + str(i),))
+    t.start()

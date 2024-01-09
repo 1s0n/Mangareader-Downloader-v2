@@ -7,7 +7,7 @@ import selenium
 
 valiad_check_chars = [b'`\x82', b'\xff\xd9', b"\x00\x00", b"ds"]
 
-def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_path):
+def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_path, update_function=None):
 
     page = 1
 
@@ -52,7 +52,7 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
         page += 1
         retry_attempts = 0
         # driver.execute_script("hozNextImage();");
-
+        update_function((page/tot_pages)*100)
         driver.execute_script("hozNextImage();");
 
         """
