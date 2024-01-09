@@ -18,8 +18,6 @@ for manga in mangas:
 
     print("processing manga: " + manga)
 
-    time.sleep(1)
-
     imagefiles = os.listdir(f"temp/{manga}")
 
     imagelen = len(imagefiles)

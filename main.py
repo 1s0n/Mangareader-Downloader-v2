@@ -98,11 +98,13 @@ def download_volume(url, update_function=None):
 
     downloader.DownloadVolume(driver, next_btn, rating_panel_path, title, next_button_path, update_function)
 
-    print("Presse enter to exit")
-
     # input()
 
+    if update_function:
+        update_function(0, glob=True)
+
     driver.quit()
+    return title
 
 
 if __name__ == "__main__":

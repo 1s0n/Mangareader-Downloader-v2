@@ -52,7 +52,7 @@ def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_pat
         page += 1
         retry_attempts = 0
         # driver.execute_script("hozNextImage();");
-        update_function((page/tot_pages)*100)
+        update_function(page/float(tot_pages)*100)
         driver.execute_script("hozNextImage();");
 
         """
