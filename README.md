@@ -3,13 +3,24 @@
 #### ~~Make a batch downloader~~
 #### ~~Make the batch downloader less sketchy~~
 #### Better support for chapters
-#### Make gui
+#### Make better gui
 This is a updated and improved version of [my old mangareader download](https://github.com/1s0n/Mangareader.to-downloader)
 I am hoping to add gui to this soon
 #### I will compile binaries for MacOS soon, and I do not access to a windows computer right now, so I will compile for windows and linux in the future when I get back
 #### Please create an issue for feature requests
+## GUI
+TO run the gui, just make sure you have python installed and added to PATH, and run 
+```
+python3 gui.py
+```
+if that doesnt work, run
+```
+python gui.py
+```
+for the url, please enter the front page of the manga, eg. https://mangareader.to/the-dangers-in-my-heart-1859, or the program will just quit.
 
-## How to run
+
+## How to run via terminal
 To use this, ensure you have chromedriver_autoinstaller, selenium and PyMuPDF installed using pip, install them with command
 ```bash
 pip3 install -r requirements.txt
