@@ -6,4 +6,7 @@ downloads/*
 .vscode
 .exe
 .DS_Store
-
+dist/
+build/
+*.spec
+*.pdf
