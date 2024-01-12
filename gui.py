@@ -16,7 +16,11 @@ vols = 0
 volumepb = None
 pb = None
 
+if not os.path.exists("temp"):
+    os.mkdir("temp")
 
+if not os.path.exists("downloads"):
+    os.mkdir("downloads")
 
 def download_thread(url, startvol, endvol, updateFunction):
     for i in range(startvol, endvol + 1):
@@ -29,7 +33,7 @@ def download_thread(url, startvol, endvol, updateFunction):
         print("processing manga: " + manga)
 
         imagefiles = os.listdir(f"temp/{manga}")
-
+    
         imagelen = len(imagefiles)
 
         print("Done! Beggining to append to pdf...")
@@ -46,7 +50,8 @@ def download_thread(url, startvol, endvol, updateFunction):
             pdf_path, "PDF" ,resolution=100.0, save_all=True, append_images=images[1:]
         )
 
-        shutil.rmtree(f"temp/{manga}")
+        # shutil.rmtree(f"temp/{manga}") There were some downloading issue, so I decided to keep the images for now
+
     updateFunction(100)
 
 def download(start, end, controller, ):

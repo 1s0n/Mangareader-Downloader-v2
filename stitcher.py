@@ -26,7 +26,11 @@ for manga in mangas:
 
     for i in range(1, imagelen + 1):
         print("Opening image " + str(i))
-        images.append(Image.open(f"temp/{manga}/{i}.png"))
+        try:
+            images.append(Image.open(f"temp/{manga}/{i}.png"))
+        except:
+            # apples fucking retarded DS_Store file
+            continue
 
 
     pdf_path = f"downloads/{manga}.pdf"
