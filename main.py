@@ -116,7 +116,7 @@ if __name__ == "__main__":
     if not os.path.exists("temp"):
         os.mkdir("temp")
     
-    if not os.path.exists("chromedriver.exe"):
+    if os.path.exists("chromedriver.exe"):
         os.remove("chromedriver.exe")
 
 
