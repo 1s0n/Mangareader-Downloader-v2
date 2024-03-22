@@ -1,6 +1,6 @@
 import os
 from PIL import Image
-import time
+#import time
 import shutil
 
 mangas = os.listdir("temp")

@@ -1,15 +1,14 @@
 # TODO: USE JS FUNCTION hozNextImage() to move pages, instead of using selenium to push buttons
 
 import base64
-import chromedriver_autoinstaller
+#import chromedriver_autoinstaller
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from utils import WaitTilAvaliable, FilterPath
 import downloader
-
-chromepath = chromedriver_autoinstaller.install()
+from typing import Callable
+#chromepath = chromedriver_autoinstaller.install()
 
 from time import sleep
 import fitz
@@ -19,9 +18,9 @@ import sys
 
 
 
-def download_volume(url, update_function=None):
+def download_volume(url: str, update_function: Callable=None) -> str:
 
-    # WARNING: Qality can be low, medium, high. This is put straight into the cookies so it might break if any other value is put in idk im not bothered to test it 
+    # WARNING: Quality can be low, medium, high. This is put straight into the cookies so it might break if any other value is put in idk im not bothered to test it 
     quality = "high"
 
     # DONT CHANGE THIS!
@@ -38,7 +37,7 @@ def download_volume(url, update_function=None):
     euconsent_v2_COOKIE = """CP4N9sAP4N9sAAZACBENAiEsAP_gAH_gAAAAg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkgFMRM2dYCF5vmYtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdQ58tDfn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQagCzDQqIA-wJCQi0HCKBACIKwgIoEAAAAJA0QEAJgwKdgYBLrCRACBFAAMEAIAAUZAAgAAAgAQiACQAoEAAEAgEAAAAAAgEABAwACgAsBAIAAQHQMUwoAFAsIEjMiIUwIQoEggJbKBBICgQVwgCLHACgERMFAAgAAAVgAAAsVgMQSAlQkECWEG0AABAAgFFKFQgk4MAAwJGy1A4Im0ZWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA.YAAAAAAAAAAA"""
     pubconsent_v2_COOKIE = """YAAAAAAAAAAA"""
 
-    chrome_options = Options()
+    chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--headless")
 
     driver = webdriver.Chrome(options=chrome_options)
@@ -106,8 +105,6 @@ def download_volume(url, update_function=None):
 
     downloader.DownloadVolume(driver, next_btn, rating_panel_path, title, next_button_path, update_function)
 
-    # input()
-
     if update_function:
         update_function(0, glob=True)
 
@@ -118,6 +115,10 @@ def download_volume(url, update_function=None):
 if __name__ == "__main__":
     if not os.path.exists("temp"):
         os.mkdir("temp")
+    
+    if not os.path.exists("chromedriver.exe"):
+        os.remove("chromedriver.exe")
+
 
 
     if len(sys.argv) > 1:
