@@ -6,7 +6,7 @@ from time import sleep
 import selenium
 import os
 
-valiad_check_chars = [b'`\x82', b'\xff\xd9', b"\x00\x00", b"ds"]
+valiad_check_chars = [b'`\x82', b'\xff\xd9', b"\x00\x00", b"ds", b"\xd9\x00"]
 
 def DownloadVolume(driver, next_btn, rating_panel_path, foldername, next_btn_path, update_function=None, download_pdf=False):
 
