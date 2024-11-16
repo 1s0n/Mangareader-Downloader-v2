@@ -1,20 +1,20 @@
 import base64
-import chromedriver_autoinstaller
+# import chromedriver_autoinstaller
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from utils import WaitTilAvaliable, FilterPath
 import downloader
-chromedriver_autoinstaller.install()
+# chromedriver_autoinstaller.install()
 
 from time import sleep
-import fitz
+# import fitz
 import os
 
 import sys
 
-def _DownloadVolume(url):
+def _DownloadVolume(url: str) -> None:
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     driver = webdriver.Chrome(options=chrome_options)
@@ -77,7 +77,7 @@ def _DownloadVolume(url):
     driver.quit()
 
 import threading
-def DownloadVolume(url):
+def DownloadVolume(url: str) -> None:
     t = threading.Thread(target=_DownloadVolume, args=(url,))
     t.start()
 

@@ -6,8 +6,8 @@ import requests
 import threading
 import os
 from PIL import Image
-import shutil
-
+from typing import Callable
+# import shutil
 # #en-volumes
 
 readurl = ""
@@ -22,7 +22,7 @@ if not os.path.exists("temp"):
 if not os.path.exists("downloads"):
     os.mkdir("downloads")
 
-def download_thread(url, startvol, endvol, updateFunction):
+def download_thread(url: str, startvol: int, endvol: int, updateFunction: Callable) -> None:
     for i in range(startvol, endvol + 1):
         manga = main.download_volume(url + str(i), updateFunction)
 
@@ -54,7 +54,7 @@ def download_thread(url, startvol, endvol, updateFunction):
 
     updateFunction(100)
 
-def download(start, end, controller, ):
+def download(start: str, end: int, controller) -> None:
     print(start, end)
     startvol = int(start.split(" ")[1])
     endvol = int(end.split(" ")[1])
@@ -69,7 +69,7 @@ def download(start, end, controller, ):
     
     pbcounter = 0
 
-    def updateFunction(value, glob=False):
+    def updateFunction(value, glob=False) -> None:
         nonlocal pbcounter
         if glob:
             if pb is not None:

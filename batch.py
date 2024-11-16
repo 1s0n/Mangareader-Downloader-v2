@@ -1,7 +1,9 @@
-import chromedriver_autoinstaller
+#import chromedriver_autoinstaller
 import main
+import os
 
-chromepath = chromedriver_autoinstaller.install()
+
+#chromepath = chromedriver_autoinstaller.install()
 
 if not os.path.exists("temp"):
     os.mkdir("temp")

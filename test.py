@@ -1,10 +1,10 @@
 import fitz
-import base64
+#import base64
 from utils import ElementExists
 from selenium.webdriver.common.by import By
 from time import sleep
-import selenium
-import os
+#import selenium
+#import os
 
 with open("2.pdf", "rb") as f:
     pdfdata = f.read()
